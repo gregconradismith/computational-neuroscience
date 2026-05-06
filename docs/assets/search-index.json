@@ -1,0 +1,1017 @@
+[
+  {
+    "title": "Projects",
+    "kind": "page",
+    "url": "pages/projects/",
+    "date": "2016-02-29",
+    "text": ""
+  },
+  {
+    "title": "Resources",
+    "kind": "page",
+    "url": "pages/resources/",
+    "date": "2016-03-02",
+    "text": "A bibliography of computational neuroscience books and monographs . The Uri Alon Lab Collection of Complex Networks Nature.com / Subject / Computational Neuroscience Ross Kirsling\u2019s Directed Graph Editor Special Issues of Journals Synthese Volume 153, Issue 3, December 2006. John Bickle, editor. This issue is the third annual special issue of Synthese dedicated to \u201cNeuroscience and its Philosophy.\u201d Volume 193,Issue 12, December 2016, Pages 3727-3985. Special Issue on Neuroscience and its Philosophy (2016), edited by Gualtiero Piccinini Volume 195, Issue 12, December 2018. Special Issue on Neuroscience and Its Philosophy (first 13 articles), edited by Gualtiero Piccinini Computational Neuroscience Courses http://courses.cs.washington.edu/courses/cse528/13sp/lectures.html http://rieke-server"
+  },
+  {
+    "title": "Content",
+    "kind": "page",
+    "url": "pages/content/",
+    "date": "2019-01-02",
+    "text": ""
+  },
+  {
+    "title": "Syllabus",
+    "kind": "page",
+    "url": "pages/syllabus/",
+    "date": "2019-01-02",
+    "text": "Computational Neuroscience (APSC 450) Spring 2025 ISC 0280 - Tuesday & Thursday - 2:00-3:20pm Greg Conradi Smith - Applied Science, Neuroscience & CAMS Biomathematics What is Computational Neuroscience? Computational Neuroscience has two facets: Development of realistic computational models of neural phenomena, and Understanding how nervous systems compute and process information. Our focus is this second facet: Computational neuroscience as the study of how nervous systems perform computations and process information . A major theme of this course will be the three levels of inquiry suggested by the visual neuroscientist David Marr : Computational : What computations does the central nervous system perform and why? Algorithmic : What representations and procedures are used in the neural c"
+  },
+  {
+    "title": "Books",
+    "kind": "page",
+    "url": "pages/books-on-computational-neuroscience/",
+    "date": "2019-01-02",
+    "text": "Abraham , T., 2016. Rebel Genius: Warren S. McCulloch's Transdisciplinary Life in Science . MIT Press. [ Amazon ] Anderson , James A. and Edward Rosenfeld, eds. Talking nets: An oral history of neural networks. MiT Press , 2000. [Amazon] [SWEM] [EBSCO] Arbib , M.A. and Bonaiuto , J.J. eds., 2016. From neuron to cognition via computational neuroscience . pp.0-25. MIT Press. [ Amazon ] Auxier , Randall E., Anderson , Douglas R., and Hahn , Lewis Edwin, eds. The Philosophy of Hilary Putnam. Open Court, 2015. [ Amazon ] [SWEM] Ballard , Dana H. An Introduction to Natural Computation. MIT Press , 1999. [Amazon] [SWEM] [EBSCO] Ballard , Dana H. Brain Computation as Hierarchical Abstraction. MIT Press , 2015. [Amazon] [SWEM] [ProQuestEBookCentral] Bhaskar , R., 2014. The possibility of naturalism"
+  },
+  {
+    "title": "Neural Computations",
+    "kind": "page",
+    "url": "pages/neural-integrators/",
+    "date": "2019-01-03",
+    "text": ""
+  },
+  {
+    "title": "The message and the meaning of the message",
+    "kind": "page",
+    "url": "pages/the-message-and-the-meaning-of-the-message/",
+    "date": "2019-01-03",
+    "text": "The following material is drawn from the appendix of More Data, More Noise: A celebration of the 60th birthday of Jerome Y. Lettvin. In 1973, Jerry recorded an Interactive Lecture entitled \"A View on the Function of a Neuron.'' It is an introduction to neurophysiology which at the same time gets right into the issues of the mind-brain problem. Jerry answers 31 questions in connection with the lecture. The following two answers, from toward the end of the lecture, seem to me to be especially memorable and inspiring. [The author of More Data, More Noise transcribed in a way that allowed others to hear Jerome Lettvin's voice. I have edited - sometimes paraphrased - Lettvin's answers.] What are the principal difficulties in doing nervous system experiments? The principal difficulty in doing ne"
+  },
+  {
+    "title": "Marr's three levels of inquiry",
+    "kind": "page",
+    "url": "pages/marrs-three-levels-of-inquiry/",
+    "date": "2019-01-04",
+    "text": "Assignment Watch \"How can we study the human mind and brain: Marr's levels of analysis\" by Nancy Kanwisher. 1.2 - How Can We Study the Human Mind and Brain? Marr\u2019s Level\u2019s of Analysis https://youtu.be/Di_3pGAveGs Read the General Introduction (pp. 1-7) [ PDF ] and Chapter 1 The Philosophy and the Approach (pp. 24-38) [PDF] of Vision: A Computational Investigation into the Human Representation and Processing of Visual Information by David Marr. MIT Press, 2010. You have access to the entire e-book via [SWEM] . Read through this blog page. Answer the Writing Prompts (below). Print out your responses to these Questions for Discussion and bring to class; these will be collected. Levels of inquiry in computational neuroscience In order to understand a device that performs an information-process"
+  },
+  {
+    "title": "Philosophy and our mental life",
+    "kind": "page",
+    "url": "pages/materialism-and-mechanism/",
+    "date": "2019-01-04",
+    "text": "Overview Neuroscientists presume - and rightly so! - that brain function does not violate the laws of nature. We take it for granted that our mental functioning is dependent upon -- it is subserved by -- aspects of the natural world that are studied in the sciences of neurophysiology, chemistry, and physics. Similarly, the computation performed by modern digital computers does not violate the laws of nature. But the belief (perhaps tautology?) that the laws of nature apply to complex systems, and even living systems, does not inevitably lead to a reductionist view of mentality. At least, that is my view. Functional isomorphism is a key concept in the philosophy of mind that was inherited during the \" cybernetics moment \" when neuroscience was in its infancy. In \"Philosphy and our mental li"
+  },
+  {
+    "title": "Foundations",
+    "kind": "page",
+    "url": "pages/foundations/",
+    "date": "2019-01-04",
+    "text": ""
+  },
+  {
+    "title": "Neural integrators (e.g., the vestibulo-ocular reflex and head direction cells)",
+    "kind": "page",
+    "url": "pages/oculomotor-system/",
+    "date": "2019-01-04",
+    "text": "Preparation for class Thursday, February 13 Read pp. 165-172 of Goldman, Compte, and Wang (2009). Neural Integrator Models. This reading discusses neural integrators more generally. Focus on understanding Figures 1-5. Preparation for class Tuesday, February 18 Read pp. 376-385 of Baer, Connors, and Paradiso (The Auditory and Vestibular Systems). [PDF] Read pp. 33-38, 42-44 of Robinson (1989). Integrating with neurons. Annu Rev Neurosci. 12:33-45. The page range indicates that you may skip the Models of Neural Integrators section, which we talked about already. Overview The introduction of Robinson 1989 discusses integration in control systems and the expectation (of bioengineers entering the field of neuroscience) that neural integrators and/or negative feedback would be found in the neura"
+  },
+  {
+    "title": "Information, representation, and physical computation",
+    "kind": "page",
+    "url": "pages/information-and-physical-computation/",
+    "date": "2019-01-05",
+    "text": "Assignment Read Piccinini & Shagrir (2014). Foundations of computational neuroscience. Current Opinion in Neurobiology, 25, 25\u201330. [PDF] There is no writing assignment on Blackboard, but the questions that appear throughout this page should help you prepare for class discussion. Summary The reading reiterates much of what we have discussed to date, but goes into more detail on the concepts of information and physical computation . Piccinini and Shagrir repeatedly use neural integration by the oculomotor system as an example. We will discuss \"neural integrators\" next week. For now, let's ask ourselves the following. What is information? information | \u02ccinf\u0259r\u02c8m\u0101SH(\u0259)n | as defined in the Oxford English Dictionary noun 1 facts provided or learned about something or someone: a vital piece of in"
+  },
+  {
+    "title": "_ Braitenberg's vehicles",
+    "kind": "page",
+    "url": "pages/_-template/",
+    "date": "2019-01-06",
+    "text": "Preparation for this class Read ... Braitenberg , Valentino 1986. Vehicles: Experiments in Synthetic Psychology. A Bradford Book. [Amazon] [ SWEM ] Summary Response Further reading"
+  },
+  {
+    "title": "The recent excitement about neural networks",
+    "kind": "page",
+    "url": "pages/therecentexcitmentaboutneuralnetworks/",
+    "date": "2019-01-06",
+    "text": "Assignment Watch \" But what is a neural network? \" and \" Gradient descent: how neural networks learn \" and \" Backpropagation: Step by Step \" (20 mins each). Read and annotate this classic commentary by Francis Crick entitled \" The recent excitement about neural networks . \" Write out three or more salient quotes from the paper and provide a worthy response (e.g., an astute observation, nuanced critique, or thought-provoking question). Upload your work to Bb as Assignment #3. Bring a copy of your quotes and responses to class and be prepared to share your thoughts. https://youtu.be/aircAruvnKk https://youtu.be/IHZwWFHWa-w https://youtu.be/Ilg3gGewQ5U Going deeper - optional reading/watching As a response to our discussion of the amphibian retina and feature detectors , read Genealogy of the"
+  },
+  {
+    "title": "To Be Placed",
+    "kind": "page",
+    "url": "pages/to-be-placed/",
+    "date": "2019-01-06",
+    "text": ""
+  },
+  {
+    "title": "Temporal information processing (e.g., interaural time difference coding and sound localization)",
+    "kind": "page",
+    "url": "pages/iteraural-time-difference-coding-and-sound-localization/",
+    "date": "2019-01-07",
+    "text": "Overview The mammalian medial superior olive (MSO) and the bird nucleus laminaris extract interaural time differences (ITDs) for sound localization. The Jeffress model posits a delay line and coincidence detector mechanism for this neural computation, as illustrated in the following animation and the video below. https://youtu.be/yza-hpIubxQ Preparation for class Read pp. 363-372 of Baer, Connors, and Paradiso (The Auditory and Vestibular Systems). [PDF] Read Carr, C.E., 1993. Processing of temporal information in the brain. Annual review of neuroscience, 16(1), pp.223-243. This review discusses studies of neural coding of temporal information in the neuroethological context of weakly electric fish, barn owls, and echolocating bats. The circuits considered achieve their function using dela"
+  },
+  {
+    "title": "Local",
+    "kind": "page",
+    "url": "pages/local/",
+    "date": "2019-01-07",
+    "text": ""
+  },
+  {
+    "title": "Object Recognition",
+    "kind": "page",
+    "url": "pages/_-template-2/",
+    "date": "2019-01-07",
+    "text": "Preparation for this class Read and annotate a review article How does the brain solve visual object recognition? [Perusall] written by DiCarlo et al. Neuron , 73 (3), pp.415-434, 2012 [Cell Press] . The assignment - due Thursday at 9am - is focused on the first half of the article (Introduction, Sections 1 and 2, i.e., pp. 415-422) and the Conclusion. Using the Perusall system, make at least 5 worthy comments on the paper and/or contributions to the peer-to-peer discussion. Further reading Riesenhuber, M. and Poggio, T., 1999. Hierarchical models of object recognition in cortex. Nature neuroscience , 2 (11), p.1019. Riesenhuber, M. and Poggio, T., 2002. Neural mechanisms of object recognition. Current opinion in neurobiology , 12 (2), pp.162-168. Walther, D.B. and Koch, C., 2007. Attentio"
+  },
+  {
+    "title": "_ Unsolved mystery of vision",
+    "kind": "page",
+    "url": "pages/_-short-unsolved-mystery-of-vision/",
+    "date": "2019-01-07",
+    "text": "Preparation for this class Read ... Masland, R.H. and Martin, P.R., 2007. The unsolved mystery of vision. Current Biology , 17 (15), pp.R577-R582. Summary Response Further reading Masland, R.H., 2001. Neuronal diversity in the retina. Current opinion in neurobiology , 11 (4), pp.431-436. Hendry, S.H. and Calkins, D.J., 1998. Neuronal chemistry and functional organization in the primate visual system. Trends in neurosciences , 21 (8), pp.344-349."
+  },
+  {
+    "title": "_ Working memory",
+    "kind": "page",
+    "url": "pages/_-working-memory/",
+    "date": "2019-01-07",
+    "text": "Preparation for this class Read ... Durstewitz, D., Seamans, J.K. and Sejnowski, T.J., 2000. Neurocomputational models of working memory. Nature neuroscience , 3 (11s), p.1184. Wang, X.J., 2001. Synaptic reverberation underlying mnemonic persistent activity. Trends in neurosciences , 24 (8), pp.455-463. Durstewitz, D. and Seamans, J.K., 2006. Beyond bistability: biophysics and temporal dynamics of working memory. Neuroscience , 139 (1), pp.119-133. Dipoppa, M. and Gutkin, B.S., 2013. Flexible frequency control of cortical oscillations enables computations required for working memory. Proceedings of the National Academy of Sciences , 110 (31), pp.12828-12833. Lisman, J.E., Fellous, J.M. and Wang, X.J., 1998. A role for NMDA-receptor channels in working memory. Nature neuroscience , 1 (4), p"
+  },
+  {
+    "title": "Neural networks",
+    "kind": "page",
+    "url": "pages/neural-networks/",
+    "date": "2019-01-07",
+    "text": ""
+  },
+  {
+    "title": "_ Sparse Representation",
+    "kind": "page",
+    "url": "pages/_-sparse-representation/",
+    "date": "2019-01-07",
+    "text": "Preparation for this class Read ... Babadi, B. and Sompolinsky, H., 2014. Sparseness and expansion in sensory representations. Neuron , 83 (5), pp.1213-1226. Olshausen, B.A. and Field, D.J., 2004. Sparse coding of sensory inputs. Current opinion in neurobiology , 14 (4), pp.481-487. Summary Response Further reading Ganguli, S. and Sompolinsky, H., 2012. Compressed sensing, sparsity, and dimensionality in neuronal information processing and data analysis. Annual review of neuroscience , 35 , pp.485-508. Gervain, J. and Geffen, M.N., 2018. Efficient Neural Coding in Auditory and Speech Perception. Trends in neurosciences ."
+  },
+  {
+    "title": "_ Spikes vs. Rates",
+    "kind": "page",
+    "url": "pages/_-spikes-vs-rates/",
+    "date": "2019-01-07",
+    "text": "Preparation for this class Read ... Mainen, Z.F. and Sejnowski, T.J., 1995. Reliability of spike timing in neocortical neurons. Science , 268 (5216), pp.1503-1506. Brette, R., 2015. Philosophy of the spike: rate-based vs. spike-based theories of the brain. Frontiers in systems neuroscience , 9 , p.151. Tiesinga, P., Fellous, J.M. and Sejnowski, T.J., 2008. Regulation of spike timing in visual cortical circuits. Nature reviews neuroscience , 9 (2), p.97. Summary Response Further reading Butts, D.A., Weng, C., Jin, J., Yeh, C.I., Lesica, N.A., Alonso, J.M. and Stanley, G.B., 2007. Temporal precision in the neural code and the timescales of natural vision. Nature , 449 (7158), p.92."
+  },
+  {
+    "title": "Hebbian synapses and spike-timing-dependent plasticity",
+    "kind": "page",
+    "url": "pages/_-spike-timing-dependent-plasticity/",
+    "date": "2019-01-07",
+    "text": "Assignment Watch the short video on Synaptic Plasticity (see below). Read this 1-page viewpoint on the \"basic computational unit\" of the brain. Zador, A. M. (2000). The basic unit of computation. Nature neuroscience , 3 (11), 1167-1167. [PDF] Our main reading is \"Hebbian Learning and Plasticity\" by Wulfram Gerstner . The mathematical formulation of Hebbian plasticity in terms of correlation of pre- and post-synaptic firing rates begins in Section 6.2.3 (p. 203). In a history of neuroscience article, H. Sebastian Seung wrote \"In 1949, Donald Hebb predicted a form of synaptic plasticity driven by temporal contiguity of pre- and postsynaptic activity. This prediction was verified decades later with the discovery of long-term potentiation, securing Hebb\u2019s place in the scientific pantheon.\" Let"
+  },
+  {
+    "title": "Learning",
+    "kind": "page",
+    "url": "pages/learning/",
+    "date": "2019-01-07",
+    "text": ""
+  },
+  {
+    "title": "_ Reinforcement learning",
+    "kind": "page",
+    "url": "pages/_-reinforcement-learning/",
+    "date": "2019-01-07",
+    "text": "Preparation for this class Read ... Montague, P.R., Hyman, S.E. and Cohen, J.D., 2004. Computational roles for dopamine in behavioural control. Nature , 431 (7010), p.760. Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A.A., Veness, J., Bellemare, M.G., Graves, A., Riedmiller, M., Fidjeland, A.K., Ostrovski, G. and Petersen, S., 2015. Human-level control through deep reinforcement learning. Nature , 518 (7540), p.529. Temporal difference learning. Notes on Reinforcement Learning (Greg Conradi Smith and Maggie Sullivan) Overleaf Summary Response Further reading"
+  },
+  {
+    "title": "_ Computational psychiatry",
+    "kind": "page",
+    "url": "pages/_-computational-psychiatry/",
+    "date": "2019-01-07",
+    "text": "Preparation for this class Read ... Hauser, T.U., Fiore, V.G., Moutoussis, M. and Dolan, R.J., 2016. Computational psychiatry of ADHD: neural gain impairments across Marrian levels of analysis. Trends in neurosciences , 39 (2), pp.63-73. Summary Response Further reading"
+  },
+  {
+    "title": "_ Conclusion : the challenge of understanding the brain",
+    "kind": "page",
+    "url": "pages/_-conclusion-the-challenge-of-understanding-the-brain/",
+    "date": "2019-01-07",
+    "text": "Preparation for this class Read ... Lisman, J., 2015. The challenge of understanding the brain: where we stand in 2015. Neuron , 86 (4), pp.864-882. Eliasmith, C. and Trujillo, O., 2014. The use and abuse of large-scale brain models. Current opinion in neurobiology , 25 , pp.1-6. Summary Response Further reading Albright, T.D., Jessell, T.M., Kandel, E.R. and Posner, M.I., 2000. Neural science: a century of progress and the mysteries that remain. Neuron 25. S1\u2013S55 ."
+  },
+  {
+    "title": "Language is not learned - linguistics turned computational with Chomsky",
+    "kind": "page",
+    "url": "pages/_-chomsky/",
+    "date": "2019-01-07",
+    "text": "The dispute between rationalism and empiricism concerns the extent to which we are dependent upon sense experience in our effort to gain knowledge. Rationalists claim that there are significant ways in which our concepts and knowledge are gained independently of sense experience. Empiricists claim that sense experience is the ultimate source of all our concepts and knowledge. Stanford Encyclopedia of Philosophy Linguistics turned computational with Chomsky. He tried to formulate a mathematical definition of language as such: a \u2018\u2018computational\u2019\u2019 account, in the abstract sense later stressed by David Marr. His work, including a pioneering paper on computer languages, encouraged others to persevere with, or to embark on, the computer modelling of language. But he himself didn\u2019t join them. He "
+  },
+  {
+    "title": "History of AI and story understanding",
+    "kind": "page",
+    "url": "pages/future-of-ai/",
+    "date": "2019-01-07",
+    "text": "Preparation Watch this video on Artificial Intelligence in the 1960s (4 min). https://youtu.be/aygSMgK3BEM And this one on the early history of Artificial Intelligence (5 min). https://youtu.be/8_fOmPzzm-o Read this viewpoint article by AI leader Patrick Henry Winston ..OR.. Watch his talk about story understanding (60 min). Winston, P.H., 2012. The next 50 years: a personal view. Biologically Inspired Cognitive Architectures , 1 , pp.92-99. [PDF] https://youtu.be/7XvgBI2KV28 Further reading and watching Patrick Henry Winston's homepage. and a webpage describing the Genesis system . The MIT computer science course on AI . This webpage by Dylan Holmes has numerous demonstrations of Artificial Intelligence methodology. Alison Gopnik , author of The Philosophical Baby - This is the most inter"
+  },
+  {
+    "title": "_  Cortical microcircuits",
+    "kind": "page",
+    "url": "pages/_-cortical-microcircuits/",
+    "date": "2019-01-07",
+    "text": "Preparation for this class Read ... Shepherd, G.M., 1978. Microcircuits in the nervous system. Scientific American , 238 (2), pp.92-103. Sch\u00fcz, A. and Wullimann, R.M., 2001. What can the cerebral cortex do better than other parts of the brain? In Brain evolution and cognition (pp. 491-500). Grillner, S., Markram, H., De Schutter, E., Silberberg, G. and LeBeau, F.E., 2005. Microcircuits in action\u2013from CPGs to neocortex. Trends in neurosciences , 28 (10), pp.525-533. Summary Response Further reading"
+  },
+  {
+    "title": "_  Bursting in sensory systems",
+    "kind": "page",
+    "url": "pages/_-bursting-in-sensory-systems/",
+    "date": "2019-01-07",
+    "text": "Preparation for this class Read ... Krahe, R. and Gabbiani, F., 2004. Burst firing in sensory systems. Nature Reviews Neuroscience , 5 (1), p.13. Summary Response Further reading"
+  },
+  {
+    "title": "Theory of mind",
+    "kind": "page",
+    "url": "pages/theory-of-mind/",
+    "date": "2019-01-07",
+    "text": "Materials for class discussion are below. You do not need to read/watch anything before class. \"Mind Reading: Human Origins and Theory of Mind\" by Juliane Kaminski https://youtu.be/8U8zoPQpVbw Discussion The Heider-Simmel illusion Tell the story of the movie in a few sentences. https://youtu.be/SQaClCbXyFE From: Heider, F., & Simmel, M. (1944) An experimental study in apparent behavior. The American Journal of Psychology , 57, 243-259. Kaminski, 2017. Reading Other Minds . In: Shepherd, S.V. (2017) The Wiley Handbook of Evolutionary Neuroscience. John Wiley & Sons, Ltd. (pp. 514-525; Chapter 19) [SWEM] [PDF] This is a 10 page book chapter. ToM and literacy Dore, R. A., Amendum, S. J., Golinkoff, R. M., & Hirsh-Pasek, K. (2018). Theory of mind: A hidden factor in reading comprehension?. Edu"
+  },
+  {
+    "title": "What's it like to be a bat?",
+    "kind": "page",
+    "url": "pages/_-whats-it-like-to-be-a-bat/",
+    "date": "2019-01-07",
+    "text": "Without consciousness the mind-body problem would be much less interesting. With consciousness it seems hopeless. ---Thomas Nagel Preparation Required reading: Nagel, T., 1974. What is it like to be a bat?. The philosophical review, 83(4), pp.435-450. (90 mins). If you find this reading difficult to understand, please watch the video Tips For Reading Philosophy by Ellie Anderson (15 min). Overview Nagel's essay is concerned with the many \"implausible accounts of the mental\" that, in his opinion, side-step phenomenological aspects of subjective experience. Consciousness is what makes the mind-body problem really intractable. Perhaps that is why current discussions of the problem give it little attention or get it obviously wrong. The recent wave of reductionist euphoria has produced several"
+  },
+  {
+    "title": "_  Poetry of science",
+    "kind": "page",
+    "url": "pages/_-poetry-of-science/",
+    "date": "2019-01-07",
+    "text": "Preparation for this class Read ... H. Abraham, T., 2012. \u2018The Materials of Science, the Ideas of Science, and the Poetry of Science\u2019: Warren McCulloch and Jerry Lettvin. Interdisciplinary Science Reviews , 37 (3), pp.269-286. Summary Response Further reading"
+  },
+  {
+    "title": "_  Deep learning",
+    "kind": "page",
+    "url": "pages/_-deep-learning/",
+    "date": "2019-01-07",
+    "text": "Preparation for this class Read ... Guo, Y., Liu, Y., Oerlemans, A., Lao, S., Wu, S. and Lew, M.S., 2016. Deep learning for visual understanding: A review. Neurocomputing , 187 , pp.27-48. Summary Response Further reading"
+  },
+  {
+    "title": "_  Consciousness",
+    "kind": "page",
+    "url": "pages/_-consciousness/",
+    "date": "2019-01-08",
+    "text": "Preparation for this class Read ... Levine, J., 1983. Materialism and qualia: The explanatory gap. Pacific philosophical quarterly , 64 (4), pp.354-361. Pennartz, Cyriel M. A.. The Brain's Representational Power : On Consciousness and the Integration of Modalities, MIT Press, 2015. [ProQuestEbookCentral] The approach I chose for this book is, first, to isolate brain systems and physiological processes that can be selectively associated with consciousness. Based on neurological and other neuroscientific findings, this will next lead us to examine the neural basis of representations in the brain, particularly those in the sensory domain. I will argue that not just any type of neural activity pattern is sufficient to generate the sort of sensory representation we can associate with consciousn"
+  },
+  {
+    "title": "_  Dendritic computation",
+    "kind": "page",
+    "url": "pages/_-dendritic-computation/",
+    "date": "2019-01-08",
+    "text": "Preparation for this class Read ... Stuart, G.J. and Spruston, N., 2015. Dendritic integration: 60 years of progress. Nature Neuroscience , 18 (12), p.1713. Summary Response Further reading"
+  },
+  {
+    "title": "_  Semiotics",
+    "kind": "page",
+    "url": "pages/_-semiotics/",
+    "date": "2019-01-08",
+    "text": "Preparation for this class Read ... Grush, R., 2001. The semantic challenge to computational neuroscience. Theory and Method in the Neurosciences , pp.155-172. Semiotics is the \"study of signs.\" A sign is traditionally defined as \"something which stands for something else.\" ... All meaningful phenomena (including words and images) are signs. To interpret something is to treat it as a sign. All experience is mediated by signs, and communication depends on them. Semioticians study how meanings are made and how reality is represented (and indeed constructed) through signs and sign systems. (Chandler 2007. Semiotics: the basics . p. 2) Exploring semiotic perspectives helps us to realize that information or meaning is not \"contained\" in the world, or in books, computers, or other media. Meaning"
+  },
+  {
+    "title": "Synaptic Learning Rules - Cerebellum",
+    "kind": "page",
+    "url": "pages/_-cerebellum/",
+    "date": "2019-01-08",
+    "text": "Preparation for this class https://youtu.be/1Gjtg9o19R0 Synaptic Learning Rules Tuned to Functional Requirements Read ... https://www.simonsfoundation.org/2018/10/18/beyond-movement-first-direct-evidence-to-support-thinking-in-the-cerebellum/ Apps, R. and Garwicz, M., 2005. Anatomical and physiological foundations of cerebellar information processing. Nature Reviews Neuroscience , 6 (4), p.297. [PDF] Summary Response Further reading https://youtu.be/17mxfO9nklQ"
+  },
+  {
+    "title": "Spring 2019 Roster",
+    "kind": "page",
+    "url": "pages/roster/",
+    "date": "2019-01-09",
+    "text": "[caption id=\"attachment_1487\" align=\"aligncenter\" width=\"225\"] Agrios, Mark[/caption] [caption id=\"attachment_1490\" align=\"aligncenter\" width=\"243\"] Branham, Kendall R.[/caption] [caption id=\"attachment_1491\" align=\"aligncenter\" width=\"300\"] Eckel, Peter S.[/caption] [caption id=\"attachment_1492\" align=\"aligncenter\" width=\"237\"] Gonzalez, Savannah L. [/caption] [caption id=\"attachment_1783\" align=\"aligncenter\" width=\"299\"] Jindal, Sonia[/caption] [caption id=\"attachment_1493\" align=\"aligncenter\" width=\"272\"] LaGamma, Nicolas P. [/caption] [caption id=\"attachment_1784\" align=\"aligncenter\" width=\"254\"] Lo, LeAnn[/caption] [caption id=\"attachment_1494\" align=\"aligncenter\" width=\"294\"] Ma, Xingru[/caption] [caption id=\"attachment_1495\" align=\"aligncenter\" width=\"301\"] Naji, Shakir[/caption] [c"
+  },
+  {
+    "title": "Readings",
+    "kind": "page",
+    "url": "pages/readings/",
+    "date": "2019-01-09",
+    "text": "Do not distribute beyond W&M. Abbott, L.F. and Nelson, S.B., 2000. Synaptic plasticity: taming the beast. Nature neuroscience , 3 (11s), p.1178. [PDF] Abbott, L.F. and Regehr, W.G., 2004. Synaptic computation. Nature , 431 (7010), p.796. [PDF] H. Abraham, T., 2012. \u2018The Materials of Science, the Ideas of Science, and the Poetry of Science\u2019: Warren McCulloch and Jerry Lettvin. Interdisciplinary Science Reviews , 37 (3), pp.269-286. [PDF] Abraham, T., 2016. Rebel Genius: Warren S. McCulloch's Transdisciplinary Life in Science . MIT Press. [ Amazon ] Ache, B.W., Hein, A.M., Bobkov, Y.V. and Principe, J.C., 2016. Smelling time: A neural basis for olfactory scene analysis. Trends in neurosciences, 39(10), pp.649-655. [PDF] Albright, T.D., Jessell, T.M., Kandel, E.R. and Posner, M.I., 2000. Neur"
+  },
+  {
+    "title": "Other",
+    "kind": "page",
+    "url": "pages/other/",
+    "date": "2019-01-09",
+    "text": "A bibliography of computational neuroscience books and monographs . The Uri Alon Lab Collection of Complex Networks Nature.com / Subject / Computational Neuroscience Ross Kirsling\u2019s Directed Graph Editor Special Issues of Journals Synthese Volume 153, Issue 3, December 2006. John Bickle, editor. This issue is the third annual special issue of Synthese dedicated to \u201cNeuroscience and its Philosophy.\u201d Volume 193,Issue 12, December 2016, Pages 3727-3985. Special Issue on Neuroscience and its Philosophy (2016), edited by Gualtiero Piccinini Volume 195, Issue 12, December 2018. Special Issue on Neuroscience and Its Philosophy (first 13 articles), edited by Gualtiero Piccinini Computational Neuroscience Courses http://courses.cs.washington.edu/courses/cse528/13sp/lectures.html http://rieke-server"
+  },
+  {
+    "title": "_ Neural fields",
+    "kind": "page",
+    "url": "pages/_-neural-fields/",
+    "date": "2019-01-10",
+    "text": "Preparation for this class Read ... Coombes, S., beim Graben, P. and Potthast, R., 2014. Tutorial on neural field theory. In Neural fields (pp. 1-43). Springer, Berlin, Heidelberg. Summary Response Further reading"
+  },
+  {
+    "title": "Example Term Projects",
+    "kind": "page",
+    "url": "pages/projects-2/",
+    "date": "2019-01-10",
+    "text": "Coding Pain by Erin Lottes (Spring 2018) https://youtu.be/ym344Ab7MDE Erin: I used a Corel Studio Video free trial, Corel painter studio, and a Wacom drawing tablet that I already owned. I drew my illustrations in painter studio and recorded using the video software. You could do the same thing with MS paint and a regular mouse. The library also has some great resources in the media center and on their Macs, so I\u2019d check those out too if you\u2019re looking for some higher tech software. As for the voice recording, I just recorded it on my phone and then added it in the video software. Mirror Neurons by Carrie Gudenkauf (Spring 2018) https://youtu.be/nHEJfjR0BH0 Carrie: I didn't have any experience with animation before I made this project, so I'm sure there's a more efficient way than what I e"
+  },
+  {
+    "title": "ADA Accommodation",
+    "kind": "page",
+    "url": "pages/ada-accommadation/",
+    "date": "2019-01-11",
+    "text": "William & Mary accommodates students with disabilities in accordance with federal laws and university policy. Any student who feels they may need an accommodation based on the impact of a learning, psychiatric, physical, or chronic health diagnosis should contact Student Accessibility Services staff at 757-221-2512 or at sas@wm.edu to determine if accommodations are warranted and to obtain an official letter of accommodation. For more information, please see www.wm.edu/sas ."
+  },
+  {
+    "title": "Grading scheme",
+    "kind": "page",
+    "url": "pages/grading-scheme/",
+    "date": "2019-01-11",
+    "text": "The grading scheme is A = 94.0-100, A- = 90.0-93.9, B+ = 87.0-89.9, B = 84.0-86.9, and so on."
+  },
+  {
+    "title": "Calendar",
+    "kind": "page",
+    "url": "pages/calendar/",
+    "date": "2019-01-15",
+    "text": "Thursday January 17 First Day of Classes A kind of impalpability to this whole business Tuesday January 22 What's It Like to Be a Bat? Thursday January 24 No Class Tuesday January 29 Philosophy and Our Mental Life Thursday January 31 Marr's Three Levels of Inquiry Tuesday February 5 Marr's Computational Vision Thursday February 7 Information and Physical Computation Tuesday February 12 Neural integrators (e.g.,VOR and head direction) Thursday February 14 Line attractor networks Tuesday February 19 Temporal information processing (e.g., interaural time difference coding and sound localization) Thursday February 21 Evolutionary trends in directional hearing Tuesday February 26 How the brain solves object recognition Thursday February 28 Neural Networks and Grandmother Cells Tuesday March 5 S"
+  },
+  {
+    "title": "_ Random Scraps",
+    "kind": "page",
+    "url": "pages/_-random/",
+    "date": "2019-01-15",
+    "text": "Writing prompt (200-400 words): How is the answer to the philosophical/theological question Are we just material beings, or something more? related to (constrained by?) the scientific answer to Is Your Brain a Computer? Come to the next class prepared to share what you have written in your notebook. Jerry Lettvin's thinking was once described -- I think by Marvin Minsky -- as \"a fascinating combination of brilliance and bullshit.\" After reading Lettvin's lecture transcript, what strikes you as particularly relevant to our contemporary study of nervous system information processing? Is there anything that strikes you as particularly brilliant or particularly confused? The most popular materialist view nowadays is functionalism.... Rather than identifying mental states with types of physical"
+  },
+  {
+    "title": "En-Soi and Pour-Soi",
+    "kind": "page",
+    "url": "pages/en-soi-and-pour-soi/",
+    "date": "2019-01-16",
+    "text": "En-Soi (being-in-itself, objective) vs. Pour-Soi (being-for-itself, subjective) Sartre defines two types, or ways, of being: en-soi, or being-in-itself, and pour-soi, or being-for-itself. He uses the first of these, en-soi, to describe things that have a definable and complete essence yet are not conscious of themselves or their essential completeness. Trees, rocks, and birds, for example, fall into this category. Sartre uses pour-soi to describe human beings, who are defined by their possession of consciousness and, more specifically, by their consciousness of their own existence\u2014and, as Sartre writes, by their consciousness of lacking the complete, definable essence of the en-soi. This state of being-for-itself is not just defined by self-consciousness\u2014it would not exist without that con"
+  },
+  {
+    "title": "Neuroscience, Story and Reading",
+    "kind": "page",
+    "url": "pages/neuroscience-story-and-reading/",
+    "date": "2019-01-17",
+    "text": "Reading List How Literature Plays with the Brain: The Neuroscience of Reading and Art by Paul B. Armstrong [Amazon] [SWEM] Proust and the Squid: The Story and Science of the Reading Brain by Maryanne Wolf [Amazon] [SWEM] Storytelling and the Sciences of Mind by David Herman [Amazon] [SWEM] The Cambridge Introduction to Narrative by H. Porter Abbott [Amazon] [SWEM] The Mind on Paper: Reading, Consciousness and Rationality by David R. Olson [Amazon] [not @ SWEM]"
+  },
+  {
+    "title": "Basal ganglia and action selection",
+    "kind": "page",
+    "url": "pages/_-basal-ganglia-and-action-selection/",
+    "date": "2019-01-18",
+    "text": "Preparation for this class Close reading Grillner, S., Robertson, B., & Stephenson\u2010Jones, M. (2013). The evolutionary origin of the vertebrate basal ganglia and its role in action selection. The Journal of physiology, 591(22), 5425-5431. [PDF] Grillner, S., & Robertson, B. (2016). The basal ganglia over 500 million years. Current Biology, 26(20), R1088-R1100. [PDF] Summary Response Further reading A Tale of Two Brain Regions: Population-level Analysis Reveals Differences Not Evident in Single Cells"
+  },
+  {
+    "title": "Books",
+    "kind": "page",
+    "url": "pages/book-review/",
+    "date": "2019-02-01",
+    "text": "Two Amazon \"ideas lists\" for further readings on computational neuroscience: Academic computational neuroscience textbooks and monographs. General interest books related to the course: computational neuroscience, theory of mind, neuroethology, artificial intelligence, etc."
+  },
+  {
+    "title": "Line attractor networks (or how the brain keeps the eyes still)",
+    "kind": "page",
+    "url": "pages/how-the-brain-keeps-the-eyes-still/",
+    "date": "2019-02-08",
+    "text": "Preparation Read Seung, H.S., 1996. How the brain keeps the eyes still. PNAS 93 (23):13339-13344. Overview The brain can hold the eyes still because it stores a memory of eye position. The brain's memory of horizontal eye position is stored by persistent neural activity in a network known as the \"neural integrator,\" which is located in the brainstem and cerebellum. The observed persistent patterns of activity can be interpreted from the perspective of dynamical systems as an attractive line of fixed points in the neural integrator's state space. [Sebastian Seung, 1996; paraphrased] Horizontal eye position is controlled by two extra ocular eye muscles (lateral and medial recti) that are innervated by motor neurons in the abducens and oculomotor nuclei, respectively. Motor nuclei \"read out\" "
+  },
+  {
+    "title": "Evolutionary trends in directional hearing",
+    "kind": "page",
+    "url": "pages/evolutionary-trends-in-directional-hearing/",
+    "date": "2019-02-19",
+    "text": "Optional further reading The comparative approach that we have discussed in class is exemplified by this review article: Carr, C.E. and Christensen-Dalsgaard, J., 2016. Evolutionary trends in directional hearing. Current opinion in neurobiology , 40 , pp.111-117. Overview Interaural time differences (ITDs) are an important cue for the localization of sounds in azimuthal space. Both birds and mammals have specialized, tonotopically organized nuclei in the brain stem for the processing of ITD: medial superior olive in mammals and nucleus laminaris (NL) in birds. The specific way in which ITDs are derived was long assumed to conform to a delay-line model in which arrays of systematically arranged cells create a representation of auditory space with different cells responding maximally to spec"
+  },
+  {
+    "title": "Projects",
+    "kind": "page",
+    "url": "pages/projects-3/",
+    "date": "2019-02-21",
+    "text": ""
+  },
+  {
+    "title": "Spring 2020 Final Project Statement",
+    "kind": "page",
+    "url": "pages/final-project-tbd/",
+    "date": "2019-02-21",
+    "text": "The term project will involve independent library research and deep intellectual engagement with computational neuroscience topic of interest to you. As a deliverable that demonstrates your learning, you might wish to construct a blog page that introduces the other students to your topic, much like those used in this course. This blog page would include significant quotations, thought provoking questions, a close reading assignment, and material for student preparation, response, and further reading. Other possible deliverables include: a written 8-10 page report on your chosen topic, an in-depth podcast on your topic, software that demonstrates a concept from computational neuroscience, or .... the sky is the limit. Regardless of your choice of topic and deliverable, the guiding principle"
+  },
+  {
+    "title": "Movies",
+    "kind": "page",
+    "url": "pages/movies/",
+    "date": "2019-02-21",
+    "text": "[caption id=\"attachment_1946\" align=\"alignnone\" width=\"220\"] IMDb [/caption] [caption id=\"attachment_1944\" align=\"alignnone\" width=\"268\"] IMDb [/caption] [caption id=\"attachment_1947\" align=\"alignnone\" width=\"1200\"] IMDb[/caption]"
+  },
+  {
+    "title": "Olfactory coding",
+    "kind": "page",
+    "url": "pages/olfactory-coding/",
+    "date": "2019-03-14",
+    "text": "Preparation Read the Introduction and Psychological Questions (two pages: p. 217-218) of Speculations on Smell [PDF] (written 60 years ago by Jerome Y. Lettvin and Robert C. Gesteland). Consider the quality of the writing and the character of this \" phenomenological \" analysis of the lived experience of smell. Read the first half of Chapter 2 \"Olfaction\" (pp. 37-45) in The Neuroethology of Predation and Escape by Keith T. Sillar, Laurence D. Picton, William J. Heitler (Wiley-Blackwell, 2016). [SWEM Online] [PDF] Speculations on Smell by Lettvin and Gesteland (1965) How we smell is as hard to dissect as how we see. A recent may smell like lavender, a stink may smell like rotten eggs -- but the figure of speech is as far as we can go. ... Most odors are complex; we scent them as singular for"
+  },
+  {
+    "title": "Cephalopod brains and behavior",
+    "kind": "page",
+    "url": "pages/cephalopod-brains/",
+    "date": "2019-03-14",
+    "text": "Preparation For Tuesday read: Hochner, B., 2008. Octopuses. Current Biology , 18 (19), pp.R897-R898. [PDF] Read Chapter 12 \"Molluscan Defense and Escape Systems\" (pp. 304-325) in Keith T. Sillar, Laurence D. Picton, William J. Heitler. Neuroethology of Predation and Escape. Wiley-Blackwell, 2016. [PDF] For Thursday read: Shigeno, S., Andrews, P., Ponte, G. and Fiorito, G., 2018. Cephalopod brains: an overview of current knowledge to facilitate comparison with vertebrates. Frontiers in physiology, 9, p.952. [PDF] Further reading Scheel, D., 2018. Octopuses in wild and domestic relationships. Social Science Information , 57 (3), pp.403-421. Hochner, B., 2012. An embodied view of octopus neurobiology. Current biology , 22 (20), pp.R887-R892. Lettvin, J.Y., 1979. The Gorgon's Eye. Astronomy of"
+  },
+  {
+    "title": "Biosonar",
+    "kind": "page",
+    "url": "pages/biosonar/",
+    "date": "2019-03-14",
+    "text": "Preparation Read Chapter 5 \"The Biosonar System of Bats\" (pp. 106-139) in Keith T. Sillar, Laurence D. Picton, William J. Heitler. Neuroethology of Predation and Escape. Wiley-Blackwell, 2016. [PDF] Further reading"
+  },
+  {
+    "title": "Example Midterm Projects",
+    "kind": "page",
+    "url": "pages/midterm-project-octopus-gallery/",
+    "date": "2019-03-19",
+    "text": "In Spring 2018 students selected one of the two following books The soul of an octopus: A surprising exploration into the wonder of consciousness by Susan Montgomery Montgomery, S., 2015. The soul of an octopus: A surprising exploration into the wonder of consciousness. Simon and Schuster. [SWEM] [Amazon] Reviews: Publishers Weekly , The Guardian , NPR . Other minds: The octopus, the sea, and the deep origins of consciousness by Peter Godfrey-Smith Godfrey-Smith, P., 2016. Other minds: The octopus, the sea, and the deep origins of consciousness. Farrar, Straus and Giroux. [SWEM] [Amazon] Reviews: The New York Times , The Guardian , Publishers Weekly . Dennett, D., 2019. Review of Other Minds: the octopus, the sea and the deep origins of consciousness. Biology & Philosophy , 34 (1), p.2. [P"
+  },
+  {
+    "title": "Themes",
+    "kind": "page",
+    "url": "pages/themes/",
+    "date": "2019-03-21",
+    "text": ""
+  },
+  {
+    "title": "Scraps",
+    "kind": "page",
+    "url": "pages/scraps/",
+    "date": "2019-03-21",
+    "text": ""
+  },
+  {
+    "title": "Synaptic scaling and synaptic computation",
+    "kind": "page",
+    "url": "pages/synaptic-scaling-and-redistribution/",
+    "date": "2019-03-27",
+    "text": "Assignment Read through this blog page and then complete the reading Abbott, L.F. and Regehr, W.G., 2004. Synaptic computation. Nature , 431 (7010), p.796. [PDF] Properties of STDP are variable Consider how the amount and type of spike-time-depedent plasticity (STDP) evoked by pairing of pre- and postsynaptic action potentials depends on the preparation and neuronal connection being studied. The figure below is from Abbott, L.F. and Nelson, S.B., 2000. Synaptic plasticity: taming the beast. Nature Neuroscience , 3 :1178-1183. Types of Short-Term Synaptic Plasticity Feedforward plasticity depends on presynaptic activity (facilitation and depression) Feedback plasticity depends on postsynaptic activity (retrograde messengers released from dendrites that regulate release of neurotransmitter) "
+  },
+  {
+    "title": "Breathing, the\u00a0preB\u00f6tC, eupnea, and sighs",
+    "kind": "page",
+    "url": "pages/breathing-the-prebotc-eupnea-and-sighs/",
+    "date": "2019-03-27",
+    "text": "Preparation Smith, J.C., Ellenberger, H.H., Ballanyi, K., Richter, D.W. and Feldman, J.L., 1991. Pre-Botzinger complex: a brainstem region that may generate respiratory rhythm in mammals. Science , 254 (5032), pp.726-729. [PDF] Li, P., Janczewski, W.A., Yackle, K., Kam, K., Pagliardini, S., Krasnow, M.A. and Feldman, J.L., 2016. The peptidergic control circuit for sighing. Nature , 530 (7590), p.293. [PDF]"
+  },
+  {
+    "title": "Chomsky without language:  Are there perceptual-cognitive universals?",
+    "kind": "page",
+    "url": "pages/chomsky-without-language/",
+    "date": "2019-04-11",
+    "text": "Preparation Read ... Bregman, A.S., 1981. Chomsky without language. Cognition , 10 (1-3), p.33. [PDF] Discussion and further reading Thought without language? https://youtu.be/5YXXGHwmogU Since Newton there is no physical, there is just properties of the world, the way things are, and this includes the mental. Idealization is moving toward reality, not away. \"Mathematics is a language\" is a metaphor. https://youtu.be/atupfHizJxM https://youtu.be/0ORHGa-vQp0 https://youtu.be/VHulvUwgFWo Schooler, J. W., Ohlsson, S., & Brooks, K. (1993). Thoughts beyond words: When language overshadows insight. Journal of experimental psychology: General , 122 (2), 166. [PDF] From the above paper: Four experiments examined whether verbalization can interfere with insight problem solving. In Experiment 1, Ss "
+  },
+  {
+    "title": "Calendar Spring 2020",
+    "kind": "page",
+    "url": "pages/calendar-2/",
+    "date": "2019-12-27",
+    "text": "Wednesday January 22 - First Day of Classes - A kind of impalpability to this whole business Friday January 24 - Is your brain a computer? Monday January 27 - What's it like to be a bat? Wednesday January 29 - The problem of qualia Friday January 31 - Add/Drop Deadline - Philosophy and our mental life Monday February 3 - Information and Physical Computation - Part 1 Bring Assignment #1 Draft to Class Wednesday February 5 - Information and Physical Computation - Part 2 Friday February 7 - Marr's Three Levels of Inquiry Assignment #1 Due Monday February 10 - Marr's Computational Vision Wednesday February 12 - Neural integrators (e.g.,VOR and head direction) Friday February 14 - Line attractor networks Monday February 17 - Continued Wednesday February 19 - Continued Friday February 21 - Snow "
+  },
+  {
+    "title": "Is the brain a computer?",
+    "kind": "page",
+    "url": "pages/the-empty-brain/",
+    "date": "2020-01-21",
+    "text": "Overview This course focuses on computational neuroscience as the study of how nervous systems perform computations and process information. But is the brain a computer ? Or is this conception an analogy drawn from modern technology that we (perhaps inappropriately) apply to the functional organization of nervous systems? What is a computer, exactly? And which brain (i.e., central nervous system) do you have in mind? Human? Mouse? Nematode ? Assignment If you have not done so already, enter your email address to subscribe to the course blog and receive notifications of new posts by email. This is important because posts to the blog are equivalent to in-class announcements. If you have not done so already, read the blog page A kind of impalpability to this whole business and The message and"
+  },
+  {
+    "title": "Spring 2020 Roster",
+    "kind": "page",
+    "url": "pages/spring-2020-roster/",
+    "date": "2020-01-23",
+    "text": "Computational Neuroscience 2020 - Names and Faces - Google Doc"
+  },
+  {
+    "title": "The problem of qualia",
+    "kind": "page",
+    "url": "pages/the-problem-of-qualia/",
+    "date": "2020-01-26",
+    "text": "Cognitive neuroscientists \"...ought to be able to exploit the conceptual and technical resources of computational research to help find explanations of how neural structures achieve their effects...\" ( Churchland et al. 1993). Given the range of effects of neural structures -- reflexes to consciousness -- this is a tall order! While it seems plausible that contemporary neuroscientists are able to explain how, say, the oculomotor system manages to control eye position, \"we have at present no conception of what an explanation of the physical nature of a mental phenomenon would be.\" (Thomas Nagel 1974. What is it like to be a bat? ) Neuroscientists tend to be monists (as opposed to dualists), which is the philosophical position that the mind and the brain are (somehow) two different sides of "
+  },
+  {
+    "title": "Definitions",
+    "kind": "page",
+    "url": "pages/definitions/",
+    "date": "2020-01-27",
+    "text": "Preparation None yet. Information Computation Representation"
+  },
+  {
+    "title": "Assignment 1",
+    "kind": "page",
+    "url": "pages/assignment-1/",
+    "date": "2020-01-30",
+    "text": "While home for Spring Break, walking the dog with one of your parents, you are introduced to a high school science teacher who recently moved into the neighborhood. You talk, with dogs on leash, and it becomes apparent that Ms. Z is an experienced teacher midway in age between yourself and your parents. She is delighted to meet you, a William & Mary student with knowledge of neuroscience, because she has been entertaining the idea of including more neuroscience in the curriculum of her biology course. Your parent invites Ms. Z over for dinner on that very evening. After some home cooked food and casual chit-chat, your parents instigate the continuation of this conversation with Ms. Z about neuroscience. She admits that it is the computational aspects of neuroscience that are her concern. T"
+  },
+  {
+    "title": "Spring 2020 Midterm Project Statement",
+    "kind": "page",
+    "url": "pages/2019-midterm-project-octopus/",
+    "date": "2020-03-03",
+    "text": "Select a book relevant to the course that is of personal interest. Although there are other possibilities, many of these pre-approved book suggestions are focused on animal intelligence (neuroethology), artificial intelligence (cybernetics), consciousness, language, and neuro-culture. Your book choice for the midterm project may be - but is not required to be - related to your final project. Please send me an email indicating the book you have selected. Read your selection over Spring Break and prepare for in-class discussions that will occur during the two weeks following Spring Break. You have flexibility with regard to the deliverable (see due date on course calendar). The media may be written, video, podcast, whatever would work best and show your creativity. The form and audience may "
+  },
+  {
+    "title": "Spring 2018",
+    "kind": "page",
+    "url": "pages/spring-2018-projects/",
+    "date": "2020-03-03",
+    "text": ""
+  },
+  {
+    "title": "Spring 2020",
+    "kind": "page",
+    "url": "pages/spring-2020-projects/",
+    "date": "2020-03-03",
+    "text": ""
+  },
+  {
+    "title": "Spring 2020 Midterm Book Choices",
+    "kind": "page",
+    "url": "pages/spring-2020-midterm-book-choices/",
+    "date": "2020-03-11",
+    "text": "Joseph LeDoux . The Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious Brains. Viking, 2019. Sarah Jo McGeady: https://youtu.be/ax8jJ77CdT0 Emma Glass: https://youtu.be/ENprhlHj4j0 Alyssa Luz-Ricca: https://spark.adobe.com/video/lGTZgrUlxtfWx Joseph LeDoux. Anxious: Using the Brain to Understand and Treat Fear and Anxiety. Penguin, 2016. Andrea Del Carpio Gomez https://spark.adobe.com/video/nm3Skep4HXAYJ George Lakoff and Mark Johnson. Metaphors We Live By. University of Chicago Press, 2008. Nico Druck https://youtu.be/QR9cNZlQ_OQ Peter Godfrey-Smith. Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness. Farrar, Straus and Giroux, 2016. Paul Marcelli https://youtu.be/MFB6ekHAW_k Akshata Pisharody https://soundcloud.com/akshata-p/octopodcast C"
+  },
+  {
+    "title": "Virtual classroom",
+    "kind": "page",
+    "url": "pages/virtual-classroom/",
+    "date": "2020-03-17",
+    "text": "Use your W&M email address when creating accounts. Do not pay for anything! Off Campus Access to W&M Libraries Virtual Private Network Zoom Class will meet via Zoom video conference at the normal class time (MWF 11:00-11:50am). Join the class using this stable URL: https://cwm.zoom.us/j/674322161 Note: Zoom Pro is available to W&M students. No payment or request process is needed! For more information see the W&M IT page on Zoom. Flipgrid For some assignments the deliverable will be a short spontaneous video to be greeted within the course Flipgrid site: flipgrid.com/compneuro2020 Perusall For some assignments the deliverable will be annotation and commenting on assigned readings. Visit https://app.perusall.com to create an account. Then enroll in Computational Neuroscience using the cours"
+  },
+  {
+    "title": "The faculty of language: What is it, who has it, and how did it evolve?",
+    "kind": "page",
+    "url": "pages/the-faculty-of-language-what-is-it-who-has-it-and-how-did-it-evolve/",
+    "date": "2020-04-01",
+    "text": "The aim of evolutionary neuroscience is not just to document the history of brain evolution, but to explain it. (George F. Striedter, Brain Evolution ) Preparation Before reading Hauser et al. 2000, review the following distinctions from evolutionary biology. characters that are derived vs. ancestral homology vs. analogy adaptation vs. exaptation To get us started thinking about evolutionary biology and neuroscience, consider the following two quotes. In Brain Evolution, George F. Striedter writes \"Historical explanations are really predictions in hindsight: given what we know, could we have predicted what actually came to pass? If the answer is affirmative, then we have explained the past.\" Do you agree? Is being able to predict what actually came to pass the criterion for understanding h"
+  },
+  {
+    "title": "The evolution of language systems in the human brain",
+    "kind": "page",
+    "url": "pages/the-evolution-of-language-systems-in-the-human-brain/",
+    "date": "2020-04-01",
+    "text": "Preparation Consider this quote: The details of the motor programs instantiated in the motor cortex likewise are phenotypically acquired. Given the architectural similarity of the cortical-striatal-cortical circuits implicated in motor control and cognition noted earlier, it is most unlikely that the cognitive \u201cpattern generators\u201d that specify syntactic operations are innately specified. The neural mechanisms implicated in motor control are massively parallel, and cannot usefully be described by means of sequential algo- rithms similar to those commonly used by linguists to describe the \u201crules\u201d of syntax. ... [T]he inability of formal linguistics to describe the sentences of English, arguably the most intensively studied language on earth, may derive from an overreliance on algorithmic pro"
+  },
+  {
+    "title": "Courses",
+    "kind": "page",
+    "url": "pages/courses/",
+    "date": "2020-04-03",
+    "text": "Tomaso Poggio, and Gabriel Kreiman. RES.9-003 Brains, Minds and Machines Summer Course. Summer 2015. Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu . License: Creative Commons BY-NC-SA ."
+  },
+  {
+    "title": "Evolution of human cognition",
+    "kind": "page",
+    "url": "pages/evolution-of-human-cognition/",
+    "date": "2020-04-07",
+    "text": "[under construction] Preparation Read and annotate Heyes, C. (2012). New thinking: the evolution of human cognition. Phil. Trans. R. Soc. B 367, 2091-2096. [PDF] This link should take you to the assignment within Perusall . Further reading Heyes, C. (2012). New thinking: the evolution of human cognition. Phil. Trans. R. Soc. B 367, 2091-2096. [PDF] Confer, Jaime C., Judith A. Easton, Diana S. Fleischman, Cari D. Goetz, David MG Lewis, Carin Perilloux, and David M. Buss. \"Evolutionary psychology: Controversies, questions, prospects, and limitations.\" American Psychologist 65, no. 2 (2010): 110. [PDF] Bolhuis, J. J., Brown, G. R., Richardson, R. C., & Laland, K. N. (2011). Darwin in mind: New opportunities for evolutionary psychology. PLoS biology , 9 (7). [PDF]"
+  },
+  {
+    "title": "Social Intelligence",
+    "kind": "page",
+    "url": "pages/social-intelligence/",
+    "date": "2020-04-07",
+    "text": "[Under construction] Preparation Nancy Kanwisher - Introduction to Social Intelligence Ken Nakayama - The Social Mind Rebecca Saxe - MVPA: Window on the Mind via fMRI Part 1 Rebecca Saxe - MVPA: Window on the Mind via fMRI Part 2 https://youtu.be/d-84UJpYFRM https://youtu.be/TRF27F2bn-A"
+  },
+  {
+    "title": "Sarah Jo McGeady on \"The Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious Brains\" by Joseph LeDoux",
+    "kind": "page",
+    "url": "pages/sarah-jo-mcgeady-on-the-deep-history-of-ourselves-the-four-billion-year-story-of-how-we-got-conscious-brains-by-joseph-ledoux/",
+    "date": "2020-04-09",
+    "text": "Joseph LeDoux . The Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious Brains. Viking, 2019. Sarah Jo McGeady https://youtu.be/ax8jJ77CdT0"
+  },
+  {
+    "title": "Emma Glass on \"The Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious Brains\" by Joseph LeDoux",
+    "kind": "page",
+    "url": "pages/emma-glass-on-the-deep-history-of-ourselves-the-four-billion-year-story-of-how-we-got-conscious-brains-by-joseph-ledoux/",
+    "date": "2020-04-09",
+    "text": "Joseph LeDoux . The Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious Brains. Viking, 2019. Emma Glass https://youtu.be/ENprhlHj4j0"
+  },
+  {
+    "title": "Alyssa Luz-Ricca on \"The Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious Brains\" by Joseph LeDoux",
+    "kind": "page",
+    "url": "pages/alyssa-luz-ricca-on-the-deep-history-of-ourselves-the-four-billion-year-story-of-how-we-got-conscious-brains-by-joseph-ledoux/",
+    "date": "2020-04-09",
+    "text": "Joseph LeDoux . The Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious Brains. Viking, 2019. Alyssa Luz-Ricca: https://spark.adobe.com/video/lGTZgrUlxtfWx"
+  },
+  {
+    "title": "Andrea Del Carpio Gomez on \"Anxious: Using the Brain to Understand and Treat Fear and Anxiety\" by Joseph LeDoux",
+    "kind": "page",
+    "url": "pages/andrea-del-carpio-gomez-on-anxious-using-the-brain-to-understand-and-treat-fear-and-anxiety-by-joseph-ledoux/",
+    "date": "2020-04-09",
+    "text": "Joseph LeDoux. Anxious: Using the Brain to Understand and Treat Fear and Anxiety. Penguin, 2016. Andrea Del Carpio Gomez https://spark.adobe.com/video/nm3Skep4HXAYJ"
+  },
+  {
+    "title": "Nico Druck on \"Metaphors We Live By\" by George Lakoff and Mark Johnson",
+    "kind": "page",
+    "url": "pages/nico-druck-on-metaphors-we-live-by-by-george-lakoff-and-mark-johnson/",
+    "date": "2020-04-09",
+    "text": "George Lakoff and Mark Johnson. Metaphors We Live By. University of Chicago Press, 2008. Nico Druck https://youtu.be/QR9cNZlQ_OQ"
+  },
+  {
+    "title": "Paul Marcelli on \"Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness\" by Peter Godfrey-Smith",
+    "kind": "page",
+    "url": "pages/paul-marcelli-on-other-minds-the-octopus-the-sea-and-the-deep-origins-of-consciousness-by-peter-godfrey-smith/",
+    "date": "2020-04-09",
+    "text": "Peter Godfrey-Smith. Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness. Farrar, Straus and Giroux, 2016. Paul Marcelli https://youtu.be/MFB6ekHAW_k"
+  },
+  {
+    "title": "Akshata Pisharody on \"Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness\" by Peter Godfrey-Smith",
+    "kind": "page",
+    "url": "pages/akshata-pisharody-on-other-minds-the-octopus-the-sea-and-the-deep-origins-of-consciousness-by-peter-godfrey-smith/",
+    "date": "2020-04-09",
+    "text": "Peter Godfrey-Smith. Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness. Farrar, Straus and Giroux, 2016. Akshata Pisharody https://soundcloud.com/akshata-p/octopodcast"
+  },
+  {
+    "title": "Sejal Dhawan on \"Beyond Words: What Animals Think and Feel\" by Carl Safina",
+    "kind": "page",
+    "url": "pages/sejal-dhawan-on-beyond-words-what-animals-think-and-feel-by-carl-safina/",
+    "date": "2020-04-09",
+    "text": "Carl Safina. Beyond Words: What Animals Think and Feel. Macmillan, 2015. Sejal Dhawan https://youtu.be/YxLbe_RbjCo https://spark.adobe.com/video/UXP1mmFpcwMVP"
+  },
+  {
+    "title": "Bella Salas on \"Proust and the Squid: The Story and Science of the Reading Brain\" by Maryanne Wolf",
+    "kind": "page",
+    "url": "pages/bella-salas-on-proust-and-the-squid-the-story-and-science-of-the-reading-brain-by-maryanne-wolf/",
+    "date": "2020-04-09",
+    "text": "Maryanne Wolf. Proust and the Squid: The Story and Science of the Reading Brain. Harper Perennial, 2008. Bella Salas https://youtu.be/wLFhPctwwnM"
+  },
+  {
+    "title": "Mehar Nasir on \"Discovering the Human Connectome\" by Olaf Sporns",
+    "kind": "page",
+    "url": "pages/mehar-nasir-on-discovering-the-human-connectome-by-olaf-sporns/",
+    "date": "2020-04-09",
+    "text": "Olaf Sporns. Discovering the Human Connectome. MIT Press, 2012. [Online via SWEM] Mehar Nasir https://youtu.be/uGwdBtMIBPE"
+  },
+  {
+    "title": "Saumya Sharman on \"The Soul of an Octopus: A Surprising Exploration into the Wonder of Consciousness\" on Sy Montgomery",
+    "kind": "page",
+    "url": "pages/saumya-sharman-on-the-soul-of-an-octopus-a-surprising-exploration-into-the-wonder-of-consciousness-on-sy-montgomery/",
+    "date": "2020-04-09",
+    "text": "Sy Montgomery. The Soul of an Octopus: A Surprising Exploration into the Wonder of Consciousness. Atria Books, 2016. Saumya Sharman https://youtu.be/PS-GtBUb5Z4 https://spark.adobe.com/video/5rHLei2tJYBTX"
+  },
+  {
+    "title": "Lindsay Stolting on \"Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence\" by Andy Clark",
+    "kind": "page",
+    "url": "pages/lindsay-stolting-on-natural-born-cyborgs-minds-technologies-and-the-future-of-human-intelligence-by-andy-clark/",
+    "date": "2020-04-09",
+    "text": "Andy Clark. Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence. Oxford University Press, 2003. Lindsay Stolting https://youtu.be/ZRp2-ViQaoc https://spark.adobe.com/video/a3TZuQWVm5zX3"
+  },
+  {
+    "title": "Evelyn Basham on \"The Mind of the Horse: An Introduction to Equine Cognition\" by Michel-Antoine Leblanc",
+    "kind": "page",
+    "url": "pages/evelyn-basham-on-the-mind-of-the-horse-an-introduction-to-equine-cognition-by-michel-antoine-leblanc/",
+    "date": "2020-04-09",
+    "text": "Michel-Antoine Leblanc; translated by Giselle Weiss . The Mind of the Horse: An Introduction to Equine Cognition. Harvard University Press, 2013. [Online via SWEM] Evelyn Basham https://youtu.be/0i5P-cUDqTs"
+  },
+  {
+    "title": "Monica Bonilla on \"Are We Smart Enough to Know How Smart Animals Are?\" by Frans de Waal",
+    "kind": "page",
+    "url": "pages/monica-bonilla-on-are-we-smart-enough-to-know-how-smart-animals-are-by-frans-de-waal/",
+    "date": "2020-04-09",
+    "text": "Frans de Waal. Are We Smart Enough to Know How Smart Animals Are? WW Norton & Company, 2016. Monica Bonilla https://youtu.be/d7ueHszwPQo"
+  },
+  {
+    "title": "Kayla Davis on \"The Consciousness Instinct: Unraveling the Mystery of How the Brain Makes the Mind\" by Michael S. Gazzaniga",
+    "kind": "page",
+    "url": "pages/kayla-davis-on-the-consciousness-instinct-unraveling-the-mystery-of-how-the-brain-makes-the-mind-by-michael-s-gazzaniga/",
+    "date": "2020-04-09",
+    "text": "Michael S. Gazzaniga. The Consciousness Instinct: Unraveling the Mystery of How the Brain Makes the Mind. Farrar, Straus and Giroux, 2019. Kayla Davis https://youtu.be/Zde3zSD8OAE"
+  },
+  {
+    "title": "Anna Rader on \"Behave: The Biology of Humans at Our Best and Worst\" by Robert M. Sapolsky",
+    "kind": "page",
+    "url": "pages/anna-rader-on-behave-the-biology-of-humans-at-our-best-and-worst-by-robert-m-sapolsky/",
+    "date": "2020-04-09",
+    "text": "Robert M. Sapolsky. Behave: The Biology of Humans at Our Best and Worst. Penguin, 2017. Anna Rader https://youtu.be/h5cZh9h6IW0"
+  },
+  {
+    "title": "Andrew Lyubovsky on \"The mind on paper: reading, consciousness, and rationality\" by David R. Olson",
+    "kind": "page",
+    "url": "pages/andrew-lyubovsky-on-the-mind-on-paper-reading-consciousness-and-rationality-by-david-r-olson/",
+    "date": "2020-04-09",
+    "text": "David R. Olson. The mind on paper: reading, consciousness, and rationality. Cambridge University Press, 2016. Andrew Lyubovsky https://youtu.be/QdO65ItLPb8"
+  },
+  {
+    "title": "Spring 2020 Midterm Projects - Peer-to-peer discussion",
+    "kind": "page",
+    "url": "pages/spring-2020-midterm-glow-and-grow/",
+    "date": "2020-04-09",
+    "text": "Find your name/project on the list. Your assignment is to view and comment on the project that comes before you, the one that comes after you, and two others of your choosing (4 reviews total). For each review, watch (or listen to) the midterm project. Then share your thoughts with the project author as a reply/comment. Your reply/comments may be constructive criticism (what did you like? what could have been better?), discussion of connections to course material and/or aspects of the book review that are of interest to you, or specific questions about the content of the book being reviewed or related issues. Due midnight Sunday. Evelyn Basham on \u201cThe Mind of the Horse: An Introduction to Equine Cognition\u201d by Michel-Antoine Leblanc Monica Bonilla on \u201cAre We Smart Enough to Know How Smart A"
+  },
+  {
+    "title": "Thought beyond words",
+    "kind": "page",
+    "url": "pages/thought-beyond-words/",
+    "date": "2020-04-13",
+    "text": "Preparation for this class Further reading Thought without language? https://youtu.be/5YXXGHwmogU Since Newton there is no physical, there is just properties of the world, the way things are, and this includes the mental. Idealization is moving toward reality, not away. \"Mathematics is a language\" is a metaphor. https://youtu.be/atupfHizJxM https://youtu.be/0ORHGa-vQp0 https://youtu.be/VHulvUwgFWo Schooler, J. W., Ohlsson, S., & Brooks, K. (1993). Thoughts beyond words: When language overshadows insight. Journal of experimental psychology: General , 122 (2), 166. [PDF] From the above paper: Four experiments examined whether verbalization can interfere with insight problem solving. In Experiment 1, Ss were interrupted during problem solving and asked either to verbalize their strategies (re"
+  },
+  {
+    "title": "Electroreception",
+    "kind": "page",
+    "url": "pages/electroreception/",
+    "date": "2020-04-13",
+    "text": "Moller, P. (1995). Electric Fishes: History and Behavior (London: Chapman and Hall). Rose, G.J. (2004). Insights into neural mechanisms and evolution of behaviour from electric fish. Nat. Rev. Neurosci. 5, 943\u2013951. Sawtell, N.B., Williams, A., and Bell, C.C. (2005). From sparks to spikes: information processing in the electrosensory systems of fish. Curr. Opin. Neurobiol. 15, 437\u2013443. Zakon, H.H. (2003). Insight into the mechanisms of neuronal processing from electric fish. Curr. Opin. Neurobiol. 13, 744\u2013750."
+  },
+  {
+    "title": "Links",
+    "kind": "page",
+    "url": "pages/links/",
+    "date": "2020-04-23",
+    "text": "Online Resources for Systems and Computational Neuroscience from the Simons Foundation The Stanford Encyclopedia of Philosophy Houd\u00e9, O., Kayser, D., Koenig, O., Proust, J., & Rastier, F. (2004). Dictionary of cognitive science: Neuroscience, psychology, artificial intelligence, linguistics, and philosophy. Routledge. [SWEM Online]"
+  },
+  {
+    "title": "Spring 2020 Final Projects",
+    "kind": "page",
+    "url": "pages/spring-2020-final-projects/",
+    "date": "2020-05-04",
+    "text": "Evelyn Basham on \"Plant Disease Recognition with Neural Networks\" Mehar Nasir on \u201cThe Paradox Of Brain Heterogeneity and Functional Stability\" This page is under construction. Scraps below. Kayla Davis on \u201cThe Consciousness Instinct: Unraveling the Mystery of How the Brain Makes the Mind\u201d by Michael S. Gazzaniga Sejal Dhawan on \u201cBeyond Words: What Animals Think and Feel\u201d by Carl Safina Nico Druck on \u201cMetaphors We Live By\u201d by George Lakoff and Mark Johnson Emma Glass on \u201cThe Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious Brains\u201d by Joseph LeDoux Andrea Del Carpio Gomez on \u201cAnxious: Using the Brain to Understand and Treat Fear and Anxiety\u201d by Joseph LeDoux Alyssa Luz-Ricca on \u201cThe Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious B"
+  },
+  {
+    "title": "Evelyn Basham - Plant Disease Recognition With Neural Networks",
+    "kind": "page",
+    "url": "pages/evelyn-basham-plant-disease-recognition-with-neural-networks/",
+    "date": "2020-05-04",
+    "text": "Preparation Read: How the brain recognizes objects Watch: Guidelines for Diagnosing Plant Problems After watching the video, jot down a few features of plant diseases (i.e. shape, texture, etc.) that are important to their classification in your notebook. Overview As agriculture continues to develop into a global enterprise, so too does the spread of diseases and pests that affect plants everywhere. Unfortunately, it takes a rather trained eye to identify the particular kind of affliction a plant may experience. Even then, new diseases may arise that escape identification in that particular region. Experts in the field have identified artificial neural networks (ANNs) as capable identifiers of plant disease and pest problems. However, this begs the question we might ask of all NNs in compa"
+  },
+  {
+    "title": "Calendar Spring 2023",
+    "kind": "page",
+    "url": "pages/calendar-spring-2023/",
+    "date": "2023-01-16",
+    "text": "Thursday January 26 - First Day of Classes - A kind of impalpability to this whole business Tuesday January 31 - Is your brain a computer? Thursday February 2 - What's it like to be a bat? Friday February 3 - Last day to add/drop Tuesday February 7 - Philosophy and our mental life and The problem of qualia Thursday February 9 - Information and physical computation Tuesday February 14 - Marr's Three Levels of Inquiry Thursday February 16 - Neural integrators (e.g.,VOR and head direction) Tuesday February 21 - Line attractor network (or how the brain keeps the eyes still) Thursday February 23 - Temporal information processing (e.g., interaural time difference coding and sound localizatio n) (required) and Evolutionary trends in directional hearing (optional) Tuesday February 28 - Rescheduled"
+  },
+  {
+    "title": "Feature detectors - What the frog's eye tells the frog's brain",
+    "kind": "page",
+    "url": "pages/feature-detectors-what-the-frogs-eye-tells-the-frogs-brain/",
+    "date": "2023-02-24",
+    "text": "Assignment Read the \" What the frog's eye tells the frog's brain \" by Lettvin, J. Y., Maturana, H. R., McCulloch, W. S., & Pitts, W. H. (1959). Proceedings of the IRE , 47 (11), 1940-1951. Focus on the Introduction, Methods, the first paragraph of Findings, General Discussion and Conclusion. That is, read the whole paper but de-emphasize the figures and pp.1944-1951. The Perceptron Inspired by the way neurons work together in the brain, the perceptron is a single-layer neural network \u2013 an algorithm that classifies input into two possible categories. The neural network makes a prediction \u2013 say, right or left; or dog or cat \u2013 and if it\u2019s wrong, tweaks itself to make a more informed prediction next time. It becomes more accurate over thousands or millions of iterations. Lefkowitz 2019 (see Fu"
+  },
+  {
+    "title": "Spring 2023 - Midterm Project",
+    "kind": "page",
+    "url": "pages/spring-2023-midterm-project/",
+    "date": "2023-03-18",
+    "text": "Select one of the following books about consciousness and evolutionary neuroscience . Read your chosen book between Monday March 20 and Sunday March 26. Groups of students with common readings will have book club-like discussions in class on Tuesday March 28. On Thursday March 30 there will be between-group un-book club -type sharing. The Books Metazoa: Animal Minds and the Birth of Consciousness by Peter Godfrey-Smith . [Amazon] Being You: A New Science of Consciousness by Anil Seth . [Swem Online] [Amazon] The Feeling of Life Itself: Why Consciousness Is Widespread but Can't Be Computed by Christof Koch . [Swem] [Amazon] The Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious Brains by Joseph LeDoux . [Swem] [Amazon] Note: If your preferred choice of book would"
+  },
+  {
+    "title": "Spring 2023",
+    "kind": "page",
+    "url": "pages/spring-2023/",
+    "date": "2023-03-18",
+    "text": ""
+  },
+  {
+    "title": "Hippocampal place cells",
+    "kind": "page",
+    "url": "pages/hippocampal-place-cells-2/",
+    "date": "2023-03-23",
+    "text": "Preparation Watch the video lecture below by Nancy Kanwisher on the hippocampus and place cells Nancy Kanwisher- Hippocampus and place cells https://youtu.be/km4203tZXnY Further Reading Moser, E.I., Moser, M.B. and McNaughton, B.L., 2017. Spatial representation in the hippocampal formation: a history. Nature neuroscience, 20(11), p.1448. [PDF] Hardcastle, K., Ganguli, S. and Giocomo, L.M., 2017. Cell types for our sense of location: where we are and where we are going. Nature neuroscience , 20 (11), p.1474. [PDF] Butler, W. N., Hardcastle, K., & Giocomo, L. M. (2019). Remembered reward locations restructure entorhinal spatial maps. Science, 363(6434), 1447-1452. [PDF] Quanta, Jordana Cepelewicz. Rewards Warp the Brain\u2019s Inner GPS: Cells that control an animal\u2019s spatial awareness can reorie"
+  },
+  {
+    "title": "Olfactory network dynamics",
+    "kind": "page",
+    "url": "pages/olfactory-network-dynamics/",
+    "date": "2023-04-07",
+    "text": "Preparation Using the Perusall system, closely read and annotate... Laurent, G. (2002). Olfactory network dynamics and the coding of multidimensional signals. Nature Reviews Neuroscience, 3(11), 884-895. [Nature Reviews Neuroscience] [Perusall] Discussion The contrast between odour representations in the antennal lobe and in the mushroom body is enormous. An observer looking at activity in these two areas might never suspect that they are separated by only one synapse. Similarly, observing individual Kenyon cell responses alone does not hint at integrative properties that depend on presynaptic spike timing and on the coordination of input arrival. In other words, understanding the computations that take place in a circuit can be difficult if we fail to consider individual neurons as parts "
+  },
+  {
+    "title": "Consciousness without cortex",
+    "kind": "page",
+    "url": "pages/consciousness-without-cortex/",
+    "date": "2023-04-24",
+    "text": "Assumptions on the neural basis of cognition usually focus on cortical mecha- nisms. Birds have no cortex, but recent studies in parrots and corvids show that their cognitive skills are on par with primates. These cognitive !ndings are accompanied by neurobiological discoveries that reveal avian and mammalian forebrains are homologous, and show similarities in connectivity and function down to the cellular level. But because birds have a large pallium, but no cortex, a speci!c cortical architecture cannot be a requirement for advanced cognitive skills. During the long parallel evolution of mammals and birds, several neural mechanisms for cognition and complex behaviors may have converged despite an overall forebrain organization that is otherwise vastly different. G\u00fcnt\u00fcrk\u00fcn, O., & Bugnyar,"
+  },
+  {
+    "title": "Calendar - Spring 2025",
+    "kind": "page",
+    "url": "pages/calendar-spring-2025/",
+    "date": "2025-01-02",
+    "text": "Thursday January 23 - First Day of Classes - A kind of impalpability to this whole business Tuesday January 28 - Is your brain a computer? Thursday January 30 - What's it like to be a bat? Friday January 31 - Last day to add/drop Tuesday February 4 - Philosophy and our mental life , The problem of qualia , and The organization of the brain . Thursday February 6 - Information, representation, and physical computation Tuesday February 11 - Marr's Three Levels of Inquiry Thursday February 13 - Neural integrators (e.g.,VOR and head direction) - Part 1 Tuesday February 18 - Neural integrators (e.g.,VOR and head direction) - Part 2 Thursday February 20 - W&M Closed for Winter Storm Kingston Tuesday February 25 - Line attractor network (or how the brain keeps the eyes still) Thursday Febrary 27 -"
+  },
+  {
+    "title": "A kind of impalpability to this whole business",
+    "kind": "page",
+    "url": "pages/a-kind-of-impalpability-to-this-whole-business/",
+    "date": "2025-01-22",
+    "text": "What is computational neuroscience? Computational neuroscience has two faces. On the one hand, it builds computational models of neural phenomenon, analogous to the way computational chemistry, climate science, and computational economics, among others, build computational models of their respective phenomena. On the other hand, computational neuroscience studies the way the nervous systems compute and process information . (Piccinini and Shagrir 2014, p. 25) Our focus is this second facet: Computational neuroscience as the study of how nervous systems perform computations and process information . If the discipline of cognitive neuroscience is the study of how mental processes are subserved by neural circuits of the brain, then computational neuroscience (as we will use the term) is a the"
+  },
+  {
+    "title": "Welcome to Computational Neuroscience!",
+    "kind": "post",
+    "url": "posts/welcome-to-computational-neuroscience-spring-2025/",
+    "date": "2025-01-22",
+    "text": "The first day of classes for APSC 450 is Thursday, January 23, 2025. I'm looking forward to meeting you. I have posted tentative versions of the syllabus and calendar . Feel free to look through the course blog, beginning with the page A kind of impalpability to this whole business ."
+  },
+  {
+    "title": "Preparation for class Tuesday, January 28",
+    "kind": "post",
+    "url": "posts/preparation-for-class-tuesday-january-28/",
+    "date": "2025-01-24",
+    "text": "The reading/watching for class on Tuesday is posted on the course blog page Is your brain a computer? The written part is to be turned in via Blackboard as Assignment 1 . This is due before class on Tuesday. Please type your answers or write clearly. Include the questions as well as your responses. --Greg"
+  },
+  {
+    "title": "Slides from today, preparation for Thursday",
+    "kind": "post",
+    "url": "posts/slides-from-today-preparation-for-thursday/",
+    "date": "2025-01-28",
+    "text": "As promised, here are the \"Is your brain a computer?\" lecture slides IsTheBrainAComputer Download Your assignment to prepare for Thursday's discussion can be found on the page What is it like to be a bat? --Greg"
+  },
+  {
+    "title": "Bring the reading to class today.",
+    "kind": "post",
+    "url": "posts/bring-the-reading-to-class-today/",
+    "date": "2025-01-30",
+    "text": "Please come to class with a physical or electronic copy of Nagel's \"What is it like to be a bat?\" so we can closely read the most critical parts before the discussion. --Greg"
+  },
+  {
+    "title": "The Organization of the Brain",
+    "kind": "page",
+    "url": "pages/the-organization-of-the-brain/",
+    "date": "2025-01-31",
+    "text": "Overview By functional organization of the brain, we mean an integrated view of neurophysiology, cellular and systems neuroscience, and the anatomy of the central nervous system. The best introductory reading I know of is this classic Scientific American article by Walle_Nauta and Michael Feirtag titled \" The organization of the brain. \" THREE SENSORIA (hearing, vision, and olfaction) send their information to the cerebral cortex in different ways. (Figure from Nauta & Fertig 1979). The peripheral sensory apparatus for hearing and vision involves projections to the thalamus , but olfaction does not (why?). Retinal projections to the lateral geniculate nucleus of the thalamus, from here to the visual cortex. The retina also projects to the superior colliculus . Auditory projections from the"
+  },
+  {
+    "title": "Preparation for class Tuesday, February 4",
+    "kind": "post",
+    "url": "posts/preparation-for-class-tuesday-february-4/",
+    "date": "2025-01-31",
+    "text": "The readings for class on Tuesday is posted on the course blog page Philosophy and our mental life . The written part is to be turned in via Blackboard as Assignment 2 . This is due before class on Tuesday. Please type your answers or write clearly. Include the questions as well as your responses. --Greg"
+  },
+  {
+    "title": "Preparation for class Thursday, February 6",
+    "kind": "post",
+    "url": "posts/preparation-for-class-thursday-february-6/",
+    "date": "2025-02-05",
+    "text": "The reading for class on Tuesday is posted on the course blog page Information, Representation, and Physical Computation . --Greg"
+  },
+  {
+    "title": "Preparation for class Tuesday, February 11",
+    "kind": "post",
+    "url": "posts/preparation-for-class-tuesday-february-11/",
+    "date": "2025-02-08",
+    "text": "The video and readings for class on Tuesday are posted on the course blog page Marr's Three Levels of Inquiry . The written part is to be turned in at the beginning of class, so it needs to be printed out (but there is no need to upload it to Blackboard). --Greg"
+  },
+  {
+    "title": "Preparation for class Thursday, February 13",
+    "kind": "post",
+    "url": "posts/preparation-for-class-thursday-february-6-2/",
+    "date": "2025-02-12",
+    "text": "The reading for class on Thursday is Goldman, Compte, and Wang (2009). Neural Integrator Models. Focus on pp. 165-172 and Figures 1-5. This will be the first of two days discussing \"neural integrators\". The blog page for the next two classes is Neural Integrators (e.g., the vestibulo-ocular reflex and head direction cells) , but the only assignment before class Tuesday is the above-mentioned reading. --Greg"
+  },
+  {
+    "title": "Preparation for class Tuesday, February 18",
+    "kind": "post",
+    "url": "posts/preparation-for-class-tuesday-february-18/",
+    "date": "2025-02-14",
+    "text": "Tuesday will be our second day discussing \"neural integrators\". The blog page is Neural Integrators (e.g., the vestibulo-ocular reflex and head direction cells) . The assignment before class on Tuesday is the following two readings. Read pp. 376-385 of Baer, Connors, and Paradiso (topic: the Vestibular System). [PDF] Read pp. 33-38, 42-44 of Robinson (1989). Integrating with neurons. Annu Rev Neurosci. 12:33-45. The page range indicates that you may skip the Models of Neural Integrators section, which we talked about already. Have a great weekend! --Greg"
+  },
+  {
+    "title": "Preparation for next class Tuesday, February 25",
+    "kind": "post",
+    "url": "posts/preparation-for-next-class-tuesday-february-25/",
+    "date": "2025-02-19",
+    "text": "Because William & Mary is closed on Thursday for Winter Storm Kingston, the next class will not be until next week: Tuesday, February 25. The blog page for Tuesday is Line attractor networks (or how the brain keeps the eyes still) . Come to class having carefully read the assigned PNAS article. Enjoy the snow. Be young and be safe. See you Tuesday! --Greg"
+  },
+  {
+    "title": "Reading for Thursday, February 27",
+    "kind": "post",
+    "url": "posts/reading-for-thursday-february-27-2/",
+    "date": "2025-02-26",
+    "text": "The reading for class on Thursday is a recent review by Mikail Khona and Ila R. Fiete on Attractor and integrator networks in the brain . [PDF] The entire review is quite good. Please read the text through in its entirety (pp. 744-761). Read closely and be prepared to ask questions. Class Thursday will focus on discussion/clarification. --Greg"
+  },
+  {
+    "title": "Preparation for class Tuesday, March 4",
+    "kind": "post",
+    "url": "posts/preparation-for-class-tuesday-march-4/",
+    "date": "2025-02-28",
+    "text": "Our paper for Tuesday is Carr, C.E., 1993. Processing of temporal information in the brain. Annual review of neuroscience, 16(1), pp.223-243. This review discusses studies of neural coding of temporal information in the neuroethological context of weakly electric fish, barn owls, and echolocating bats. The circuits considered achieve their function using delay lines and coincidence detectors . For background read pp. 363-372 of Baer, Connors, and Paradiso (The Auditory and Vestibular Systems). [PDF] At the beginning of class, there may be a short \"accountability\" quiz on the main ideas in these readings and/or recently discussed topics. The questions should be straightforward for students who have done the readings and been paying attention during class discussions. See you Tuesday! --Greg"
+  },
+  {
+    "title": "Reading for Thursday, March 6",
+    "kind": "post",
+    "url": "posts/reading-for-thursday-march-6/",
+    "date": "2025-03-05",
+    "text": "The reading for class on Thursday is the classic paper \" What the frog's eye tells the frog's brain \" by Lettvin, J. Y., Maturana, H. R., McCulloch, W. S., & Pitts, W. H. (1959). Proceedings of the IRE , 47 (11), 1940-1951. Focus on the Introduction, Methods, the first paragraph of Findings, General Discussion and Conclusion. That is, read the whole paper but de-emphasize the figures and pp.1944-1951. Come to class ready for discussion! --Greg"
+  },
+  {
+    "title": "Enjoy Spring Break!",
+    "kind": "post",
+    "url": "posts/enjoy-spring-break/",
+    "date": "2025-03-07",
+    "text": "I wish you all a good Spring Break. If you want to learn more about computational neuroscience over break, here are two ideas (entirely optional). You could read Genealogy of the \u201cGrandmother Cell \u201d \u2014 a short history of neuroscience essay (30 min) that considers philosophical aspects of the concept of feature detectors in visual processing. As a continuation of our discussion of \"sparse coding,\" you might watch the seminar \" From Natural Scene Statistics to Models of Neural Coding & Representation\" by Bruno Olshausen (part 1 only, duration 60 min). This talk was part of a summer school on deep learning and feature detection. The target audience is graduate students studying visual neuroscience and/or computer vision. Be young. Be safe. --Greg"
+  },
+  {
+    "title": "Reading for Thursday, February 27",
+    "kind": "post",
+    "url": "posts/reading-for-thursday-february-27/",
+    "date": "2025-03-19",
+    "text": "The assignment for Thursday, March 20 is posted. See the blog page The Recent Excitement about Neural Networks . Upload your work to Bb as Assignment #3. Bring a copy to class and be prepared to share your thoughts. --Greg"
+  },
+  {
+    "title": "Preparation for class Tuesday, March 25",
+    "kind": "post",
+    "url": "posts/preparation-for-class-tuesday-march-25/",
+    "date": "2025-03-20",
+    "text": "The blog page Hebbian synapses and spike-time dependent plasticity (STDP) has been updated. The main reading is Our main reading is \u201cHebbian Learning and Plasticity\u201d by Wulfram Gerstner . As you start thinking about your Final Project , I recommend you take a look at these good examples . --Greg"
+  },
+  {
+    "title": "Spring 2025 Final Project Statement",
+    "kind": "page",
+    "url": "pages/spring-2025-final-project-statement/",
+    "date": "2025-03-20",
+    "text": "The term project will involve independent library research and deep intellectual engagement with computational neuroscience topic of interest to you. As a deliverable that demonstrates your learning, you might wish to construct a blog page that introduces the other students to your topic, much like those used in this course. This blog page would include significant quotations, thought provoking questions, a close reading assignment, and material for student preparation, response, and further reading. Other possible deliverables include: a written 8-10 page report on your chosen topic, an in-depth podcast on your topic, software that demonstrates a concept from computational neuroscience, or .... the sky is the limit. Regardless of your choice of topic and deliverable, the guiding principle"
+  },
+  {
+    "title": "Spring 2025",
+    "kind": "page",
+    "url": "pages/spring-2025/",
+    "date": "2025-03-20",
+    "text": ""
+  },
+  {
+    "title": "Thalamus: Firing Mode and Synaptic interactions",
+    "kind": "page",
+    "url": "pages/thalamus-firing-mode-and-synaptic-interactions/",
+    "date": "2025-03-28",
+    "text": "Preparation Read Steriade, M., McCormick, D. A., & Sejnowski, T. J. (1993). Thalamocortical oscillations in the sleeping and aroused brain . Science, 262(5134), 679-685. [PDF] Work on your Final Project proposal (target date Wednesday, April 2)."
+  },
+  {
+    "title": "Reading for Thursday, February 27",
+    "kind": "post",
+    "url": "posts/reading-for-thursday-february-27-3/",
+    "date": "2025-03-25",
+    "text": "The assignment for Thursday, March 27 is posted. See the blog page Synaptic Scaling and Synaptic Computation . Bring the reading to class and be prepared to share your thoughts. --Greg"
+  },
+  {
+    "title": "Preparation for class Tuesday, April 1",
+    "kind": "post",
+    "url": "posts/preparation-for-class-tuesday-april-1/",
+    "date": "2025-03-28",
+    "text": "Next class we will be discussing Thalamus: Firing Mode and Synaptic Interactions . The reading is Steriade, M., McCormick, D. A., & Sejnowski, T. J. (1993). Thalamocortical oscillations in the sleeping and aroused brain . Science, 262(5134), 679-685. [PDF] Friendly reminder: Work on your Final Project proposal this weekend (target date Wednesday, April 2). I recommend you take a look at these good examples . --Greg"
+  },
+  {
+    "title": "Preparation for class Thursday, April 3",
+    "kind": "post",
+    "url": "posts/preparation-for-class-thursday-april-3/",
+    "date": "2025-04-02",
+    "text": "Next class we will be discussing EEG, local field potentials, and hippocampal place cells . There is nothing to read in advance. Friendly reminder: The target date for the Final Project proposal is today. This is assignment #4 in Bb. Don't rush on this assignment! It's important that you think carefully about your project proposal (topic, deliverable) and that your proposal includes several good references/resources. You can upload your 2 pages to Bb as late as Friday without fear of the assignment being considered late. --Greg"
+  },
+  {
+    "title": "Preparation for class Tuesday, April 8",
+    "kind": "post",
+    "url": "posts/preparation-for-class-tuesday-april-8/",
+    "date": "2025-04-04",
+    "text": "Next class we will be discussing Hippocampal Place Cells . The only preparation is to watch a short video on the topic ( see blog page ). Use the extra time to continue working on your final projects. --Greg"
+  },
+  {
+    "title": "Preparation for class Thursday, April 10",
+    "kind": "post",
+    "url": "posts/preparation-for-class-thursday-april-10/",
+    "date": "2025-04-09",
+    "text": "The assignment for class Thursday includes two short readings related to the neuroscience of smell. See the blog page: Olfactory Coding . --Greg"
+  },
+  {
+    "title": "Preparation for class Tuesday, April 15",
+    "kind": "post",
+    "url": "posts/preparation-for-class-tuesday-april-15/",
+    "date": "2025-04-12",
+    "text": "In the next class, we will discuss how linguistics turned computational with the work of Noam Chomsky - see blog page Language is not learned . There are three short videos to watch prior to class. Use the extra time to continue working on your final projects. --Greg"
+  },
+  {
+    "title": "Preparation for class Thursday, April 17",
+    "kind": "post",
+    "url": "posts/preparation-for-class-thursday-april-17/",
+    "date": "2025-04-16",
+    "text": "On Thursday we will be discussing Theory of Mind . There is no assigned reading or watching to be done before class. Use the extra time to work on your term project. --Greg"
+  },
+  {
+    "title": "Preparation for class Tuesday, April 22",
+    "kind": "post",
+    "url": "posts/preparation-for-class-tuesday-april-22/",
+    "date": "2025-04-21",
+    "text": "There is no assignment before class. Use the released time to work on your final project. You might want to bring a laptop on Tuesday because I will give you some time to submit course evaluations. --Greg"
+  },
+  {
+    "title": "Notes from class Thursday, April 24",
+    "kind": "post",
+    "url": "posts/notes-from-class-thursday-april-24/",
+    "date": "2025-04-24",
+    "text": "In Computational Neuroscience today, we learned about good old-fashioned AI (GOFAI) and how it compares to modern LLM-based generative AI, through a conversation with ChatGPT (see link below). https://chatgpt.com/share/680a8feb-0c38-8007-b8f9-4c22e38c2520 Have a good weekend. --Greg"
+  },
+  {
+    "title": "Final project reminders",
+    "kind": "post",
+    "url": "posts/final-project-reminders/",
+    "date": "2025-05-06",
+    "text": "Final projects are due Wednesday, May 14. Regardless of your choice of topic and deliverable, remember the guiding principles of this term project include engaging genuinely and deeply with your topic , and creating a high-quality deliverable that represents your best work (and is worthy to be shared with others) . If the creation of your deliverable involved generative AI, this should be acknowledged in the deliverable itself, or in a \"letter to the reader\" that you include with your submission. Explain where, when, and how you used this emerging cultural technology. In addition, please describe your experience of its pros and cons, for example, whether or not generative AI led to deeper engagement with your topic. Best, Greg"
+  }
+]
