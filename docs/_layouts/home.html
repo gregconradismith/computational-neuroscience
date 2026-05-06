@@ -1,0 +1,66 @@
+---
+layout: default
+---
+{% assign featured_slugs = "calendar-spring-2025,syllabus,readings,foundations,spring-2025-final-project-statement,projects-3,resources,books-on-computational-neuroscience" | split: "," %}
+{% assign course_arc_slugs = "a-kind-of-impalpability-to-this-whole-business,the-empty-brain,_-whats-it-like-to-be-a-bat,materialism-and-mechanism,the-organization-of-the-brain,marrs-three-levels-of-inquiry,information-and-physical-computation,oculomotor-system,feature-detectors-what-the-frogs-eye-tells-the-frogs-brain,hippocampal-place-cells-2,olfactory-network-dynamics,consciousness-without-cortex,spring-2025-final-project-statement" | split: "," %}
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">William &amp; Mary 400-level discussion/capstone course</p>
+        <h1>{{ site.title | escape }}</h1>
+        <p>{{ site.description | escape }}. A static, browsable edition of the course site exported from WordPress.</p>
+        <div class="hero-actions">
+          <a class="button primary" href="{{ '/pages/calendar-spring-2025/' | relative_url }}">View calendar</a>
+          <a class="button" href="{{ '/pages/' | relative_url }}">Browse materials</a>
+        </div>
+      </div>
+      <img src="{{ '/wp-content/uploads/2025/01/dallc2b7e-2025-01-22-19.53.45-banner-for-a-blog-dedicated-to-a-computational-neuroscience-course.png' | relative_url }}" alt="Computational Neuroscience course artwork">
+    </section>
+
+    <section class="section">
+      <div class="section-heading">
+        <p class="eyebrow">Core course pages</p>
+        <h2>Start here</h2>
+      </div>
+      <div class="card-grid">
+        {% for slug in featured_slugs %}
+          {% assign item = site.materials | where: "slug", slug | first %}
+          {% if item %}
+        <article class="card feature">
+          <p class="eyebrow">Course material</p>
+          <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
+          <p>{{ item.content | strip_html | normalize_whitespace | replace: "&amp;", "&" | replace: "&nbsp;", " " | truncatewords: 24 }}</p>
+        </article>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </section>
+
+    <section class="section two-column">
+      <div>
+        <div class="section-heading">
+          <p class="eyebrow">{{ course_arc_slugs | size }} selected pages</p>
+          <h2>Course arc</h2>
+        </div>
+        <ol class="link-list">
+          {% for slug in course_arc_slugs %}
+            {% assign item = site.materials | where: "slug", slug | first %}
+            {% if item %}
+          <li><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a><span>{{ item.content | strip_html | normalize_whitespace | replace: "&amp;", "&" | replace: "&nbsp;", " " | truncatewords: 14 }}</span></li>
+            {% endif %}
+          {% endfor %}
+        </ol>
+      </div>
+      <aside class="updates-panel">
+        <div class="section-heading">
+          <p class="eyebrow">Recent posts</p>
+          <h2>Course updates</h2>
+        </div>
+        {% for item in site.posts limit: 6 %}
+        <article class="card">
+          <p class="eyebrow">{{ item.date | date: "%b %-d, %Y" }}</p>
+          <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
+          <p>{{ item.content | strip_html | normalize_whitespace | replace: "&amp;", "&" | replace: "&nbsp;", " " | truncatewords: 24 }}</p>
+        </article>
+        {% endfor %}
+      </aside>
+    </section>

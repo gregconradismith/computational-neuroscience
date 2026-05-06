@@ -1,0 +1,49 @@
+---
+title: "The problem of qualia"
+kind: "page"
+date: "1970-01-01"
+slug: "the-problem-of-qualia"
+permalink: "/pages/the-problem-of-qualia/"
+render_with_liquid: false
+---
+<!-- wp:paragraph -->
+<p>Cognitive neuroscientists "...ought to be able to exploit the conceptual and technical resources of computational research to help find explanations of how neural structures achieve their effects..." (<a href="https://apsc450computationalneuroscience.wordpress.com/mind-as-machine/#FurtherReading">Churchland et al. 1993).</a>&nbsp; &nbsp; Given the range of effects of neural structures -- reflexes to consciousness -- this is a tall order!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>While it seems plausible that contemporary neuroscientists are able to explain how, say, the <a href="https://www.sciencedirect.com/topics/neuroscience/oculomotor-system">oculomotor system</a> manages to control eye position, "we&nbsp;have at present no conception of what an explanation of the physical nature of a mental phenomenon would be." (Thomas Nagel 1974. &nbsp;<em>What is it like to be a bat?</em>)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Neuroscientists tend to be monists (as opposed to dualists), which is the philosophical position that the mind and the brain are (somehow) two different sides of the same coin. &nbsp; We presume that mentality is a property of certain physical systems (such as the brain) that possess a particular (not well-understood) type of <strong>functional organization</strong>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Without disputing monism, philosophers have pointed out that the psycho-physical identity statements presupposed by modern neuroscience leave a significant <strong>explanatory gap</strong>. &nbsp; To paraphrase from Joseph Levine's&nbsp;article (see Further Reading) on the subject of &nbsp;<strong>materialism</strong> and <strong>qualia</strong>,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>...if penetration of the skin by a sharp metallic object excites certain nerve endings, which in turn excite the <a href="https://en.wikipedia.org/wiki/Group_C_nerve_fiber">C-fibers</a>, which then causes various avoidance mechanisms to go into effect, the casual role of pain has been explained. &nbsp;... [Now] we do feel that the casual role of pain is critical to our concept of it, and that discovering the physical mechanism by which this causal role is effected explains an import facet of what there is to be explained about pain. &nbsp;However, there is more to our concept of pain than its causal role, there is it qualitative character, how it feels; and what is left unexplained by the discovery of C-fiber firing is <em>why pain should feel the way it does</em>! &nbsp;For there seems to be nothing about C-fiber firing which makes it naturally "fit" the phenomenal properties of &nbsp;pain, any more than it would fit some other set of phenomenal properties.</p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>To give another example, the physical story of vision "involves talk about the various wave-lengths detectible by the retina, and the receptors and processors that discriminate among them" (Levine). &nbsp;How can this physical story of vision -- even a far more accurate and elaborate version of it -- explain the qualitative (subjective, phenomenal) aspects of our visual experiences of color (e.g., the redness of red versus the greenness of green)?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>The problem of qualia is that it is unclear how phenomenal aspects of consciousness are to be connected to the functional states of the nervous system that subserve mentality.</strong> &nbsp; Any proposed connection seems arbitrary. &nbsp;"You can't get there from here." &nbsp;(This isn't an argument against materialism, because Cartesian dualism is in no better position to make this connection than neuroscience's presumptive monism.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Further reading</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0114.1983.tb00207.x">Levine, J., 1983. Materialism and qualia: The explanatory gap. <i>Pacific philosophical quarterly</i>, <i>64</i>(4), pp.354-361.</a></p>
+<!-- /wp:paragraph -->
