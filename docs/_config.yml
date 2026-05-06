@@ -1,0 +1,36 @@
+title: "Computational Neuroscience"
+description: "a 400-level discussion/capstone course at William & Mary"
+url: ""
+baseurl: ""
+brand_mark: "CN"
+original_site: "https://apsc450computationalneuroscience.wordpress.com"
+exported: "Wed, 06 May 2026 00:42:55 +0000"
+
+markdown: kramdown
+future: true
+permalink: /posts/:slug/
+
+collections:
+  materials:
+    output: true
+    permalink: /pages/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: materials
+    values:
+      layout: page
+      kind: page
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: page
+      kind: post
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md

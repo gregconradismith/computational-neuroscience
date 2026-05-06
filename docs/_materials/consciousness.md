@@ -1,0 +1,46 @@
+---
+title: "_ Consciousness"
+kind: "page"
+date: "1970-01-01"
+slug: "_-consciousness"
+permalink: "/pages/_-consciousness/"
+render_with_liquid: false
+---
+<h2>Preparation for this class</h2>
+Read ...
+
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0114.1983.tb00207.x">Levine, J., 1983. Materialism and qualia: The explanatory gap. <i>Pacific philosophical quarterly</i>, <i>64</i>(4), pp.354-361.</a>
+
+&nbsp;
+
+Pennartz, Cyriel M. A.. The Brain's Representational Power : On Consciousness and the Integration of Modalities, MIT Press, 2015. <a href="http://ebookcentral.proquest.com/lib/cwm/detail.action?docID=4093109. Created from cwm on 2019-01-08 07:54:29.">[ProQuestEbookCentral]</a>
+
+&nbsp;
+<blockquote>The approach I chose for this book is, first, to isolate brain systems and physiological processes that can be selectively associated with consciousness. Based on neurological and other neuroscientific findings, this will next lead us to examine the neural basis of representations in the brain, particularly those in the sensory domain. I will argue that <strong>not just any type of neural activity pattern is sufficient to generate the sort of sensory representation we can associate with consciousness</strong>. This will prompt us to examine <strong>the requirements that neural systems should fulfill to qualify as generators of the kind of experiences we are aware of</strong>. Finally, we will ask how those requirements may be neurally implemented. It will turn out to be important to parse the problem of neural representations at multiple levels of neural organization—at the level of single cells, groups of neurons, and even more complex aggregates. (Cyriel Pennartz, The Brain's Representational Power, p. 1)</blockquote>
+&nbsp;
+
+&nbsp;
+<blockquote>I would like to make one further distinction. This concerns a widespread, dual use of the concept of “meaning.” If we are recording electrical activity from the brain and see how specifically spikes (electrical impulses) of neurons respond to external stimuli such as a sip of orange juice, the dazzling question comes up of how these neurons could ever represent something having meaning. If you recognize an image of the Eiffel Tower and attribute meaning to this sensory input, how do the neurons in your brain produce any meaningful knowledge about the image? The problem here is to find out how neuronal activity—with no obvious “meaning” by itself, and manifested by way of trains of spikes that strongly resemble a long string of zeros and ones across time—can be about something, can refer to the tangible and meaningful objects captured in our perception. The problem of meaning and “aboutness” has been mainly analyzed in the philosophy of language and semantics, which has coined the related term “intentionality,” to which we will return later (Searle, 1983, 2004; see also Fodor, 1988; Putnam, 1975a,b; Burge, 1979).
+
+Here I will argue to distinguish two different notions of meaning. Suppose we were at a gemstone exhibition, admiring a beautiful lapis lazuli, and you were to ask, “What does the color of this stone mean to you?” then I could start recalling all events, objects, attributes, and emotions associated with this dark-blue color. I would be happy reminiscing about the purchase of a ring with a lapis lazuli 21 years ago for my wife but might also think how the stone was brought from central Asian quarries to Europe, enabling Michelangelo to use dark blue colors in the Sistine Chapel’s frescoes. This sense of “meaning” is derived from all learned associations we have formed throughout our life between that color and contexts in which we perceived it. I will refer to it as the concept of “<strong>associative meaning</strong>.” The other sense of meaning refers to our phenomenal, qualitative experience of the color itself. We can logically dissociate our perception of the color from our previous daily-life experiences and learned associations. When we view the stone, we do not have to think of the past in order to see its color. Chapter 3 will present evidence from densely amnesic patients to examine whether perception and autobiographical memories can also be neurologically dissociated. I will refer to this second notion as “<strong>phenomenal meaning</strong>.” (Cyriel Pennartz, The Brain's Representational Power, p. 8-9)
+
+&nbsp;</blockquote>
+
+<hr />
+
+<h2>Summary</h2>
+
+<hr />
+
+<h2>Response</h2>
+
+<hr />
+
+<h2>Further reading</h2>
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0114.1983.tb00207.x">Levine, J., 1983. Materialism and qualia: The explanatory gap. <i>Pacific philosophical quarterly</i>, <i>64</i>(4), pp.354-361.</a>
+
+<a href="https://www.jstor.org/stable/2183914?casa_token=is2AjhkzQFMAAAAA:ib3oCZYBY6rDP2Qka0ab3K7aN0nj8mxWiVrug_6Q20sabBLD5ktTBhpShTzv1cYEifZBbOyc4QmPc3lPz5HpyWf8TH-JW9Vsyx2u8UptviVdD6DxnRdP&amp;seq=1#metadata_info_tab_contents">Nagel, T., 1974. What is it like to be a bat?. The philosophical review, 83(4), pp.435-450.</a>
+
+&nbsp;
+
+Steeves, H.P., 2006. <i>The things themselves: Phenomenology and the return to the everyday</i>. Binghamton, NY: State University of New York Press.  <a href="https://www.amazon.com/dp/0791468542">[Amazon]</a> <a href="https://wm-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01COWM_WM_ALMA21560756490003196&amp;context=L&amp;vid=01COWM_WM_NEWUI&amp;search_scope=01COWM_WM_ALMA&amp;tab=01cowm_alma&amp;lang=en_US">[SWEM]</a>
