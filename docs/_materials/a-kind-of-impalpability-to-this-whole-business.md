@@ -21,7 +21,7 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If the discipline of&nbsp;<strong><a href="https://en.wikipedia.org/wiki/Cognitive_neuroscience">cognitive neuroscience</a>&nbsp;</strong>is the study of how mental processes are subserved by neural circuits of the brain, then <strong><a href="https://en.wikipedia.org/wiki/Computational_neuroscience">computational neuroscience</a></strong> (as we will use the term) is a theoretical approach to cognitive neuroscience.</p>
+<p>If the discipline of **cognitive neuroscience [\[Publisher\]](https://en.wikipedia.org/wiki/Cognitive_neuroscience) **is the study of how mental processes are subserved by neural circuits of the brain, then **computational neuroscience [\[Publisher\]](https://en.wikipedia.org/wiki/Computational_neuroscience)** (as we will use the term) is a theoretical approach to cognitive neuroscience.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -53,11 +53,11 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>We will visit Jerome Lettvin and his contemporaries -- McCulloch, Pitts, and so on -- at several points in this course, as we make an effort to understand the history of computational and cognitive neuroscience, as documented in <a href="https://global.oup.com/academic/product/mind-as-machine-9780199241446?cc=us&amp;lang=en&amp;"><em>Mind as Machine&nbsp;</em>by Margaret Boden</a> and other sources. &nbsp;<strong>What benefits might there be to emphasizing this historical dimension of computational neuroscience?</strong></p>
+<p>We will visit Jerome Lettvin and his contemporaries -- McCulloch, Pitts, and so on -- at several points in this course, as we make an effort to understand the history of computational and cognitive neuroscience, as documented in *Mind as Machine *by Margaret Boden [\[Publisher\]](https://global.oup.com/academic/product/mind-as-machine-9780199241446?cc=us&lang=en&) and other sources. **What benefits might there be to emphasizing this historical dimension of computational neuroscience?**</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The following link will take you to a transcript of Lettvin lecturing on <a href="../the-message-and-the-meaning-of-the-message/">"A view of the function of the neuron,"</a> in which he describes "a kind of impalpability of this whole business" of trying to move from an understanding of neurophysiology to nervous system information processing. &nbsp; Lettvin insists that the primary difficulties of doing nervous systems research are <em>conceptual</em> rather than <em>technical</em>. &nbsp;He also insists that the most interesting and vital&nbsp;future scientific work will involve <em>informational</em> as well as <em>material</em> aspects of the world. &nbsp;David Marr, a well-known computational neuroscientist, writing several decades later, agrees:</p>
+<p>The following link will take you to a transcript of Lettvin lecturing on "A view of the function of the neuron," [\[Page\]](../the-message-and-the-meaning-of-the-message/) in which he describes "a kind of impalpability of this whole business" of trying to move from an understanding of neurophysiology to nervous system information processing. Lettvin insists that the primary difficulties of doing nervous systems research are *conceptual* rather than *technical*. He also insists that the most interesting and vital future scientific work will involve *informational* as well as *material* aspects of the world. David Marr, a well-known computational neuroscientist, writing several decades later, agrees:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
@@ -84,13 +84,13 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://books.google.com/books?hl=en&amp;lr=&amp;id=l7vsCgAAQBAJ&amp;oi=fnd&amp;pg=PT42&amp;dq=What+Is+Computational+Neuroscience%3F&amp;ots=JUCZnQsS9d&amp;sig=IPrywAy5vmHx65uhf_1qf_Yu-uc#v=onepage&amp;q=What%20Is%20Computational%20Neuroscience%3F&amp;f=false">Churchland, P.S., Koch, C. and Sejnowski, T.J., 1994. What Is Computational Neuroscience?</a> In: <span class="author notFaded">Gutfreund,&nbsp;Hanoch and&nbsp;<span class="contribution"><span class="a-color-secondary"> Toulouse,&nbsp;</span></span>Gerard, editors.&nbsp;</span><i>Biology And Computation: A Physicist's Choice</i>, <i>3</i>, p.25. &nbsp;<a href="https://www.amazon.com/dp/9810214057">[Amazon]</a></li>
+<li>Churchland, P.S., Koch, C. and Sejnowski, T.J., 1994. What Is Computational Neuroscience? [\[Publisher\]](https://books.google.com/books?hl=en&lr=&id=l7vsCgAAQBAJ&oi=fnd&pg=PT42&dq=What+Is+Computational+Neuroscience%3F&ots=JUCZnQsS9d&sig=IPrywAy5vmHx65uhf_1qf_Yu-uc#v=onepage&q=What%20Is%20Computational%20Neuroscience%3F&f=false) In: Gutfreund, Hanoch and Toulouse, Gerard, editors. *Biology And Computation: A Physicist's Choice*, *3*, p.25. [\[Amazon\]](https://www.amazon.com/dp/9810214057)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><a title="sejnowskietal1988" href="http://science.sciencemag.org/content/241/4871/1299.long">Sejnowski, T.J., Koch, C. and Churchland, P.S., 1988. Computational neuroscience. Science, 241(4871), pp.1299-1306.</a></li>
+<li>Sejnowski, T.J., Koch, C. and Churchland, P.S., 1988. Computational neuroscience. Science, 241(4871), pp.1299-1306. [\[Publisher\]](http://science.sciencemag.org/content/241/4871/1299.long)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -99,5 +99,5 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If you are a William &amp; Mary student, you can access an electronic version of most of the required and suggested readings under the <a href="../readings/">Readings</a>&nbsp;tab (password protected).</p>
+<p>If you are a William & Mary student, you can access an electronic version of most of the required and suggested readings under the Readings [\[Readings\]](../readings/) tab (password protected).</p>
 <!-- /wp:paragraph -->

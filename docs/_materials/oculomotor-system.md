@@ -12,7 +12,7 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Read pp. 165-172 of&nbsp;<a title="Goldmanetal_NeuralIntegrators" href="../../wp-content/uploads/2019/01/Goldmanetal_NeuralIntegrators.pdf">Goldman, Compte, and Wang (2009). &nbsp;Neural Integrator Models.</a>&nbsp; This reading discusses neural integrators more generally. Focus on understanding Figures 1-5.</li>
+<li>Read pp. 165-172 of Goldman, Compte, and Wang (2009). Neural Integrator Models. [\[PDF\]](../../wp-content/uploads/2019/01/Goldmanetal_NeuralIntegrators.pdf) This reading discusses neural integrators more generally. Focus on understanding Figures 1-5.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -22,13 +22,13 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Read pp. 376-385 of Baer, Connors, and Paradiso (The Auditory and Vestibular Systems).  <a href="../../wp-content/uploads/2025/02/baeretalneurosciencech11auditoryandvestibularsystems.pdf">[PDF]</a> </li>
+<li>Read pp. 376-385 of Baer, Connors, and Paradiso (The Auditory and Vestibular Systems). [\[PDF\]](../../wp-content/uploads/2025/02/baeretalneurosciencech11auditoryandvestibularsystems.pdf)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Read pp. 33-38, 42-44 of <a title="robinson_integratingwithneurons" href="../../wp-content/uploads/2019/01/robinson_integratingwithneurons.pdf">Robinson (1989). Integrating with neurons. <span title="Annual review of neuroscience">Annu Rev Neurosci. </span>12:33-45.</a> The page range indicates that you may skip the <em>Models of Neural Integrators</em> section, which we talked about already.</li>
+<li>Read pp. 33-38, 42-44 of Robinson (1989). Integrating with neurons. Annu Rev Neurosci. 12:33-45. [\[PDF\]](../../wp-content/uploads/2019/01/robinson_integratingwithneurons.pdf) The page range indicates that you may skip the *Models of Neural Integrators* section, which we talked about already.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -66,12 +66,12 @@ render_with_liquid: false
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>... the evolution of excitatory and inhibitory activity in a synaptically coupled neuronal network. As opposed to being a detailed biophysical model, [these equations are] a coarse-grained description of the overall activity of a large-scale neuronal network.... Key parameters in the model are the strength of connectivity between each subtype of population (excitatory and inhibitory) and the strength of input to each subpopulation. Varying these generates a diversity of dynamical behaviors that are representative of observed activity in the brain, like multistability, oscillations, traveling waves, and spatial patterns. &nbsp;(From&nbsp;<span style="color: var(--color-neutral-500);background: var(--color-neutral-0)">Kilpatrick 2013. <a href="https://www.colorado.edu/amath/sites/default/files/attached-files/kilpatrick_wc14.pdf">Wilson-Cowan model.</a> &nbsp;Encyclopedia of Computational Neuroscience.)&nbsp;</span></p>
+<p>... the evolution of excitatory and inhibitory activity in a synaptically coupled neuronal network. As opposed to being a detailed biophysical model, [these equations are] a coarse-grained description of the overall activity of a large-scale neuronal network.... Key parameters in the model are the strength of connectivity between each subtype of population (excitatory and inhibitory) and the strength of input to each subpopulation. Varying these generates a diversity of dynamical behaviors that are representative of observed activity in the brain, like multistability, oscillations, traveling waves, and spatial patterns. (From Kilpatrick 2013. Wilson-Cowan model. [\[PDF\]](https://www.colorado.edu/amath/sites/default/files/attached-files/kilpatrick_wc14.pdf) Encyclopedia of Computational Neuroscience.)</p>
 <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p>Some mathematical explanation for the form of these equations is provided in&nbsp;<a title="wilsoncowan" href="../../wp-content/uploads/2019/01/wilsoncowan.pdf">these notes on Wilson-Cowan-type equations</a>, &nbsp;The readings also discuss how the integration time constant for recurrent excitatory networks is longer than the time constant for the decay of neural activity in the absence of recurrent excitation. &nbsp;<a title="postivefeedback" href="../../wp-content/uploads/2019/01/postivefeedback.pdf">These notes show how postive feedback changes time constant of leaky integrator.</a></p>
+<p>Some mathematical explanation for the form of these equations is provided in these notes on Wilson-Cowan-type equations [\[PDF\]](../../wp-content/uploads/2019/01/wilsoncowan.pdf), The readings also discuss how the integration time constant for recurrent excitatory networks is longer than the time constant for the decay of neural activity in the absence of recurrent excitation. These notes show how postive feedback changes time constant of leaky integrator. [\[PDF\]](../../wp-content/uploads/2019/01/postivefeedback.pdf)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -150,23 +150,23 @@ legend({'u1','u2'})
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><a title="arnold1992aneuralnetworkmodlofvor" href="../../wp-content/uploads/2019/01/arnold1992aneuralnetworkmodlofvor.pdf">Arnold and Robinson (1992). A neural network model&nbsp;of the&nbsp;vestibulo-ocular reflex&nbsp;using a local synaptic learning rule.&nbsp;&nbsp;<span title="Philosophical transactions of the Royal Society of London. Series B, Biological sciences">Philos Trans R Soc Lond B Biol Sci</span>. 337(1281):327-30.</a></li>
+<li>Arnold and Robinson (1992). A neural network model of the vestibulo-ocular reflex using a local synaptic learning rule. Philos Trans R Soc Lond B Biol Sci. 337(1281):327-30. [\[PDF\]](../../wp-content/uploads/2019/01/arnold1992aneuralnetworkmodlofvor.pdf)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a title="sejnowskidestexhe2009thewilson-cowan_model_36_years_later" href="../../wp-content/uploads/2019/01/sejnowskidestexhe2009thewilson-cowan_model_36_years_later.pdf">Destexhe, A. and Sejnowski, T.J., 2009. The Wilson–Cowan model, 36 years later. <i>Biological cybernetics</i>, <i>101</i>(1), pp.1-2.</a></li>
+<li>Destexhe, A. and Sejnowski, T.J., 2009. The Wilson–Cowan model, 36 years later. *Biological cybernetics*, *101*(1), pp.1-2. [\[PDF\]](../../wp-content/uploads/2019/01/sejnowskidestexhe2009thewilson-cowan_model_36_years_later.pdf)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a title="cannonetal1983" href="../../wp-content/uploads/2019/01/cannonetal1983.pdf">Cannon, Robinson and Shamma (1983). &nbsp;A proposed neural network for the integrator of the oculomotor system. &nbsp;Biol Cybern. 49(2):127-36.</a></li>
+<li>Cannon, Robinson and Shamma (1983). A proposed neural network for the integrator of the oculomotor system. Biol Cybern. 49(2):127-36. [\[PDF\]](../../wp-content/uploads/2019/01/cannonetal1983.pdf)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a title="front._neural_circuits_2016_branoner" href="../../wp-content/uploads/2019/01/front._neural_circuits_2016_branoner.pdf">Branoner, F., Chagnaud, B. P., &amp; Straka, H. (2016). Ontogenetic development of vestibulo-ocular reflexes in amphibians. <i>Frontiers in neural circuits</i>, <i>10</i>, 91.</a></li>
+<li>Branoner, F., Chagnaud, B. P., & Straka, H. (2016). Ontogenetic development of vestibulo-ocular reflexes in amphibians. *Frontiers in neural circuits*, *10*, 91. [\[PDF\]](../../wp-content/uploads/2019/01/front._neural_circuits_2016_branoner.pdf)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a title="jneurophysiol2004angelaki" href="../../wp-content/uploads/2019/01/jneurophysiol2004angelaki.pdf">Angelaki, D. E. (2004). Eyes on target: what neurons must do for the vestibuloocular reflex during linear motion. <i>Journal of neurophysiology</i>, <i>92</i>(1), 20-35.</a></li>
+<li>Angelaki, D. E. (2004). Eyes on target: what neurons must do for the vestibuloocular reflex during linear motion. *Journal of neurophysiology*, *92*(1), 20-35. [\[PDF\]](../../wp-content/uploads/2019/01/jneurophysiol2004angelaki.pdf)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 

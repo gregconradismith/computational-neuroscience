@@ -12,7 +12,7 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Read through this blog page and then complete the reading <a href="https://www.nature.com/articles/nature03010">Abbott, L.F. and Regehr, W.G., 2004. Synaptic computation. <i>Nature</i>, <i>431</i>(7010), p.796. </a><a title="abbottregehr2004" href="../../wp-content/uploads/2019/01/abbottregehr2004.pdf">[PDF]</a></li>
+<li>Read through this blog page and then complete the reading Abbott, L.F. and Regehr, W.G., 2004. Synaptic computation. *Nature*, *431*(7010), p.796. [\[Publisher\]](https://www.nature.com/articles/nature03010)[\[PDF\]](../../wp-content/uploads/2019/01/abbottregehr2004.pdf)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -111,11 +111,11 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.nature.com/articles/nn1100_1178">Abbott, L.F. and Nelson, S.B., 2000. Synaptic plasticity: taming the beast. <i>Nature Neuroscience</i>, <i>3</i>:1178-1183.</a>  <a title="abbottnelson00" href="../../wp-content/uploads/2019/01/abbottnelson00.pdf">[PDF]</a></p>
+<p>Abbott, L.F. and Nelson, S.B., 2000. Synaptic plasticity: taming the beast. *Nature Neuroscience*, *3*:1178-1183. [\[Publisher\]](https://www.nature.com/articles/nn1100_1178) [\[PDF\]](../../wp-content/uploads/2019/01/abbottnelson00.pdf)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.nature.com/articles/nature03010">Abbott, L.F. and Regehr, W.G., 2004. Synaptic computation. <i>Nature</i>, <i>431</i>(7010), p.796.&nbsp;</a><a title="abbottregehr2004" href="../../wp-content/uploads/2019/01/abbottregehr2004.pdf">[PDF]</a></p>
+<p>Abbott, L.F. and Regehr, W.G., 2004. Synaptic computation. *Nature*, *431*(7010), p.796. [\[Publisher\]](https://www.nature.com/articles/nature03010)[\[PDF\]](../../wp-content/uploads/2019/01/abbottregehr2004.pdf)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -21,11 +21,11 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Required reading: &nbsp;<a href="https://www.jstor.org/stable/2183914?casa_token=is2AjhkzQFMAAAAA:ib3oCZYBY6rDP2Qka0ab3K7aN0nj8mxWiVrug_6Q20sabBLD5ktTBhpShTzv1cYEifZBbOyc4QmPc3lPz5HpyWf8TH-JW9Vsyx2u8UptviVdD6DxnRdP&amp;seq=1#metadata_info_tab_contents">Nagel, T., 1974. What is it like to be a bat?. The philosophical review, 83(4), pp.435-450.</a>&nbsp; (90 mins).</p>
+<p>Required reading: Nagel, T., 1974. What is it like to be a bat?. The philosophical review, 83(4), pp.435-450. [\[JSTOR\]](https://www.jstor.org/stable/2183914?casa_token=is2AjhkzQFMAAAAA:ib3oCZYBY6rDP2Qka0ab3K7aN0nj8mxWiVrug_6Q20sabBLD5ktTBhpShTzv1cYEifZBbOyc4QmPc3lPz5HpyWf8TH-JW9Vsyx2u8UptviVdD6DxnRdP&seq=1#metadata_info_tab_contents) (90 mins).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If you find this reading difficult to understand, please watch the video&nbsp;<a href="https://youtu.be/-Pj26s8u6Vo">Tips For Reading Philosophy</a> by Ellie Anderson (15 min).&nbsp;</p>
+<p>If you find this reading difficult to understand, please watch the video Tips For Reading Philosophy [\[Video\]](https://youtu.be/-Pj26s8u6Vo) by Ellie Anderson (15 min).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
@@ -51,7 +51,7 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>On a first reading one might think that Nagel's concern is <a href="../the-problem-of-qualia/">the problem of qualia</a>.</p>
+<p>On a first reading one might think that Nagel's concern is the problem of qualia [\[Page\]](../the-problem-of-qualia/).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
@@ -105,7 +105,7 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p> <strong>The Dictionary of Cognitive Science</strong> is a great resource <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033112486903196">[SWEM Online]</a> <a href="../readings/">[Readings]</a>. At this point, I recommend reading the entries for <strong>Turing Machine</strong>, <strong>Reductionism</strong>, and <strong>Representation</strong>. Notice the differences between the meaning of "representation" in neuroscience, psychology, artificial intelligence, linguistics, and philosophy.</p>
+<p>**The Dictionary of Cognitive Science** is a great resource [\[SWEM Online\]](https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033112486903196) [\[Readings\]](../readings/). At this point, I recommend reading the entries for **Turing Machine**, **Reductionism**, and **Representation**. Notice the differences between the meaning of "representation" in neuroscience, psychology, artificial intelligence, linguistics, and philosophy.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
@@ -117,7 +117,7 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>The video below is the fourth in&nbsp;<a href="https://onemorebrown.com">Richard Brown's</a>&nbsp;course <em><a href="https://www.youtube.com/watch?v=KG6wpcsklXU&amp;list=PLfR0qhtOKP6eCYVB8F1fwr148DIn6wFwY">Introduction to the Philosophical Study of the Mind</a>&nbsp;</em>(LaGuardia Community College). &nbsp;<span style="color: #ff0000">Watch from 14:15 to 22:10 (8 minutes) <span style="color: #000000">where Brown discusses our Nagel's essay and&nbsp;<em>the explanatory gap</em>.</span></span></p>
+<p>The video below is the fourth in Richard Brown's [\[Publisher\]](https://onemorebrown.com) course *Introduction to the Philosophical Study of the Mind [\[Video\]](https://www.youtube.com/watch?v=KG6wpcsklXU&list=PLfR0qhtOKP6eCYVB8F1fwr148DIn6wFwY) *(LaGuardia Community College). Watch from 14:15 to 22:10 (8 minutes) where Brown discusses our Nagel's essay and *the explanatory gap*.</p>
 <!-- /wp:paragraph -->
 
 <div class="embed-youtube">

@@ -16,11 +16,11 @@ render_with_liquid: false
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Read this 1-page viewpoint on the "basic computational unit" of the brain.  <a href="https://www.nature.com/articles/nn1100_1167" target="_blank" rel="noopener"><strong>Zador, A. M. (2000). The basic unit of computation. <i>Nature neuroscience</i>, <i>3</i>(11), 1167-1167.</strong></a>   <a title="2000-Z-Zador-The_basic_unit_of_computation" href="../../wp-content/uploads/2020/03/2000-z-zador-the_basic_unit_of_computation.pdf">[PDF]</a></li>
+<li>Read this 1-page viewpoint on the "basic computational unit" of the brain. **Zador, A. M. (2000). The basic unit of computation. *Nature neuroscience*, *3*(11), 1167-1167.** [\[Publisher\]](https://www.nature.com/articles/nn1100_1167) [\[PDF\]](../../wp-content/uploads/2020/03/2000-z-zador-the_basic_unit_of_computation.pdf)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Our main reading is <strong><a href="../../wp-content/uploads/2025/03/gerstner2011hebbianlearning.pdf">"Hebbian Learning and Plasticity" by Wulfram Gerstner</a></strong>.  The mathematical formulation of Hebbian plasticity in terms of correlation of pre- and post-synaptic firing rates begins in Section 6.2.3 (p. 203).</li>
+<li>Our main reading is **"Hebbian Learning and Plasticity" by Wulfram Gerstner [\[PDF\]](../../wp-content/uploads/2025/03/gerstner2011hebbianlearning.pdf)**. The mathematical formulation of Hebbian plasticity in terms of correlation of pre- and post-synaptic firing rates begins in Section 6.2.3 (p. 203).</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -108,38 +108,38 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://www.nature.com/articles/nn1100_1166">Seung, H.S., 2000. Half a century of Hebb. <em>Nature neuroscience</em>, <em>3</em>, pp.1166-1166.</a></li>
+<li>Seung, H.S., 2000. Half a century of Hebb. *Nature neuroscience*, *3*, pp.1166-1166. [\[Publisher\]](https://www.nature.com/articles/nn1100_1166)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://www.frontiersin.org/articles/10.3389/fnsyn.2011.00004/full">Markram, H., Gerstner, W. and Sjöström, P.J., 2011. A history of spike-timing-dependent plasticity. <i>Frontiers in Synaptic Neuroscience</i>, <i>3</i>, p.4.</a></li>
+<li>Markram, H., Gerstner, W. and Sjöström, P.J., 2011. A history of spike-timing-dependent plasticity. *Frontiers in Synaptic Neuroscience*, *3*, p.4. [\[Publisher\]](https://www.frontiersin.org/articles/10.3389/fnsyn.2011.00004/full)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a rel="noopener" href="https://www.sciencedirect.com/science/article/pii/S0079610704000653" target="_blank">Waters, J., Schaefer, A., &amp; Sakmann, B. (2005). Backpropagating action potentials in neurones: measurement, mechanisms and potential functions. <i>Progress in biophysics and molecular biology</i>, <i>87</i>(1), 145-170.</a>&nbsp; &nbsp;<a title="1-s2.0-S0079610704000653-main" href="../../wp-content/uploads/2020/03/1-s2.0-s0079610704000653-main.pdf">[PDF]</a></li>
+<li>Waters, J., Schaefer, A., & Sakmann, B. (2005). Backpropagating action potentials in neurones: measurement, mechanisms and potential functions. *Progress in biophysics and molecular biology*, *87*(1), 145-170. [\[Publisher\]](https://www.sciencedirect.com/science/article/pii/S0079610704000653) [\[PDF\]](../../wp-content/uploads/2020/03/1-s2.0-s0079610704000653-main.pdf)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://www.nature.com/articles/nn1100_1178">Abbott, L.F. and Nelson, S.B., 2000. Synaptic plasticity: taming the beast. <i>Nature neuroscience</i>, <i>3</i>(11s), p.1178.</a></li>
+<li>Abbott, L.F. and Nelson, S.B., 2000. Synaptic plasticity: taming the beast. *Nature neuroscience*, *3*(11s), p.1178. [\[Publisher\]](https://www.nature.com/articles/nn1100_1178)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://www.annualreviews.org/doi/abs/10.1146/annurev.neuro.31.060407.125639?casa_token=FoQaeDO2_dkAAAAA:yVoVhi6ClVjMWR-SwHpm-xQrfjQWe7Jc0L8yChB4uMlv96yAHkSCrAlE0y7_1fPKj3ydsgzMLsXgcg">Caporale, N. and Dan, Y., 2008. Spike timing–dependent plasticity: a Hebbian learning rule. <i>Annu. Rev. Neurosci.</i>, <i>31</i>, pp.25-46.</a></li>
+<li>Caporale, N. and Dan, Y., 2008. Spike timing–dependent plasticity: a Hebbian learning rule. *Annu. Rev. Neurosci.*, *31*, pp.25-46. [\[DOI\]](https://www.annualreviews.org/doi/abs/10.1146/annurev.neuro.31.060407.125639?casa_token=FoQaeDO2_dkAAAAA:yVoVhi6ClVjMWR-SwHpm-xQrfjQWe7Jc0L8yChB4uMlv96yAHkSCrAlE0y7_1fPKj3ydsgzMLsXgcg)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://www.nature.com/articles/nature03010">Abbott, L.F. and Regehr, W.G., 2004. Synaptic computation. <i>Nature</i>, <i>431</i>(7010), p.796.</a></li>
+<li>Abbott, L.F. and Regehr, W.G., 2004. Synaptic computation. *Nature*, *431*(7010), p.796. [\[Publisher\]](https://www.nature.com/articles/nature03010)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://www.sciencedirect.com/science/article/pii/S0896627314008940">Toyoizumi, T., Kaneko, M., Stryker, M.P. and Miller, K.D., 2014. Modeling the dynamic interaction of Hebbian and homeostatic plasticity. <i>Neuron</i>, <i>84</i>(2), pp.497-510.</a></li>
+<li>Toyoizumi, T., Kaneko, M., Stryker, M.P. and Miller, K.D., 2014. Modeling the dynamic interaction of Hebbian and homeostatic plasticity. *Neuron*, *84*(2), pp.497-510. [\[Publisher\]](https://www.sciencedirect.com/science/article/pii/S0896627314008940)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://www.amazon.com/dp/0262038250">Miller, P., 2018. <i>An Introductory Course in Computational Neuroscience</i>. MIT Press.</a>&nbsp;Chapter 8 Learning and Synaptic Plasticity.</li>
+<li>Miller, P., 2018. *An Introductory Course in Computational Neuroscience*. MIT Press. [\[Amazon\]](https://www.amazon.com/dp/0262038250) Chapter 8 Learning and Synaptic Plasticity.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://doi.org/10.1038/sj.npp.1301559" target="_blank" rel="noopener">Citri, A., Malenka, R. Synaptic Plasticity: Multiple Forms, Functions, and Mechanisms. <i>Neuropsychopharmacol</i> <b>33, </b>18–41 (2008).</a></li>
+<li>Citri, A., Malenka, R. Synaptic Plasticity: Multiple Forms, Functions, and Mechanisms. *Neuropsychopharmacol* **33, **18–41 (2008). [\[DOI\]](https://doi.org/10.1038/sj.npp.1301559)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->

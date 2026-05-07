@@ -11,7 +11,7 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>While it seems plausible that contemporary neuroscientists are able to explain how, say, the <a href="https://www.sciencedirect.com/topics/neuroscience/oculomotor-system">oculomotor system</a> manages to control eye position, "we&nbsp;have at present no conception of what an explanation of the physical nature of a mental phenomenon would be." (Thomas Nagel 1974. &nbsp;<em>What is it like to be a bat?</em>)</p>
+<p>While it seems plausible that contemporary neuroscientists are able to explain how, say, the oculomotor system [\[Publisher\]](https://www.sciencedirect.com/topics/neuroscience/oculomotor-system) manages to control eye position, "we have at present no conception of what an explanation of the physical nature of a mental phenomenon would be." (Thomas Nagel 1974. *What is it like to be a bat?*)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

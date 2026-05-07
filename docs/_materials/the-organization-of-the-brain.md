@@ -11,7 +11,7 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>By <strong>functional organization of the brain,</strong> we mean an integrated view of neurophysiology, cellular and systems neuroscience, and the anatomy of the central nervous system.  The best introductory reading I know of is this classic Scientific American article by <a href="https://en.wikipedia.org/wiki/Walle_Nauta">Walle_Nauta</a> and Michael Feirtag titled "<a href="https://www.jstor.org/stable/24965290?seq=1">The organization of the brain.</a>"  </p>
+<p>By **functional organization of the brain,** we mean an integrated view of neurophysiology, cellular and systems neuroscience, and the anatomy of the central nervous system. The best introductory reading I know of is this classic Scientific American article by Walle_Nauta [\[Publisher\]](https://en.wikipedia.org/wiki/Walle_Nauta) and Michael Feirtag titled "The organization of the brain. [\[JSTOR\]](https://www.jstor.org/stable/24965290?seq=1)"</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3738,"sizeSlug":"large","linkDestination":"none"} -->
@@ -31,7 +31,7 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Nauta, W. J., &amp; Feirtag, M. (1979). <strong>The organization of the brain.</strong>&nbsp;<em>Scientific American</em>,&nbsp;<em>241</em>(3), 88-111. [<a href="https://www.jstor.org/stable/pdf/24965290.pdf">JSTORE</a>]</p>
+<p>Nauta, W. J., & Feirtag, M. (1979). **The organization of the brain.** *Scientific American*, *241*(3), 88-111. [JSTORE [\[JSTOR\]](https://www.jstor.org/stable/pdf/24965290.pdf)]</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

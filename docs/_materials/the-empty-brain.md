@@ -11,7 +11,7 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>This course focuses on <strong>computational neuroscience</strong> as <strong>the study of how nervous systems perform computations and process information. </strong>But is the <em>brain</em> a <em>computer</em>?  Or is this conception an&nbsp;<em>analogy</em> drawn from modern technology that we (perhaps inappropriately) apply to the functional organization of nervous systems? &nbsp;What <em>is</em> a computer, exactly?  And which brain (i.e., central nervous system) do you have in mind?  Human?  Mouse?  <a href="https://en.wikipedia.org/wiki/Nematode">Nematode</a>?  </p>
+<p>This course focuses on **computational neuroscience** as **the study of how nervous systems perform computations and process information. **But is the *brain* a *computer*? Or is this conception an *analogy* drawn from modern technology that we (perhaps inappropriately) apply to the functional organization of nervous systems? What *is* a computer, exactly? And which brain (i.e., central nervous system) do you have in mind? Human? Mouse? Nematode [\[Publisher\]](https://en.wikipedia.org/wiki/Nematode)?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
@@ -24,19 +24,19 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>If you have not done so already, <a href="https://apsc450computationalneuroscience.wordpress.com"><strong>enter your email address to subscribe to the course blog</strong></a> and receive notifications of new posts by email.  This is important because posts to the blog are equivalent to in-class announcements.  </li>
+<li>If you have not done so already, **enter your email address to subscribe to the course blog** [\[Publisher\]](https://apsc450computationalneuroscience.wordpress.com) and receive notifications of new posts by email. This is important because posts to the blog are equivalent to in-class announcements.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>If you have not done so already, read the blog page <a href="../a-kind-of-impalpability-to-this-whole-business/"> <strong>A kind of impalpability to this whole&nbsp;business</strong></a> and <strong><a href="../the-message-and-the-meaning-of-the-message/">The message and the meaning of the message.</a> </strong> (15 minutes each).</li>
+<li>If you have not done so already, read the blog page **A kind of impalpability to this whole business** [\[Page\]](../a-kind-of-impalpability-to-this-whole-business/) and **The message and the meaning of the message. [\[Page\]](../the-message-and-the-meaning-of-the-message/) ** (15 minutes each).</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Read or listen to&nbsp;<a href="https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer"><strong>"The Empty Brain" by Robert Epstein</strong></a> (4200 words, 25 minutes). Then, <em>respond in writing</em> and upload your thoughts to Blackboard (see writing prompts and further instructions below).</li>
+<li>Read or listen to **"The Empty Brain" by Robert Epstein** [\[Publisher\]](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer) (4200 words, 25 minutes). Then, *respond in writing* and upload your thoughts to Blackboard (see writing prompts and further instructions below).</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -48,7 +48,7 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Read and consider the quote from <a href="https://en.wikipedia.org/wiki/Hilary_Putnam"><strong>Hilary Putnam</strong></a> (below) about the importance of computers/machines in the philosophy of mind.&nbsp;</li>
+<li>Read and consider the quote from **Hilary Putnam** [\[Publisher\]](https://en.wikipedia.org/wiki/Hilary_Putnam) (below) about the importance of computers/machines in the philosophy of mind.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -78,7 +78,7 @@ render_with_liquid: false
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>The expression “Computational Neuroscience” reflects the possibility of generating theories of brain function in terms of the information-processing properties of structures that make up nervous systems. It implies we ought to be able to exploit the conceptual and technical resources of computational research to help find explanations of how neural structures achieve their effects, what functions are executed by neural structures, and the nature of representation by states of the nervous system. &nbsp;<a href="https://apsc450computationalneuroscience.wordpress.com/mind-as-machine/#FurtherReading">[Churchland et al. 1993]</a></p>
+<p>The expression “Computational Neuroscience” reflects the possibility of generating theories of brain function in terms of the information-processing properties of structures that make up nervous systems. It implies we ought to be able to exploit the conceptual and technical resources of computational research to help find explanations of how neural structures achieve their effects, what functions are executed by neural structures, and the nature of representation by states of the nervous system. [\[Churchland et al. 1993\]](https://apsc450computationalneuroscience.wordpress.com/mind-as-machine/#FurtherReading)</p>
 <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 
@@ -168,7 +168,7 @@ render_with_liquid: false
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p><strong>What is the importance of computers/machines in the philosophy of mind?</strong> &nbsp;I think that machines have both a positive and a negative importance. &nbsp;The positive importance of machines was that it was in connection with machines, computing machines in particular, that the notion of <strong>functional organization</strong> first appeared. &nbsp;Machines forced us to distinguish between an abstract structure and its concrete realization. Not that the distinction came into the world for the first time with machines. &nbsp;But in the case of computing machines, we could not avoid rubbing our noses against the fact that what we had to count as to all intents and purposes the same structure could be realized in a bewildering variety of different ways; that the important properties were not physical-chemical. &nbsp;That the machines made us catch on to the idea of functional organization is extremely important. &nbsp;The negative importance of machines, however, is that they tempt us to oversimplification. &nbsp;The notion of functional organization became clear to us through systems with a very restricted, very specific functional organization. &nbsp;So the temptation is present to assume that we must have that restricted and specific kind of functional organization. &nbsp;[Putnam 1975, p. 299-300 in our reading:&nbsp;<a href="../materialism-and-mechanism/">Philosophy and our mental life.</a>]</p>
+<p>**What is the importance of computers/machines in the philosophy of mind?** I think that machines have both a positive and a negative importance. The positive importance of machines was that it was in connection with machines, computing machines in particular, that the notion of **functional organization** first appeared. Machines forced us to distinguish between an abstract structure and its concrete realization. Not that the distinction came into the world for the first time with machines. But in the case of computing machines, we could not avoid rubbing our noses against the fact that what we had to count as to all intents and purposes the same structure could be realized in a bewildering variety of different ways; that the important properties were not physical-chemical. That the machines made us catch on to the idea of functional organization is extremely important. The negative importance of machines, however, is that they tempt us to oversimplification. The notion of functional organization became clear to us through systems with a very restricted, very specific functional organization. So the temptation is present to assume that we must have that restricted and specific kind of functional organization. [Putnam 1975, p. 299-300 in our reading: Philosophy and our mental life. [\[Page\]](../materialism-and-mechanism/)]</p>
 <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
 
@@ -181,7 +181,7 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Savage, John E.&nbsp;(1998).&nbsp;<em>Models Of Computation: Exploring the Power of Computing</em>. Addison-Wesley.&nbsp; <a rel="noreferrer noopener" href="https://cs.brown.edu/people/jsavage/book/pdfs/ModelsOfComputation.pdf" target="_blank">[PDF]</a></p>
+<p>Savage, John E. (1998). *Models Of Computation: Exploring the Power of Computing*. Addison-Wesley. [\[PDF\]](https://cs.brown.edu/people/jsavage/book/pdfs/ModelsOfComputation.pdf)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

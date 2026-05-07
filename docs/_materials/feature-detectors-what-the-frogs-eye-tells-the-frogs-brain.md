@@ -20,7 +20,7 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Read the "<a href="https://hearingbrain.org/docs/letvin_ieee_1959.pdf"><strong>What the frog's eye tells the frog's brain</strong></a>" by Lettvin, J. Y., Maturana, H. R., McCulloch, W. S., &amp; Pitts, W. H. (1959).  <em>Proceedings of the IRE</em>, <em>47</em>(11), 1940-1951.  Focus on the Introduction, Methods, the first paragraph of Findings, General Discussion and Conclusion.  That is, read the whole paper but de-emphasize the figures and pp.1944-1951. </li>
+<li>Read the "**What the frog's eye tells the frog's brain** [\[PDF\]](https://hearingbrain.org/docs/letvin_ieee_1959.pdf)" by Lettvin, J. Y., Maturana, H. R., McCulloch, W. S., & Pitts, W. H. (1959). *Proceedings of the IRE*, *47*(11), 1940-1951. Focus on the Introduction, Methods, the first paragraph of Findings, General Discussion and Conclusion. That is, read the whole paper but de-emphasize the figures and pp.1944-1951.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -89,7 +89,7 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Read <strong><a href="../../wp-content/uploads/2019/01/gross2002grandmothercell.pdf">Genealogy of the "Grandmother Cell"</a></strong> -- a short history of neuroscience essay by Charles G. Gross. <em>The Neuroscientist</em>, <em>8</em>(5): 512-518, 2002.</p>
+<p>Read **Genealogy of the "Grandmother Cell" [\[PDF\]](../../wp-content/uploads/2019/01/gross2002grandmothercell.pdf)** -- a short history of neuroscience essay by Charles G. Gross. *The Neuroscientist*, *8*(5): 512-518, 2002.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -101,7 +101,7 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Read the following 4-page <a href="../../wp-content/uploads/2023/02/margaret-boden-bug-detectors.pdf">[PDF]</a> titled Bug-detectors. This is the first part (pp. 1130-1133) of A Fistful of Feature-Detectors, which itself is a section within Ch 14 of Mind as Machine by Margaret Boden.</p>
+<p>Read the following 4-page [\[PDF\]](../../wp-content/uploads/2023/02/margaret-boden-bug-detectors.pdf) titled Bug-detectors. This is the first part (pp. 1130-1133) of A Fistful of Feature-Detectors, which itself is a section within Ch 14 of Mind as Machine by Margaret Boden.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -51,7 +51,7 @@ render_with_liquid: false
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><strong>Kaminski, 2017. <em>Reading Other Minds</em>.</strong>  In: <a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9781118316757">Shepherd, S.V.  (2017)  The Wiley Handbook of Evolutionary Neuroscience.  John Wiley &amp; Sons, Ltd.</a>  (pp. 514-525; Chapter 19) <a href="https://wm-primo.hosted.exlibrisgroup.com/permalink/f/3gli40/01COWM_WM_ALMA51749378780003196" target="_blank" rel="noreferrer noopener">[SWEM]</a>  <a href="../readings/">[PDF]</a>  This is a 10 page book chapter.</p>
+<p>**Kaminski, 2017. *Reading Other Minds*.** In: Shepherd, S.V. (2017) The Wiley Handbook of Evolutionary Neuroscience. John Wiley & Sons, Ltd. [\[DOI\]](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118316757) (pp. 514-525; Chapter 19) [\[SWEM\]](https://wm-primo.hosted.exlibrisgroup.com/permalink/f/3gli40/01COWM_WM_ALMA51749378780003196) [\[PDF\]](../readings/) This is a 10 page book chapter.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
@@ -63,7 +63,7 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a href="https://link.springer.com/article/10.1007/s10648-018-9443-9">Dore, R. A., Amendum, S. J., Golinkoff, R. M., &amp; Hirsh-Pasek, K. (2018). Theory of mind: A hidden factor in reading comprehension?. <em>Educational Psychology Review</em>, <em>30</em>(3), 1067-1089.</a>  <a href="../readings/">[PDF]</a></p>
+<p>Dore, R. A., Amendum, S. J., Golinkoff, R. M., & Hirsh-Pasek, K. (2018). Theory of mind: A hidden factor in reading comprehension?. *Educational Psychology Review*, *30*(3), 1067-1089. [\[Publisher\]](https://link.springer.com/article/10.1007/s10648-018-9443-9) [\[PDF\]](../readings/)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
@@ -117,5 +117,5 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.cell.com/current-biology/fulltext/S0960-9822(05)00960-7">Frith, C. and Frith, U., 2005. Theory of mind. <em>Current Biology</em>, <em>15</em>(17), pp.R644-R645.</a><a href="../../wp-content/uploads/2019/04/piis0960982205009607.pdf"> [PDF]</a></p>
+<p>Frith, C. and Frith, U., 2005. Theory of mind. *Current Biology*, *15*(17), pp.R644-R645. [\[Publisher\]](https://www.cell.com/current-biology/fulltext/S0960-9822(05)00960-7)[\[PDF\]](../../wp-content/uploads/2019/04/piis0960982205009607.pdf)</p>
 <!-- /wp:paragraph -->

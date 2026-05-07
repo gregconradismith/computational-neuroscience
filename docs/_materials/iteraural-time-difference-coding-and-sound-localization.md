@@ -24,11 +24,11 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Read pp. 363-372 of Baer, Connors, and Paradiso (The Auditory and Vestibular Systems). <a href="../../wp-content/uploads/2025/02/baeretalneurosciencech11auditoryandvestibularsystems.pdf">[PDF]</a></li>
+<li>Read pp. 363-372 of Baer, Connors, and Paradiso (The Auditory and Vestibular Systems). [\[PDF\]](../../wp-content/uploads/2025/02/baeretalneurosciencech11auditoryandvestibularsystems.pdf)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Read <a title="carr1993" href="https://www.annualreviews.org/doi/abs/10.1146/annurev.ne.16.030193.001255">Carr, C.E., 1993. Processing of temporal information in the brain. Annual review of neuroscience, 16(1), pp.223-243.</a>  This review discusses studies of neural coding of temporal information in the neuroethological context of weakly electric fish, barn owls, and echolocating bats.  The circuits considered achieve their function using <em>delay lines</em> and <em>coincidence detectors</em>.   </li>
+<li>Read Carr, C.E., 1993. Processing of temporal information in the brain. Annual review of neuroscience, 16(1), pp.223-243. [\[DOI\]](https://www.annualreviews.org/doi/abs/10.1146/annurev.ne.16.030193.001255) This review discusses studies of neural coding of temporal information in the neuroethological context of weakly electric fish, barn owls, and echolocating bats. The circuits considered achieve their function using *delay lines* and *coincidence detectors*.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -41,7 +41,7 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>In addition to discussing the reading, we will (probably) learn about <strong>coincidence detection</strong>, <strong>population coding</strong>, and <strong>stochastic resonance</strong> as mechanisms that can lead to <strong>hyperacuity in sensory systems</strong>. We may also introduce the concept of <strong>dendritic computation</strong> using Figures 1 &amp; 2 of <a href="https://www.nature.com/articles/30505">Agmon-Snir, H., Carr, C.E. and Rinzel, J., 1998. The role of dendrites in auditory coincidence detection. Nature, 393(6682), p.268.</a></p>
+<p>In addition to discussing the reading, we will (probably) learn about **coincidence detection**, **population coding**, and **stochastic resonance** as mechanisms that can lead to **hyperacuity in sensory systems**. We may also introduce the concept of **dendritic computation** using Figures 1 & 2 of Agmon-Snir, H., Carr, C.E. and Rinzel, J., 1998. The role of dendrites in auditory coincidence detection. Nature, 393(6682), p.268. [\[Publisher\]](https://www.nature.com/articles/30505)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
@@ -54,19 +54,19 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://terpconnect.umd.edu/~cecarr/">The Carr Lab at University of Maryland</a></li>
+<li>The Carr Lab at University of Maryland [\[Publisher\]](https://terpconnect.umd.edu/~cecarr/)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0959438811000766">Ashida, G. and Carr, C.E., 2011. Sound localization: Jeffress and beyond. <i>Current opinion in neurobiology</i>, <i>21</i>(5), pp.745-751.</a>  [<a href="https://www.ncbi.nlm.nih.gov/pubmed/21646012">PubMed</a>]</li>
+<li>Ashida, G. and Carr, C.E., 2011. Sound localization: Jeffress and beyond. *Current opinion in neurobiology*, *21*(5), pp.745-751. [\[Publisher\]](https://www.sciencedirect.com/science/article/abs/pii/S0959438811000766) [PubMed [\[PubMed\]](https://www.ncbi.nlm.nih.gov/pubmed/21646012)]</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="http://science.sciencemag.org/content/225/4661/473">Bullock, T.H., 1984. Comparative neuroscience holds promise for quiet revolutions. <i>Science</i>, <i>225</i>(4661), pp.473-478</a>.</li>
+<li>Bullock, T.H., 1984. Comparative neuroscience holds promise for quiet revolutions. *Science*, *225*(4661), pp.473-478 [\[Publisher\]](http://science.sciencemag.org/content/225/4661/473).</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a title="carretal2001" href="https://www.sciencedirect.com/science/article/abs/pii/S0959438801002768">Carr, C.E., Soares, D., Parameshwaran, S. and Perney, T., 2001. Evolution and development of time coding systems. Current opinion in neurobiology, 11(6), pp.727-733.</a></li>
+<li>Carr, C.E., Soares, D., Parameshwaran, S. and Perney, T., 2001. Evolution and development of time coding systems. Current opinion in neurobiology, 11(6), pp.727-733. [\[Publisher\]](https://www.sciencedirect.com/science/article/abs/pii/S0959438801002768)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -84,11 +84,11 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://www.sciencedirect.com/science/article/pii/S0959438816300861?via%3Dihub">Carr, C.E. and Christensen-Dalsgaard, J., 2016. Evolutionary trends in directional hearing. <i>Current opinion in neurobiology</i>, <i>40</i>, pp.111-117.</a></li>
+<li>Carr, C.E. and Christensen-Dalsgaard, J., 2016. Evolutionary trends in directional hearing. *Current opinion in neurobiology*, *40*, pp.111-117. [\[Publisher\]](https://www.sciencedirect.com/science/article/pii/S0959438816300861?via%3Dihub)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Watch the video associated with the article: <a href="https://phys.org/news/2011-04-skills-species-explosion-electric-fishes.html">Jump in communication skills led to species explosion in electric fishes. April 28, 2011 By Diana Lutz, Washington University in St. Louis.</a></li>
+<li>Watch the video associated with the article: Jump in communication skills led to species explosion in electric fishes. April 28, 2011 By Diana Lutz, Washington University in St. Louis. [\[Publisher\]](https://phys.org/news/2011-04-skills-species-explosion-electric-fishes.html)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->

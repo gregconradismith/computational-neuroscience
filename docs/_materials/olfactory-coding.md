@@ -12,11 +12,11 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Read the Introduction and Psychological Questions (two pages: p. 217-218) of Speculations on Smell <a href="../../wp-content/uploads/2019/01/lettvin1965.pdf">[PDF]</a> (written 60 years ago by Jerome Y. Lettvin and Robert C. Gesteland). Consider the quality of the writing and the character of this "<a href="https://en.wikipedia.org/wiki/Phenomenology_(philosophy)">phenomenological</a>" analysis of the lived experience of smell.<br></li>
+<li>Read the Introduction and Psychological Questions (two pages: p. 217-218) of Speculations on Smell [\[PDF\]](../../wp-content/uploads/2019/01/lettvin1965.pdf) (written 60 years ago by Jerome Y. Lettvin and Robert C. Gesteland). Consider the quality of the writing and the character of this "phenomenological [\[Publisher\]](https://en.wikipedia.org/wiki/Phenomenology_(philosophy))" analysis of the lived experience of smell.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Read the first half of Chapter 2 "Olfaction" (pp. 37-45) in <strong><em>The Neuroethology of Predation and Escape</em></strong> by Keith T. Sillar, Laurence D. Picton, William J. Heitler (Wiley-Blackwell, 2016). <a href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033659776203196">[SWEM Online]</a> <a title="20190313140921883" href="../../wp-content/uploads/2019/03/20190313140921883.pdf">[PDF]</a></li>
+<li>Read the first half of Chapter 2 "Olfaction" (pp. 37-45) in ***The Neuroethology of Predation and Escape*** by Keith T. Sillar, Laurence D. Picton, William J. Heitler (Wiley-Blackwell, 2016). [\[SWEM Online\]](https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033659776203196) [\[PDF\]](../../wp-content/uploads/2019/03/20190313140921883.pdf)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -39,7 +39,7 @@ render_with_liquid: false
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p><a href="http://symposium.cshlp.org/content/30/217.short">Lettvin, J.Y. and Gesteland, R.C., 1965. Speculations on smell. In <i>Cold Spring Harbor Symposia on Quantitative Biology</i> (Vol. 30, pp. 217-225). Cold Spring Harbor Laboratory Press.</a>  The assigned reading is pp. 217-218, but there is an interesting discussion of olfactory coding that begins on p. 223.</p>
+<p>Lettvin, J.Y. and Gesteland, R.C., 1965. Speculations on smell. In *Cold Spring Harbor Symposia on Quantitative Biology* (Vol. 30, pp. 217-225). Cold Spring Harbor Laboratory Press. [\[Publisher\]](http://symposium.cshlp.org/content/30/217.short) The assigned reading is pp. 217-218, but there is an interesting discussion of olfactory coding that begins on p. 223.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
@@ -63,19 +63,19 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0166223616300868">Ache, B.W., Hein, A.M., Bobkov, Y.V. and Principe, J.C., 2016. Smelling time: A neural basis for olfactory scene analysis. Trends in neurosciences, 39(10), pp.649-655.</a></p>
+<p>Ache, B.W., Hein, A.M., Bobkov, Y.V. and Principe, J.C., 2016. Smelling time: A neural basis for olfactory scene analysis. Trends in neurosciences, 39(10), pp.649-655. [\[Publisher\]](https://www.sciencedirect.com/science/article/pii/S0166223616300868)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="http://science.sciencemag.org/content/343/6177/1370">Bushdid, C., Magnasco, M.O., Vosshall, L.B. and Keller, A., 2014. Humans can discriminate more than 1 trillion olfactory stimuli. <em>Science</em>, <em>343</em>(6177), pp.1370-1372.</a><a href="../../wp-content/uploads/2019/03/2014.pdf">[PDF]</a></p>
+<p>Bushdid, C., Magnasco, M.O., Vosshall, L.B. and Keller, A., 2014. Humans can discriminate more than 1 trillion olfactory stimuli. *Science*, *343*(6177), pp.1370-1372. [\[Publisher\]](http://science.sciencemag.org/content/343/6177/1370)[\[PDF\]](../../wp-content/uploads/2019/03/2014.pdf)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.cell.com/neuron/pdf/S0896-6273(05)00053-X.pdf">Firestein, S., 2005. A Nobel nose: the 2004 Nobel Prize in Physiology and Medicine. <i>Neuron</i>, <i>45</i>(3), pp.333-338.</a>   <a title="Neuron2005Firestein" href="../../wp-content/uploads/2019/03/neuron2005firestein.pdf">[PDF]</a></p>
+<p>Firestein, S., 2005. A Nobel nose: the 2004 Nobel Prize in Physiology and Medicine. *Neuron*, *45*(3), pp.333-338. [\[PDF\]](https://www.cell.com/neuron/pdf/S0896-6273(05)00053-X.pdf) [\[PDF\]](../../wp-content/uploads/2019/03/neuron2005firestein.pdf)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.nature.com/articles/nn.2324">Howard, J.D., Plailly, J., Grueschow, M., Haynes, J.D. and Gottfried, J.A., 2009. Odor quality coding and categorization in human posterior piriform cortex. <i>Nature Neuroscience</i>, <i>12</i>(7), p.932.</a>  <a title="NatNeurosci2009Howard" href="../../wp-content/uploads/2019/03/natneurosci2009howard.pdf">[PDF]</a></p>
+<p>Howard, J.D., Plailly, J., Grueschow, M., Haynes, J.D. and Gottfried, J.A., 2009. Odor quality coding and categorization in human posterior piriform cortex. *Nature Neuroscience*, *12*(7), p.932. [\[Publisher\]](https://www.nature.com/articles/nn.2324) [\[PDF\]](../../wp-content/uploads/2019/03/natneurosci2009howard.pdf)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -83,7 +83,7 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0166223696100540">Laurent, G., 1996. Dynamical representation of odors by oscillating and evolving neural assemblies. <i>Trends in neurosciences</i>, <i>19</i>(11), pp.489-496.</a></p>
+<p>Laurent, G., 1996. Dynamical representation of odors by oscillating and evolving neural assemblies. *Trends in neurosciences*, *19*(11), pp.489-496. [\[Publisher\]](https://www.sciencedirect.com/science/article/pii/S0166223696100540)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -91,11 +91,11 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0092867400805814">Malnic, B., Hirono, J., Sato, T. and Buck, L.B., 1999. Combinatorial receptor codes for odors. Cell, 96(5), pp.713-723.</a><a href="../../wp-content/uploads/2019/03/malnic.pdf">[PDF]</a></p>
+<p>Malnic, B., Hirono, J., Sato, T. and Buck, L.B., 1999. Combinatorial receptor codes for odors. Cell, 96(5), pp.713-723. [\[Publisher\]](https://www.sciencedirect.com/science/article/pii/S0092867400805814)[\[PDF\]](../../wp-content/uploads/2019/03/malnic.pdf)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0896627309003973">Poo, C. and Isaacson, J.S., 2009. Odor representations in olfactory cortex: “sparse” coding, global inhibition, and oscillations. <i>Neuron</i>, <i>62</i>(6), pp.850-861.</a></p>
+<p>Poo, C. and Isaacson, J.S., 2009. Odor representations in olfactory cortex: “sparse” coding, global inhibition, and oscillations. *Neuron*, *62*(6), pp.850-861. [\[Publisher\]](https://www.sciencedirect.com/science/article/pii/S0896627309003973)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
