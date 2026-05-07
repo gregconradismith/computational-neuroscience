@@ -12,13 +12,13 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Watch "<a href="https://youtu.be/aircAruvnKk"><strong>But what is a neural network?</strong></a>" and "<a href="https://youtu.be/IHZwWFHWa-w"><strong>Gradient descent: how neural networks learn</strong></a>"  and "<strong><a href="https://youtu.be/Ilg3gGewQ5U?si=9GnlZg7faAwaxxkD">Backpropagation: Step by Step</a></strong>" (20 mins each).</li>
+<li>Watch "**But what is a neural network?** [\[Video\]](https://youtu.be/aircAruvnKk)" and "**Gradient descent: how neural networks learn** [\[Video\]](https://youtu.be/IHZwWFHWa-w)" and "**Backpropagation: Step by Step [\[Video\]](https://youtu.be/Ilg3gGewQ5U?si=9GnlZg7faAwaxxkD)**" (20 mins each).</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><span style="color: var(--color-text)">Read</span> and annotate this<span style="color: var(--color-text)"> classic commentary by </span><a href="https://en.wikipedia.org/wiki/Francis_Crick">Francis Crick</a><span style="color: var(--color-text)"> </span>entitled<span style="color: var(--color-text)"> "<a href="../../wp-content/uploads/2019/01/crick1989.pdf"><strong>The recent </strong></a></span><strong><a href="../../wp-content/uploads/2019/01/crick1989.pdf">excitement about neural networks</a></strong>.<span style="color: var(--color-text)">" </span><br><br>Write out three or more salient quotes from the paper and provide a worthy response (e.g., an astute observation, nuanced critique, or thought-provoking question).  Upload your work to Bb as Assignment #3.  <br><br>Bring a copy of your quotes and responses to class and be prepared to share your thoughts.</li>
+<li>Read and annotate this classic commentary by Francis Crick [\[Publisher\]](https://en.wikipedia.org/wiki/Francis_Crick) entitled "**The recent ** [\[PDF\]](../../wp-content/uploads/2019/01/crick1989.pdf)**excitement about neural networks [\[PDF\]](../../wp-content/uploads/2019/01/crick1989.pdf)**." Write out three or more salient quotes from the paper and provide a worthy response (e.g., an astute observation, nuanced critique, or thought-provoking question). Upload your work to Bb as Assignment #3. Bring a copy of your quotes and responses to class and be prepared to share your thoughts.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -56,11 +56,11 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>As a response to our discussion of the amphibian retina and <a href="../feature-detectors-what-the-frogs-eye-tells-the-frogs-brain/">feature detectors</a>, read <a href="https://apsc450computationalneuroscience.wordpress.com/genealogy-of-the-grandmother-cell/">Genealogy of the “Grandmother Cell</a>” — a short history of neuroscience essay (30 min).<br></li>
+<li>As a response to our discussion of the amphibian retina and feature detectors [\[Page\]](../feature-detectors-what-the-frogs-eye-tells-the-frogs-brain/), read Genealogy of the “Grandmother Cell [\[Publisher\]](https://apsc450computationalneuroscience.wordpress.com/genealogy-of-the-grandmother-cell/)” — a short history of neuroscience essay (30 min).</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>As continuation of our discussion of "sparse coding," watch the seminar "<a href="https://youtu.be/6O-EE2JC-yA">From Natural Scene Statistics to Models of Neural Coding &amp; Representation" by Bruno Olshausen</a> (part 1 only, duration 60 min). This talk was part of a summer school on deep learning and feature detection. The target audience is graduate students studying visual neuroscience and/or computer vision.</li>
+<li>As continuation of our discussion of "sparse coding," watch the seminar "From Natural Scene Statistics to Models of Neural Coding & Representation" by Bruno Olshausen [\[Video\]](https://youtu.be/6O-EE2JC-yA) (part 1 only, duration 60 min). This talk was part of a summer school on deep learning and feature detection. The target audience is graduate students studying visual neuroscience and/or computer vision.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -111,7 +111,7 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://mitpress.mit.edu/books/talking-nets">Anderson, J.A. and Rosenfeld, E. eds., 2000. <i>Talking nets: An oral history of neural networks</i>. MiT Press.</a> &nbsp;<a href="https://www.amazon.com/dp/0262511118">[Amazon]</a>&nbsp;&nbsp;<a href="https://wm-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01COWM_WM_ALMA51607320460003196&amp;context=L&amp;vid=01COWM_WM_NEWUI&amp;search_scope=01COWM_WM_ALMA&amp;tab=01cowm_alma&amp;lang=en_US">[SWEM]</a></p>
+<p>Anderson, J.A. and Rosenfeld, E. eds., 2000. *Talking nets: An oral history of neural networks*. MiT Press. [\[Publisher\]](https://mitpress.mit.edu/books/talking-nets) [\[Amazon\]](https://www.amazon.com/dp/0262511118) [\[SWEM\]](https://wm-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01COWM_WM_ALMA51607320460003196&context=L&vid=01COWM_WM_NEWUI&search_scope=01COWM_WM_ALMA&tab=01cowm_alma&lang=en_US)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

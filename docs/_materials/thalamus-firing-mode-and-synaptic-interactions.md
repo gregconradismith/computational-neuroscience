@@ -12,11 +12,11 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Read Steriade, M., McCormick, D. A., &amp; Sejnowski, T. J. (1993). <strong><a href="../../wp-content/uploads/2025/03/steriade-1993-thalamocor.pdf">Thalamocortical oscillations in the sleeping and aroused brain</a></strong>. Science, 262(5134), 679-685. <a href="../../wp-content/uploads/2025/03/steriade-1993-thalamocor.pdf">[PDF]</a></li>
+<li>Read Steriade, M., McCormick, D. A., & Sejnowski, T. J. (1993). **Thalamocortical oscillations in the sleeping and aroused brain [\[PDF\]](../../wp-content/uploads/2025/03/steriade-1993-thalamocor.pdf)**. Science, 262(5134), 679-685. [\[PDF\]](../../wp-content/uploads/2025/03/steriade-1993-thalamocor.pdf)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Work on your <strong><a href="../spring-2025-final-project-statement/">Final Project</a></strong> proposal (target date Wednesday, April 2). </li>
+<li>Work on your **Final Project [\[Page\]](../spring-2025-final-project-statement/)** proposal (target date Wednesday, April 2).</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 

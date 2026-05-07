@@ -7,7 +7,7 @@ permalink: "/pages/how-the-brain-keeps-the-eyes-still/"
 render_with_liquid: false
 ---
 <h2>Preparation</h2>
-Read <a title="seung1996howbrainkeepseyesstill" href="../../wp-content/uploads/2019/01/seung1996howbrainkeepseyesstill.pdf">Seung, H.S., 1996. How the brain keeps the eyes still. <i>PNAS </i><i>93</i>(23):13339-13344.</a>
+Read Seung, H.S., 1996. How the brain keeps the eyes still. *PNAS **93*(23):13339-13344. [\[PDF\]](../../wp-content/uploads/2019/01/seung1996howbrainkeepseyesstill.pdf)
 <div>
 <h2>Overview</h2>
 </div>
@@ -20,7 +20,7 @@ Seung discusses the state space portraits of the eye position memory network, m
 
 As in our previous reading by Robinson, Seung discusses how positive feedback changes the time constant of persistent activity.   Seung also discusses the issue of "fine tuning" and the idea that synaptic weights could be adjusted through a learning rule.
 <h2>Linear attractor networks</h2>
-The simplest network models are completely linear and a natural extension of the Wilson-Cowan formalism discussed last time.  <a title="AttractorNetworks" href="../../wp-content/uploads/2019/02/attractornetworks.pdf">The mathematical formalism of attractor networks is summarized in this PDF</a>.
+The simplest network models are completely linear and a natural extension of the Wilson-Cowan formalism discussed last time. The mathematical formalism of attractor networks is summarized in this PDF [\[PDF\]](../../wp-content/uploads/2019/02/attractornetworks.pdf).
 
 When a linear network is written in terms of firing rate, the Wilson-Cowan equations are
 
@@ -99,7 +99,7 @@ end</pre>
 <div><a href="https://www.sciencedirect.com/science/article/pii/S0893608098000641">Seung, H.S., 1998. Continuous attractors and oculomotor control. <i>Neural Networks</i>, <i>11</i>(7-8), pp.1253-1258.</a></div>
 <div>
 
-<a href="https://www.sciencedirect.com/science/article/pii/S0896627300811551">Seung, H.S., Lee, D.D., Reis, B.Y. and Tank, D.W., 2000. Stability of the memory of eye position in a recurrent network of conductance-based model neurons. <i>Neuron</i>, <i>26</i>(1), pp.259-271</a>.
+Seung, H.S., Lee, D.D., Reis, B.Y. and Tank, D.W., 2000. Stability of the memory of eye position in a recurrent network of conductance-based model neurons. *Neuron*, *26*(1), pp.259-271 [\[Publisher\]](https://www.sciencedirect.com/science/article/pii/S0896627300811551).
 
 </div>
 <div>

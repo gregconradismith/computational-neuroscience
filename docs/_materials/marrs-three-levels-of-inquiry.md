@@ -12,7 +12,7 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Watch "How can we study the human mind and brain: Marr's levels of analysis" by Nancy Kanwisher.  <strong><a href="https://youtu.be/Di_3pGAveGs?si=lvC4gWsWSsx-Dnld">1.2 - How Can We Study the Human Mind and Brain? Marr’s Level’s of Analysis</a></strong></li>
+<li>Watch "How can we study the human mind and brain: Marr's levels of analysis" by Nancy Kanwisher. **1.2 - How Can We Study the Human Mind and Brain? Marr’s Level’s of Analysis [\[Video\]](https://youtu.be/Di_3pGAveGs?si=lvC4gWsWSsx-Dnld)**</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -22,7 +22,7 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Read the&nbsp;General Introduction (pp. 1-7) [<a href="../../wp-content/uploads/2019/01/MarrVisionGeneralIntroduction.pdf">PDF</a>] &nbsp;and Chapter 1 <em>The Philosophy and the Approach (pp. 24-38)&nbsp;</em><a href="../readings/">[PDF]</a> of <a href="https://mitpress.mit.edu/books/vision"><em>Vision: A Computational Investigation into the Human Representation and Processing of Visual Information</em></a> by David Marr.  MIT Press, 2010.  You have access to the&nbsp;<a href="https://wm-primo.hosted.exlibrisgroup.com:443/01COWM_WM:EVERYTHING:01COWM_WM_ALMA51807473810003196">entire e-book</a> via <a href="https://wm-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01COWM_WM_ALMA51807473810003196&amp;context=L&amp;vid=01COWM_WM_NEWUI&amp;search_scope=01COWM_WM_ALMA&amp;tab=01cowm_alma&amp;lang=en_US">[SWEM]</a>.</li>
+<li>Read the General Introduction (pp. 1-7) [PDF [\[PDF\]](../../wp-content/uploads/2019/01/MarrVisionGeneralIntroduction.pdf)] and Chapter 1 *The Philosophy and the Approach (pp. 24-38) *[\[PDF\]](../readings/) of *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information* [\[Publisher\]](https://mitpress.mit.edu/books/vision) by David Marr. MIT Press, 2010. You have access to the entire e-book [\[SWEM\]](https://wm-primo.hosted.exlibrisgroup.com:443/01COWM_WM:EVERYTHING:01COWM_WM_ALMA51807473810003196) via [\[SWEM\]](https://wm-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01COWM_WM_ALMA51807473810003196&context=L&vid=01COWM_WM_NEWUI&search_scope=01COWM_WM_ALMA&tab=01cowm_alma&lang=en_US).</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->

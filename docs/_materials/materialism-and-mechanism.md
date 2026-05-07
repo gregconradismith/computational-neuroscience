@@ -11,7 +11,7 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Neuroscientists presume - and rightly so! - that brain function does not violate the laws of nature. &nbsp;We take it for granted that our mental functioning is dependent upon -- it is <em><strong>subserved</strong></em>&nbsp;by -- aspects of the natural world that are studied in the sciences of neurophysiology, chemistry, and physics. Similarly, the computation performed by modern digital computers does not violate the laws of nature. But the belief (perhaps tautology?) that the laws of nature apply to complex systems, and even living systems, does not inevitably lead to a reductionist view of mentality. At least, that is my view. <br><br><em><strong>Functional isomorphism</strong></em> is a key concept in the philosophy of mind that was inherited during the "<a href="https://www.press.jhu.edu/books/title/11282/cybernetics-moment?srsltid=AfmBOop272tfpb3xXGu88AKVGx7TRJXXcQOB9hrj_zXtJiD-r5N2IvAF">cybernetics moment</a>" when neuroscience was in its infancy. &nbsp;In "Philosphy and our mental life," Hilary Putnam explains that two systems are functionally isomorphic if <em>there is a correspondence between the states of one and the states of the other that preserves functional relations.</em> The concept of <strong>isomorphism </strong>pervades mathematics and is illuminated by answering the question, "What makes two mathematical structures essentially equivalent?"</p>
+<p>Neuroscientists presume - and rightly so! - that brain function does not violate the laws of nature. We take it for granted that our mental functioning is dependent upon -- it is ***subserved*** by -- aspects of the natural world that are studied in the sciences of neurophysiology, chemistry, and physics. Similarly, the computation performed by modern digital computers does not violate the laws of nature. But the belief (perhaps tautology?) that the laws of nature apply to complex systems, and even living systems, does not inevitably lead to a reductionist view of mentality. At least, that is my view. ***Functional isomorphism*** is a key concept in the philosophy of mind that was inherited during the "cybernetics moment [\[Publisher\]](https://www.press.jhu.edu/books/title/11282/cybernetics-moment?srsltid=AfmBOop272tfpb3xXGu88AKVGx7TRJXXcQOB9hrj_zXtJiD-r5N2IvAF)" when neuroscience was in its infancy. In "Philosphy and our mental life," Hilary Putnam explains that two systems are functionally isomorphic if *there is a correspondence between the states of one and the states of the other that preserves functional relations.* The concept of **isomorphism **pervades mathematics and is illuminated by answering the question, "What makes two mathematical structures essentially equivalent?"</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -20,15 +20,15 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Review the wiring diagram (shown in class) that summarizes the basic plan of the central nervous system of mammals (see blog page <strong><a href="../the-organization-of-the-brain/">The Organization of the Brain</a></strong>).  (15 min)</li>
+<li>Review the wiring diagram (shown in class) that summarizes the basic plan of the central nervous system of mammals (see blog page **The Organization of the Brain [\[Page\]](../the-organization-of-the-brain/)**). (15 min)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Read the blog page <a href="../the-problem-of-qualia/"><strong>The Problem of Qualia</strong></a>. (15 min)</li>
+<li>Read the blog page **The Problem of Qualia** [\[Page\]](../the-problem-of-qualia/). (15 min)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Read <a href="https://www.cambridge.org/core/books/philosophical-papers/philosophy-and-our-mental-life/45E42DE21692C2050A11E4D5BC16C2E4#"><strong>Putnam (1975).&nbsp; Philosophy and our mental life.</strong></a>&nbsp; In:&nbsp;<em>Philosophical Papers</em>, Vol. 2, Ch 14, pp. 134–143.&nbsp;<a href="../../wp-content/uploads/2019/01/1980Putnam.pdf">[PDF]</a>&nbsp;(60 min)</li>
+<li>Read **Putnam (1975). Philosophy and our mental life.** [\[Publisher\]](https://www.cambridge.org/core/books/philosophical-papers/philosophy-and-our-mental-life/45E42DE21692C2050A11E4D5BC16C2E4#) In: *Philosophical Papers*, Vol. 2, Ch 14, pp. 134–143. [\[PDF\]](../../wp-content/uploads/2019/01/1980Putnam.pdf) (60 min)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -91,19 +91,19 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><em><a href="https://www.cambridge.org/core/books/philosophical-papers/708D9D069C33E70181B5AF944228714A">Philosophical Papers,&nbsp;Volume 2: Mind, Language and Reality</a>&nbsp;</em>(from which or reading was drawn) is a collection of Hilary Putnam's work. &nbsp;<a href="https://www.amazon.com/dp/0521295513">[Amazon]</a> <a href="https://wm-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01COWM_WM_ALMA21552433050003196&amp;context=L&amp;vid=01COWM_WM_NEWUI&amp;search_scope=01COWM_WM_ALMA&amp;tab=01cowm_alma&amp;lang=en_US">[SWEM]</a></p>
+<p>*Philosophical Papers, Volume 2: Mind, Language and Reality [\[Publisher\]](https://www.cambridge.org/core/books/philosophical-papers/708D9D069C33E70181B5AF944228714A) *(from which or reading was drawn) is a collection of Hilary Putnam's work. [\[Amazon\]](https://www.amazon.com/dp/0521295513) [\[SWEM\]](https://wm-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01COWM_WM_ALMA21552433050003196&context=L&vid=01COWM_WM_NEWUI&search_scope=01COWM_WM_ALMA&tab=01cowm_alma&lang=en_US)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Edward Kelly and Emily Williams Kelly (2009). &nbsp;<a href="https://rowman.com/isbn/9781442202061/irreducible-mind-toward-a-psychology-for-the-21st-century">Irreducible Mind: Toward a Psychology for the 21st Century.</a> &nbsp;<a href="https://rowman.com/isbn/9781442202061/irreducible-mind-toward-a-psychology-for-the-21st-century">Rowman &amp; Littlefield Publishers.</a> [<a href="https://www.amazon.com/dp/1442202068">Amazon</a>] <a href="https://wm-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01COWM_WM_ALMA21580043980003196&amp;context=L&amp;vid=01COWM_WM_NEWUI&amp;search_scope=01COWM_WM_ALMA&amp;tab=01cowm_alma&amp;lang=en_US">[SWEM]</a></p>
+<p>Edward Kelly and Emily Williams Kelly (2009). Irreducible Mind: Toward a Psychology for the 21st Century. [\[Publisher\]](https://rowman.com/isbn/9781442202061/irreducible-mind-toward-a-psychology-for-the-21st-century) Rowman & Littlefield Publishers. [\[Publisher\]](https://rowman.com/isbn/9781442202061/irreducible-mind-toward-a-psychology-for-the-21st-century) [Amazon [\[Amazon\]](https://www.amazon.com/dp/1442202068)] [\[SWEM\]](https://wm-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01COWM_WM_ALMA21580043980003196&context=L&vid=01COWM_WM_NEWUI&search_scope=01COWM_WM_ALMA&tab=01cowm_alma&lang=en_US)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Randall E. Auxier,&nbsp;Douglas R. Anderson,&nbsp;Lewis Edwin Hahn, eds. (2015).&nbsp;The Philosophy of Hilary Putnam. &nbsp;Open Court. &nbsp;[<a href="https://www.amazon.com/dp/0812698932">Amazon</a>]&nbsp;<a href="https://wm-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01COWM_WM_ALMA51747420130003196&amp;context=L&amp;vid=01COWM_WM_NEWUI&amp;search_scope=01COWM_WM_ALMA&amp;tab=01cowm_alma&amp;lang=en_US">[SWEM]</a></p>
+<p>Randall E. Auxier, Douglas R. Anderson, Lewis Edwin Hahn, eds. (2015). The Philosophy of Hilary Putnam. Open Court. [Amazon [\[Amazon\]](https://www.amazon.com/dp/0812698932)] [\[SWEM\]](https://wm-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01COWM_WM_ALMA51747420130003196&context=L&vid=01COWM_WM_NEWUI&search_scope=01COWM_WM_ALMA&tab=01cowm_alma&lang=en_US)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Joel B. Green (2008). <a href="http://bakerpublishinggroup.com/books/body-soul-and-human-life/285760">Body, Soul, and Human Life: The Nature of Humanity in the Bible</a> <a href="http://bakerpublishinggroup.com/books/body-soul-and-human-life/285760">Baker Academic.</a> <a href="https://www.amazon.com/dp/0801035953">[Amazon]</a></p>
+<p>Joel B. Green (2008). Body, Soul, and Human Life: The Nature of Humanity in the Bible [\[Publisher\]](http://bakerpublishinggroup.com/books/body-soul-and-human-life/285760) Baker Academic. [\[Publisher\]](http://bakerpublishinggroup.com/books/body-soul-and-human-life/285760) [\[Amazon\]](https://www.amazon.com/dp/0801035953)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -11,7 +11,7 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Read <a href="https://www.sciencedirect.com/science/article/pii/S0959438813002043">Piccinini &amp; Shagrir (2014). Foundations of computational neuroscience. Current Opinion in Neurobiology, 25, 25–30.</a>  <a href="../../wp-content/uploads/2019/01/piccininishagrir2014foundationsofcomputationalneuroscience.pdf">[PDF]</a></p>
+<p>Read Piccinini & Shagrir (2014). Foundations of computational neuroscience. Current Opinion in Neurobiology, 25, 25–30. [\[Publisher\]](https://www.sciencedirect.com/science/article/pii/S0959438813002043) [\[PDF\]](../../wp-content/uploads/2019/01/piccininishagrir2014foundationsofcomputationalneuroscience.pdf)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -63,7 +63,7 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>See Trappenberg, Thomas. <em>&nbsp;<a href="https://global.oup.com/academic/product/fundamentals-of-computational-neuroscience-9780199568413?cc=us&amp;lang=en&amp;">Fundamentals of Computational Neuroscience.</a></em>&nbsp;2nd Edition. &nbsp;<a href="https://global.oup.com/academic/product/fundamentals-of-computational-neuroscience-9780199568413?cc=us&amp;lang=en&amp;">Oxford University Press</a>, 2010. <a href="https://www.amazon.com/dp/0199568413/">[Amazon]</a>&nbsp;<a title="trappenbergfundamentalscomputneuroappendixdbasicinformationtheory" href="../../wp-content/uploads/2019/01/trappenbergfundamentalscomputneuroappendixdbasicinformationtheory.pdf">[Appendix D Basic information theory]</a></p>
+<p>See Trappenberg, Thomas. * Fundamentals of Computational Neuroscience. [\[Publisher\]](https://global.oup.com/academic/product/fundamentals-of-computational-neuroscience-9780199568413?cc=us&lang=en&)* 2nd Edition. Oxford University Press [\[Publisher\]](https://global.oup.com/academic/product/fundamentals-of-computational-neuroscience-9780199568413?cc=us&lang=en&), 2010. [\[Amazon\]](https://www.amazon.com/dp/0199568413/) [\[Appendix D Basic information theory\]](../../wp-content/uploads/2019/01/trappenbergfundamentalscomputneuroappendixdbasicinformationtheory.pdf)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -85,7 +85,7 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Physical systems - e.g., digital computers - perform computations in the sense of information-processing. &nbsp;There is well-developed mathematical theory of computation (finite state machines, push-down automata, Turing machines, artificial languages, etc.) There is currently no corresponding theory of neural computation, but there is agreement that neural computing is physical computation that has different characteristics than the computations performed by digital computers. &nbsp;The best discussion of this topic I have found is&nbsp;<span id="productTitle" class="a-size-extra-large"><a href="https://global.oup.com/academic/product/physical-computation-9780199658855"><span class="author notFaded">Gualtiero Piccinini (2015).&nbsp;</span>Physical Computation: A Mechanistic Account. Oxford University Press</a>.&nbsp;</span>&nbsp;[<a href="https://wm-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01COWM_WM_ALMA51742553070003196&amp;context=L&amp;vid=01COWM_WM_NEWUI&amp;search_scope=01COWM_WM_ALMA&amp;tab=01cowm_alma&amp;lang=en_US">SWEM</a>] [<a href="https://www.amazon.com/dp/0198801165">Amazon</a>]</p>
+<p>Physical systems - e.g., digital computers - perform computations in the sense of information-processing. There is well-developed mathematical theory of computation (finite state machines, push-down automata, Turing machines, artificial languages, etc.) There is currently no corresponding theory of neural computation, but there is agreement that neural computing is physical computation that has different characteristics than the computations performed by digital computers. The best discussion of this topic I have found is Gualtiero Piccinini (2015). Physical Computation: A Mechanistic Account. Oxford University Press [\[Publisher\]](https://global.oup.com/academic/product/physical-computation-9780199658855). [SWEM [\[SWEM\]](https://wm-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01COWM_WM_ALMA51742553070003196&context=L&vid=01COWM_WM_NEWUI&search_scope=01COWM_WM_ALMA&tab=01cowm_alma&lang=en_US)] [Amazon [\[Amazon\]](https://www.amazon.com/dp/0198801165)]</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -127,22 +127,22 @@ render_with_liquid: false
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a href="https://link.springer.com/article/10.1007/s00422-011-0451-9">McDonnell, M.D., Ikeda, S. and Manton, J.H., 2011. An introductory review of information theory in the context of computational neuroscience. <i>Biological cybernetics</i>, <i>105</i>(1), p.55.</a></p>
+<p>McDonnell, M.D., Ikeda, S. and Manton, J.H., 2011. An introductory review of information theory in the context of computational neuroscience. *Biological cybernetics*, *105*(1), p.55. [\[Publisher\]](https://link.springer.com/article/10.1007/s00422-011-0451-9)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <div class="a-section a-spacing-none">
-<p id="title" class="a-spacing-none"><span id="productTitle" class="a-size-extra-large"><a href="https://global.oup.com/academic/product/physical-computation-9780199658855"><span class="author notFaded">Gualtiero Piccinini (2015).&nbsp;</span>Physical Computation: A Mechanistic Account. Oxford University Press</a>.&nbsp;</span>&nbsp; [<a href="https://wm-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01COWM_WM_ALMA51742553070003196&amp;context=L&amp;vid=01COWM_WM_NEWUI&amp;search_scope=01COWM_WM_ALMA&amp;tab=01cowm_alma&amp;lang=en_US">SWEM</a>] &nbsp;Especially Ch 15 Information Processing.</p>
+<p id="title" class="a-spacing-none">Gualtiero Piccinini (2015). Physical Computation: A Mechanistic Account. Oxford University Press [\[Publisher\]](https://global.oup.com/academic/product/physical-computation-9780199658855). [SWEM [\[SWEM\]](https://wm-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01COWM_WM_ALMA51742553070003196&context=L&vid=01COWM_WM_NEWUI&search_scope=01COWM_WM_ALMA&tab=01cowm_alma&lang=en_US)] Especially Ch 15 Information Processing.</p>
 <p><a href="https://www.amazon.com/dp/B00DGEQWBS">Robert M. Gray (2011). &nbsp;Entropy and Information Theory. &nbsp;2nd edition. Springer.</a></p>
 </div>
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p><a title="newell1980physiolsymbolsystems" href="https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog0402_2">Newell, A., 1980. Physical symbol systems. Cognitive science, 4(2), pp.135-183.</a></p>
+<p>Newell, A., 1980. Physical symbol systems. Cognitive science, 4(2), pp.135-183. [\[DOI\]](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog0402_2)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://link.springer.com/article/10.1007/s11229-006-9096-y">Piccinini, G., 2006. Computational explanation in neuroscience. <i>Synthese</i>, <i>153</i>(3), pp.343-353.</a></p>
+<p>Piccinini, G., 2006. Computational explanation in neuroscience. *Synthese*, *153*(3), pp.343-353. [\[Publisher\]](https://link.springer.com/article/10.1007/s11229-006-9096-y)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

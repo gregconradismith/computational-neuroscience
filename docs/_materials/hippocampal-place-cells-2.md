@@ -38,25 +38,25 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><a rel="noopener" href="https://www.ncbi.nlm.nih.gov/pubmed/29073644" target="_blank">Moser, E.I., Moser, M.B. and McNaughton, B.L., 2017. Spatial representation in the hippocampal formation: a history. Nature neuroscience, 20(11), p.1448.</a>&nbsp;<a title="NatNeurosci2017Hardcastle" href="../readings/">[PDF]</a></li>
+<li>Moser, E.I., Moser, M.B. and McNaughton, B.L., 2017. Spatial representation in the hippocampal formation: a history. Nature neuroscience, 20(11), p.1448. [\[PubMed\]](https://www.ncbi.nlm.nih.gov/pubmed/29073644) [\[PDF\]](../readings/)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><a rel="noreferrer noopener" href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Hardcastle+Cell+types+for+our+sense+of+location" target="_blank">Hardcastle, K., Ganguli, S. and Giocomo, L.M., 2017. Cell types for our sense of location: where we are and where we are going. <em>Nature neuroscience</em>, <em>20</em>(11), p.1474.</a><a href="../../wp-content/uploads/2019/04/natneurosci2017hardcastle.pdf">[PDF]</a></li>
+<li>Hardcastle, K., Ganguli, S. and Giocomo, L.M., 2017. Cell types for our sense of location: where we are and where we are going. *Nature neuroscience*, *20*(11), p.1474. [\[PubMed\]](https://www.ncbi.nlm.nih.gov/pubmed/?term=Hardcastle+Cell+types+for+our+sense+of+location)[\[PDF\]](../../wp-content/uploads/2019/04/natneurosci2017hardcastle.pdf)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><a rel="noopener" href="https://science.sciencemag.org/content/363/6434/1447" target="_blank">Butler, W. N., Hardcastle, K., &amp; Giocomo, L. M. (2019). Remembered reward locations restructure entorhinal spatial maps. Science, 363(6434), 1447-1452.</a>&nbsp; &nbsp;<a title="1447.full" href="../../wp-content/uploads/2020/03/1447.full_.pdf">[PDF]</a></li>
+<li>Butler, W. N., Hardcastle, K., & Giocomo, L. M. (2019). Remembered reward locations restructure entorhinal spatial maps. Science, 363(6434), 1447-1452. [\[Publisher\]](https://science.sciencemag.org/content/363/6434/1447) [\[PDF\]](../../wp-content/uploads/2020/03/1447.full_.pdf)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><a rel="noopener" href="https://www.theatlantic.com/science/archive/2019/04/personal-experience-shapes-spatial-awareness/586540/" target="_blank">Quanta, Jordana Cepelewicz. Rewards Warp the Brain’s Inner GPS:&nbsp;Cells that control an animal’s spatial awareness can reorient themselves to favor locations that are full of food. &nbsp; April&nbsp;7, 2019</a>&nbsp;&nbsp;<a title="Place Cells, the Brain’s GPS, Favor Areas With Rewards - The Atlantic" href="../../wp-content/uploads/2020/03/place-cells-the-braine28099s-gps-favor-areas-with-rewards-the-atlantic.pdf">[PDF]</a></li>
+<li>Quanta, Jordana Cepelewicz. Rewards Warp the Brain’s Inner GPS: Cells that control an animal’s spatial awareness can reorient themselves to favor locations that are full of food. April 7, 2019 [\[Publisher\]](https://www.theatlantic.com/science/archive/2019/04/personal-experience-shapes-spatial-awareness/586540/) [\[PDF\]](../../wp-content/uploads/2020/03/place-cells-the-braine28099s-gps-favor-areas-with-rewards-the-atlantic.pdf)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 

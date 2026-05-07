@@ -70,15 +70,15 @@ render_with_liquid: false
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Section 9.vi (Major Tranformations, pp. 627-638) of this book chapter summarizing Chomsky's transformation of linguistics: Boden (2006). Ch 9, Transforming Linguistics. In: Mind As Machine: A History of Cognitive Science <a href="../readings/">[Readings]</a> </li>
+<li>Section 9.vi (Major Tranformations, pp. 627-638) of this book chapter summarizing Chomsky's transformation of linguistics: Boden (2006). Ch 9, Transforming Linguistics. In: Mind As Machine: A History of Cognitive Science [\[Readings\]](../readings/)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>"The Author of the Acacia Seeds and Other Extracts from the Journal of the Association of Therolinguistics" by Ursula LeGuin.  <a href="../readings/">[Readings]</a></li>
+<li>"The Author of the Acacia Seeds and Other Extracts from the Journal of the Association of Therolinguistics" by Ursula LeGuin. [\[Readings\]](../readings/)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a rel="noreferrer noopener" href="https://www.npr.org/blogs/ombudsman/Politics_and_the_English_Language-1.pdf" target="_blank">"Politics and the English Language" by George Orwell</a></li>
+<li>"Politics and the English Language" by George Orwell [\[PDF\]](https://www.npr.org/blogs/ombudsman/Politics_and_the_English_Language-1.pdf)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
