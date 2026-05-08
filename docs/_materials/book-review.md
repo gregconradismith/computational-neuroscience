@@ -11,6 +11,3 @@ Two Amazon "ideas lists" for further readings on computational neuroscience:
 	<li><a href="http://a.co/iJop5lM">Academic computational neuroscience textbooks and monographs.</a></li>
 	<li><a href="http://a.co/2j1pKFG">General interest books related to the course: computational neuroscience, theory of mind, neuroethology, artificial intelligence, etc.</a></li>
 </ul>
-&nbsp;
-
-&nbsp;

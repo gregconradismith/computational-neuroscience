@@ -6,7 +6,7 @@ slug: "calendar"
 permalink: "/pages/calendar/"
 render_with_liquid: false
 ---
-&nbsp;
+
 <p style="text-align:right"><strong>Thursday January 17</strong>
 <em>First Day of Classes</em>
 <a href="https://apsc450computationalneuroscience.wordpress.com/mind-as-machine/">A kind of impalpability to this whole business</a></p>
@@ -14,13 +14,13 @@ render_with_liquid: false
 <a href="../_-whats-it-like-to-be-a-bat/">What's It Like to Be a Bat?</a>
 <p style="text-align:right"><strong>Thursday January 24</strong>
 <em>No Class
-</em><a href="../_-whats-it-like-to-be-a-bat/">&nbsp;</a></p>
+</em><a href="../_-whats-it-like-to-be-a-bat/"> </a></p>
 <strong>Tuesday January 29
 </strong><a href="../materialism-and-mechanism/">Philosophy and Our Mental Life</a>
 <p style="text-align:right"><strong>Thursday January 31
 </strong><a href="../marrs-three-levels-of-inquiry/">Marr's Three Levels of Inquiry</a></p>
 <strong>Tuesday February 5
-</strong><a href="https://apsc450computationalneuroscience.wordpress.com/information-and-computation/">Marr's Computational&nbsp;Vision</a>
+</strong><a href="https://apsc450computationalneuroscience.wordpress.com/information-and-computation/">Marr's Computational Vision</a>
 <p style="text-align:right"><strong>Thursday February 7
 </strong><a href="../information-and-physical-computation/">Information and Physical Computation</a></p>
 <strong>Tuesday February 12
@@ -35,7 +35,7 @@ render_with_liquid: false
 <p style="text-align:right"><strong>Thursday February 21
 </strong><a href="../evolutionary-trends-in-directional-hearing/">Evolutionary trends in directional hearing</a></p>
 <strong>Tuesday February 26
-</strong><a href="../_-template-2/">How the&nbsp;brain solves object recognition</a>
+</strong><a href="../_-template-2/">How the brain solves object recognition</a>
 <p style="text-align:right"><strong>Thursday February 28
 </strong><a href="https://apsc450computationalneuroscience.wordpress.com/_-grandmother-cells/">Neural Networks and Grandmother Cells</a></p>
 <strong>Tuesday March 5</strong>
@@ -43,7 +43,7 @@ Spring Break
 <p style="text-align:right"><strong>Thursday March 7</strong>
 Spring Break</p>
 <strong>Tuesday March 12
-<span style="color:#ff0000">Octopus&nbsp;reading complete</span>
+<span style="color:#ff0000">Octopus reading complete</span>
 </strong>
 <p style="text-align:right"><strong>Thursday March 14
 </strong><a href="https://apsc450computationalneuroscience.wordpress.com/_-smell/">Neuroethology of olfaction</a></p>
@@ -61,12 +61,12 @@ Spring Break</p>
 </strong><a href="../synaptic-scaling-and-redistribution/">Synaptic scaling and redistribution</a></p>
 <strong>Tuesday April 2
 </strong><a href="../breathing-the-prebotc-eupnea-and-sighs/">Guest lecture: Dan Borrus on breathing,</a>
-<a href="../breathing-the-prebotc-eupnea-and-sighs/">the&nbsp;preBötC, eupnea, and sighs.</a>
+<a href="../breathing-the-prebotc-eupnea-and-sighs/">the preBötC, eupnea, and sighs.</a>
 <p style="text-align:right"><strong>Thursday April 4
-</strong><a href="https://apsc450computationalneuroscience.wordpress.com/hippocampal-place-cells/">Hippocampal &nbsp;place cells</a></p>
+</strong><a href="https://apsc450computationalneuroscience.wordpress.com/hippocampal-place-cells/">Hippocampal  place cells</a></p>
 <strong>Tuesday April 9
 </strong><a href="../_-chomsky/">Chomsky: language is not learned - part 1</a><strong><span style="color:#ff0000">
-Final project proposals due&nbsp;</span>
+Final project proposals due </span>
 </strong>
 <p style="text-align:right"><strong>Thursday April 11
 </strong><a href="../_-chomsky/">Chomsky: language is not learned - part 2</a><strong>

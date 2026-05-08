@@ -7,7 +7,7 @@ permalink: "/pages/_-cerebellum/"
 render_with_liquid: false
 ---
 <h2>Preparation for this class</h2>
-&nbsp;
+
 <div id="player" class="style-scope ytd-watch-flexy">
 <div id="player-container-outer" class="style-scope ytd-watch-flexy">
 <div id="player-container-inner" class="style-scope ytd-watch-flexy">
@@ -42,15 +42,15 @@ render_with_liquid: false
 </div>
 </div>
 </div>
-Read ...
+Read...
 
-&nbsp;
+
 
 <a href="https://www.simonsfoundation.org/2018/10/18/beyond-movement-first-direct-evidence-to-support-thinking-in-the-cerebellum/">https://www.simonsfoundation.org/2018/10/18/beyond-movement-first-direct-evidence-to-support-thinking-in-the-cerebellum/</a>
 
 <a href="https://www.nature.com/articles/nrn1646"> Apps, R. and Garwicz, M., 2005. Anatomical and physiological foundations of cerebellar information processing. <i>Nature Reviews Neuroscience</i>, <i>6</i>(4), p.297.</a>    <a title="AppsGarwicz2005" href="../readings/">[PDF]</a>
 
-&nbsp;
+
 
 <hr />
 

@@ -17,4 +17,3 @@ Nico Druck
 <hr />
 
 </div>
-&nbsp;

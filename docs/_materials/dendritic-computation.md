@@ -7,11 +7,11 @@ permalink: "/pages/_-dendritic-computation/"
 render_with_liquid: false
 ---
 <h2>Preparation for this class</h2>
-Read ...
+Read...
 
 <a href="https://www.nature.com/articles/nn.4157">Stuart, G.J. and Spruston, N., 2015. Dendritic integration: 60 years of progress. <i>Nature Neuroscience</i>, <i>18</i>(12), p.1713.</a>
 
-&nbsp;
+
 
 <hr />
 
@@ -24,4 +24,3 @@ Read ...
 <hr />
 
 <h2>Further reading</h2>
-&nbsp;

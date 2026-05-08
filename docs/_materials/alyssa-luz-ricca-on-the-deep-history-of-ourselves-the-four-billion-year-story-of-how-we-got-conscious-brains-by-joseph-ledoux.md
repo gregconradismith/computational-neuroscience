@@ -10,5 +10,3 @@ render_with_liquid: false
 Alyssa Luz-Ricca:
 
 <a href="https://spark.adobe.com/video/lGTZgrUlxtfWx" target="_blank" rel="noopener">https://spark.adobe.com/video/lGTZgrUlxtfWx</a>
-
-&nbsp;

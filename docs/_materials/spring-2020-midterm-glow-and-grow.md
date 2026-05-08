@@ -48,10 +48,10 @@ Your reply/comments may be constructive criticism (what did you like? what could
 
 <a href="../lindsay-stolting-on-natural-born-cyborgs-minds-technologies-and-the-future-of-human-intelligence-by-andy-clark/">Lindsay Stolting on “Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence” by Andy Clark</a>
 
-&nbsp;
+
 
 </div>
-&nbsp;
 
-&nbsp;
+
+
 <div></div>

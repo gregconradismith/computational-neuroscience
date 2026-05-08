@@ -18,4 +18,3 @@ Andrew Lyubovsky
 <hr />
 
 </div>
-&nbsp;

@@ -6,7 +6,7 @@ slug: "spring-2020-final-projects"
 permalink: "/pages/spring-2020-final-projects/"
 render_with_liquid: false
 ---
-&nbsp;
+
 
 <a href="../evelyn-basham-plant-disease-recognition-with-neural-networks/" target="_blank" rel="noopener">Evelyn Basham on "Plant Disease Recognition with Neural Networks"</a>
 <div>
@@ -14,10 +14,10 @@ render_with_liquid: false
 <a href="https://brainheterogeneity.wordpress.com" target="_blank" rel="noopener">Mehar Nasir on “The Paradox Of Brain Heterogeneity and Functional Stability"</a>
 
 </div>
-&nbsp;
 
-&nbsp;
-<h2>This page is under construction. &nbsp;Scraps below.</h2>
+
+
+<h2>This page is under construction.  Scraps below.</h2>
 Kayla Davis on “The Consciousness Instinct: Unraveling the Mystery of How the Brain Makes the Mind” by Michael S. Gazzaniga
 
 Sejal Dhawan on “Beyond Words: What Animals Think and Feel” by Carl Safina
@@ -44,10 +44,10 @@ Saumya Sharman on “The Soul of an Octopus: A Surprising Exploration into the W
 
 Lindsay Stolting on “Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence” by Andy Clark
 
-&nbsp;
+
 
 </div>
-&nbsp;
 
-&nbsp;
+
+
 <div></div>

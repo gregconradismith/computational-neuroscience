@@ -12,5 +12,3 @@ render_with_liquid: false
 Akshata Pisharody
 
 https://soundcloud.com/akshata-p/octopodcast
-
-&nbsp;

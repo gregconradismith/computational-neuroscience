@@ -12,7 +12,7 @@ A bibliography of <a href="../books-on-computational-neuroscience/">computationa
 
 <a href="https://bl.ocks.org/rkirsling/5001347">Ross Kirsling’s Directed Graph Editor</a>
 
-&nbsp;
+
 <h2>Special Issues of Journals</h2>
 <div class="page" title="Page 1">
 <div class="layoutArea">
@@ -29,7 +29,7 @@ A bibliography of <a href="../books-on-computational-neuroscience/">computationa
 <p id="title"><a href="http://Volume 195, Issue 12, December 2018.  Special Issue on Neuroscience and Its Philosophy (first 13 articles), edited by Gualtiero Piccinini">Volume 195, Issue 12, December 2018.  Special Issue on Neuroscience and Its Philosophy (first 13 articles), edited by Gualtiero Piccinini</a></p>
 
 </div>
-&nbsp;
+
 <h2>Computational Neuroscience Courses</h2>
 <div></div>
 <div><a href="http://courses.cs.washington.edu/courses/cse528/13sp/lectures.html">http://courses.cs.washington.edu/courses/cse528/13sp/lectures.html</a></div>
@@ -57,22 +57,22 @@ A bibliography of <a href="../books-on-computational-neuroscience/">computationa
 <div></div>
 <div></div>
 <h2>One Concept 5 Levels</h2>
-&nbsp;
+
 
 <div class="embed-youtube">
 <iframe title="YouTube video" src="https://www.youtube.com/embed/opqIa5Jiwuw" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-&nbsp;
+
 
 <div class="embed-youtube">
 <iframe title="YouTube video" src="https://www.youtube.com/embed/OWJCfOvochA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-&nbsp;
+
 
 <div class="embed-youtube">
 <iframe title="YouTube video" src="https://www.youtube.com/embed/videoseries?list=PLxPBBGME9JRhKDbpGK5FyuV3EjcLckud7" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-&nbsp;
+
 <div class="page" title="Page 1">
 <div class="layoutArea">
 <div class="column"></div>
@@ -82,4 +82,3 @@ A bibliography of <a href="../books-on-computational-neuroscience/">computationa
 <p id="title"></p>
 
 </div>
-&nbsp;

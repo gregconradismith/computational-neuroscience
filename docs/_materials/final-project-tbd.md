@@ -10,7 +10,7 @@ The term project will involve independent library research and deep intellectual
 
 As a deliverable that demonstrates your learning, you might wish to construct a blog page that introduces the other students to your topic, much like those used in this course.  This blog page would include significant quotations, thought provoking questions, a close reading assignment, and material for student preparation, response, and further reading.
 
-Other possible deliverables include: a written 8-10 page report on your chosen topic,  an in-depth podcast on your topic, software that demonstrates a concept from computational neuroscience, or .... the sky is the limit.
+Other possible deliverables include: a written 8-10 page report on your chosen topic,  an in-depth podcast on your topic, software that demonstrates a concept from computational neuroscience, or.... the sky is the limit.
 
 Regardless of your choice of topic and deliverable, the guiding principles of this term project are (1) choose a topic about which you are truly interested, (2) engage genuinely and deeply with this topic, (3) create a deliverable that is high quality (worthy to be shared with others).
 
@@ -29,6 +29,6 @@ Do not hesitate to take advantage of W&amp;M library resources.  Even during "s
 </ul>
 <div>
 
-&nbsp;
+
 
 </div>

@@ -22,9 +22,3 @@ None yet.
 <h2>Representation</h2>
 
 <hr />
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;

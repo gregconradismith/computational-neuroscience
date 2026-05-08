@@ -11,4 +11,3 @@ render_with_liquid: false
 
 <a href="https://www.nature.com/articles/nature16964">Li, P., Janczewski, W.A., Yackle, K., Kam, K., Pagliardini, S., Krasnow, M.A. and Feldman, J.L., 2016. The peptidergic control circuit for sighing. <i>Nature</i>, <i>530</i>(7590), p.293.</a>  <a title="2016 Nature Sighs Li" href="../../wp-content/uploads/2019/03/2016-nature-sighs-li.pdf">[PDF]</a>
 <h2></h2>
-&nbsp;

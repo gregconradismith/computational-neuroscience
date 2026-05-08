@@ -6,6 +6,3 @@ slug: "neural-integrators"
 permalink: "/pages/neural-integrators/"
 render_with_liquid: false
 ---
-&nbsp;
-
-&nbsp;

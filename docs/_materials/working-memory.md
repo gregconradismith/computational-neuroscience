@@ -7,18 +7,18 @@ permalink: "/pages/_-working-memory/"
 render_with_liquid: false
 ---
 <h2>Preparation for this class</h2>
-Read ...
+Read...
 
 
 <a href="https://www.nature.com/articles/nn1100_1184">Durstewitz, D., Seamans, J.K. and Sejnowski, T.J., 2000. Neurocomputational models of working memory. <i>Nature neuroscience</i>, <i>3</i>(11s), p.1184.</a>
 
 <a href="https://www.sciencedirect.com/science/article/pii/S0166223600018683">Wang, X.J., 2001. Synaptic reverberation underlying mnemonic persistent activity. <i>Trends in neurosciences</i>, <i>24</i>(8), pp.455-463.</a>
 
-&nbsp;
+
 
 <a href="https://www.sciencedirect.com/science/article/pii/S0306452205007347">Durstewitz, D. and Seamans, J.K., 2006. Beyond bistability: biophysics and temporal dynamics of working memory. <i>Neuroscience</i>, <i>139</i>(1), pp.119-133.</a>
 
-&nbsp;
+
 
 <a href="https://www.pnas.org/content/110/31/12828.short">Dipoppa, M. and Gutkin, B.S., 2013. Flexible frequency control of cortical oscillations enables computations required for working memory. <i>Proceedings of the National Academy of Sciences</i>, <i>110</i>(31), pp.12828-12833.</a>
 
