@@ -11,7 +11,7 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>I have posted tentative versions of the <a href="../../pages/syllabus/">syllabus</a> and <a href="../../pages/calendar-spring-2025/">calendar</a>. Feel free to look through the course blog, beginning with the page <a href="../../pages/a-kind-of-impalpability-to-this-whole-business/">A kind of impalpability to this whole business</a>.</p>
+<p>I have posted tentative versions of the <a href="../../pages/syllabus/">syllabus</a> and <a href="../../pages/calendar-spring-2025/">overview</a>. Feel free to look through the course blog, beginning with the page <a href="../../pages/a-kind-of-impalpability-to-this-whole-business/">A kind of impalpability to this whole business</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

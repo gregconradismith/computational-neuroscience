@@ -23,7 +23,7 @@ render_with_liquid: false
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Please see the <a href="../calendar-spring-2025/">Calendar</a> for target dates for your project proposal and an oral progress report (e.g., the resources/references you are using).  <span style="color: #ff0000">The term project must be completed before final exam week ends.</span></p>
+<p>Please see the <a href="../calendar-spring-2025/">Overview</a> for final project milestones, including your project proposal and an oral progress report (e.g., the resources/references you are using).  <span style="color: #ff0000">The term project must be completed before final exam week ends.</span></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
