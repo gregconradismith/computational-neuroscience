@@ -79,4 +79,3 @@ A bibliography of <a href="../books-on-computational-neuroscience/">computationa
 <div class="embed-youtube">
 <iframe title="YouTube video" src="https://www.youtube.com/embed/0ORHGa-vQp0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-&nbsp;

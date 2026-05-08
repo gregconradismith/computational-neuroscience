@@ -20,7 +20,7 @@ For some assignments the deliverable will be annotation and commenting on assign
 <h2>YouTube Studio</h2>
 For some assignments the deliverable will be a longer video for which you have done some planning and editing.  There are many ways to make videos.  You can "Go Live" in YouTube Studio and then share a link to your work.   Within PowerPoint or Keynote you can record your voice and export a movie file.  This can be uploaded to YouTube and shared via a link.
 
-Here is a video (that I made for my nephews) made using a IPEVO document camera and the built-in screen capture/recording on my Mac book Pro.  I uploaded the resulting .mov file into YouTube and did minimal editing - trimming out the bad parts - within YouTube Studio.
+Here is a video (that I made for my nephews) made using a IPEVO document camera and the built-in screen capture/recording on my Mac book Pro.  I uploaded the resulting.mov file into YouTube and did minimal editing - trimming out the bad parts - within YouTube Studio.
 
 <a href="https://youtu.be/sso6szIXSDA" target="_blank" rel="noopener">How many sides does a circle have?</a>
 <a href="https://youtu.be/sso6szIXSDA" target="_blank" rel="noopener">https://youtu.be/sso6szIXSDA</a>
@@ -28,13 +28,13 @@ Here is a video (that I made for my nephews) made using a IPEVO document camera 
 <div class="embed-youtube">
 <iframe title="YouTube video" src="https://www.youtube.com/embed/sso6szIXSDA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-&nbsp;
+
 <h2>Adobe Spark</h2>
 Another option is <a href="https://spark.adobe.com/sp/" target="_blank" rel="noopener">Adobe Spark</a>.  Here is a How To video:
 
 <div class="embed-youtube">
 <iframe title="YouTube video" src="https://www.youtube.com/embed/3dDvYzmOtP8" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-&nbsp;
+
 
 Please share your experiences with creation of videos and other media as a comment to this page.   If you are stuck, ask for help (via a comment).  If you have found a workflow for video or other media that works well, please share it with the class!

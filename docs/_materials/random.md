@@ -12,16 +12,16 @@ render_with_liquid: false
 <ul>
 	<li>Jerry Lettvin's thinking was once described -- I think by Marvin Minsky -- as "a fascinating combination of brilliance and bullshit."  After reading Lettvin's lecture transcript, what strikes you as particularly relevant to our contemporary study of nervous system information processing?   Is there anything that strikes you as particularly brilliant or particularly confused?</li>
 </ul>
-&nbsp;
+
 <div></div>
 <div></div>
 The most popular materialist view nowadays is functionalism.... Rather than identifying mental states with types of physical states, functionalists identify mental states with functional or "configurational" states.  Functional states are more abstract than physical states, and are capable of realization in a wide variety of physical constitutions. In terms of the computer metaphor, our mentality is a matter of the way we are programmed," our "software," whereas our physiology is a matter of our "hardware."  (paraphrased from Joseph Levine)
 
-&nbsp;
+
 
 What does it mean to say that mental processes are <em>subserved</em> by neural circuits?  Has cognitive neuroscience <em>established</em> this beyond any reasonable doubt?  Or is this a more- -or-less well-justified <em>presumption</em> of contemporary neuroscience?   Careful!  Your interpretation of <em>subserved</em> in the statement "mental processes are <em>subserved</em> by neural circuits" is your solution to the <em>mind-body problem </em>of philosophy.
 
-&nbsp;
+
 
 En-Soi (being-in-itself, objective) vs. Pour-Soi (being-for-itself, subjective)
 
@@ -29,8 +29,6 @@ Sartre defines two types, or ways, of being: en-soi, or being-in-itself, and pou
 
 https://www.sparknotes.com/philosophy/sartre/themes/
 
-&nbsp;
+
 
 The field of brain-mind research is so inundated with conceptual difficulties, philosophical controversy, and empirical unknowns that even the firmest answer should be regarded with caution. (Cyriel Pennartz, <em><a href="https://mitpress.mit.edu/books/brains-representational-power">The Brain's Representational Power</a></em>, p. 3)
-
-&nbsp;

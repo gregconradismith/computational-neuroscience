@@ -6,6 +6,3 @@ slug: "local"
 permalink: "/pages/local/"
 render_with_liquid: false
 ---
-&nbsp;
-
-&nbsp;

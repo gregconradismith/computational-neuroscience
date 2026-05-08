@@ -30,7 +30,3 @@ Now that class is online, I am changing the deliverable.  Media: a short form v
 <iframe title="YouTube video" src="https://www.youtube.com/embed/zmu4AZ_cERE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <a href="https://spark.adobe.com/video/Gfx4ouhrKB5r2" target="_blank" rel="noopener">The same video hosted by Adobe Spark</a>
-
-&nbsp;
-
-&nbsp;

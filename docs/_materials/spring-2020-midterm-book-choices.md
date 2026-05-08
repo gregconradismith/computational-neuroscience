@@ -161,7 +161,7 @@ Kayla Davis
 
 Anna Rader
 
-&nbsp;
+
 
 </div>
 </div>
@@ -181,4 +181,3 @@ Andrew Lyubovsky
 <hr />
 
 </div>
-&nbsp;

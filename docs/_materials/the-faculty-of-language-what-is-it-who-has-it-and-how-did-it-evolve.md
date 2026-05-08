@@ -17,7 +17,7 @@ Before reading Hauser et al. 2000, review the following distinctions from evolut
 To get us started thinking about evolutionary biology and neuroscience, consider the following two quotes.
 <ul>
 	<li>In Brain Evolution, George F. Striedter writes "Historical explanations are really predictions in hindsight: given what we know, could we have predicted what actually came to pass?  If the answer is affirmative, then we have explained the past."   Do you agree?  Is being able to predict what actually came to pass the criterion for understanding historical events?</li>
-	<li>Hodos &amp; Campbell (1969) wrote "Once upon a time, biologists tended to think that evolution was guided by a single law of progression that caused simple organisms to become more complex, and 'lower' species to ascend 'the scale,' but that view is no longer tenable .   Do you agree?   If so, what is the explanation for the increasing `complexity' of organisms that developed over the 4.5 billion years of life on earth?</li>
+	<li>Hodos &amp; Campbell (1969) wrote "Once upon a time, biologists tended to think that evolution was guided by a single law of progression that caused simple organisms to become more complex, and 'lower' species to ascend 'the scale,' but that view is no longer tenable.   Do you agree?   If so, what is the explanation for the increasing `complexity' of organisms that developed over the 4.5 billion years of life on earth?</li>
 </ul>
 
 <hr />
@@ -51,7 +51,7 @@ Class will meet via Zoom video conference at the normal time.  A few minutes be
 </div>
 <a href="https://www.amazon.com/dp/0262533499">Why Only Us: Language and Evolution by Robert C. Berwick and Noam Chomsky. The MIT Press, 2017.</a>
 
-&nbsp;
+
 
 https://www.nytimes.com/1991/03/22/us/deaf-babies-use-their-hands-to-babble-researcher-finds.html
 

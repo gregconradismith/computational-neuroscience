@@ -30,7 +30,7 @@ render_with_liquid: false
 
 <hr />
 
-&nbsp;
+
 
 [caption id="attachment_1784" align="aligncenter" width="254"]<img class="alignnone  wp-image-1784" src="../../wp-content/uploads/2019/01/image1-e1548530769294.jpeg" alt="image1" width="254" height="341" /> Lo, LeAnn[/caption]
 

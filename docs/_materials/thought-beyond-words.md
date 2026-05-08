@@ -18,19 +18,19 @@ Since Newton there is no physical, there is just properties of the world, the wa
 <div class="embed-youtube">
 <iframe title="YouTube video" src="https://www.youtube.com/embed/atupfHizJxM" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-&nbsp;
+
 
 <div class="embed-youtube">
 <iframe title="YouTube video" src="https://www.youtube.com/embed/0ORHGa-vQp0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-&nbsp;
+
 
 <div class="embed-youtube">
 <iframe title="YouTube video" src="https://www.youtube.com/embed/VHulvUwgFWo" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-&nbsp;
 
-&nbsp;
+
+
 
 <a href="https://psycnet.apa.org/fulltext/1993-36184-001.html" target="_blank" rel="noopener">Schooler, J. W., Ohlsson, S., &amp; Brooks, K. (1993). Thoughts beyond words: When language overshadows insight. <i>Journal of experimental psychology: General</i>, <i>122</i>(2), 166.</a> <a href="../readings/" target="_blank" rel="noopener"> [PDF]</a>
 

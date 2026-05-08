@@ -7,7 +7,7 @@ permalink: "/pages/how-the-brain-keeps-the-eyes-still/"
 render_with_liquid: false
 ---
 <h2>Preparation</h2>
-Read Seung, H.S., 1996. How the brain keeps the eyes still. *PNAS **93*(23):13339-13344. [\[PDF\]](../../wp-content/uploads/2019/01/seung1996howbrainkeepseyesstill.pdf)
+Read Seung, H.S., 1996. How the brain keeps the eyes still. <em>PNAS</em> <em>93</em>(23):13339-13344. <a href="../../wp-content/uploads/2019/01/seung1996howbrainkeepseyesstill.pdf">PDF</a>
 <div>
 <h2>Overview</h2>
 </div>
@@ -20,7 +20,7 @@ Seung discusses the state space portraits of the eye position memory network, m
 
 As in our previous reading by Robinson, Seung discusses how positive feedback changes the time constant of persistent activity.   Seung also discusses the issue of "fine tuning" and the idea that synaptic weights could be adjusted through a learning rule.
 <h2>Linear attractor networks</h2>
-The simplest network models are completely linear and a natural extension of the Wilson-Cowan formalism discussed last time. The mathematical formalism of attractor networks is summarized in this PDF [\[PDF\]](../../wp-content/uploads/2019/02/attractornetworks.pdf).
+The simplest network models are completely linear and a natural extension of the Wilson-Cowan formalism discussed last time. The mathematical formalism of attractor networks is summarized in this PDF <a href="../../wp-content/uploads/2019/02/attractornetworks.pdf">PDF</a>.
 
 When a linear network is written in terms of firing rate, the Wilson-Cowan equations are
 
@@ -51,14 +51,14 @@ clear; close; clc
 % n is number of neurons (you can change this)
 n=4;
 
-% the deficiency of rank you want 
+% the deficiency of rank you want
 % point attractors when nullity=0
 % line attractors when nullity=1
-nullity=0; 
+nullity=0;
 
 
 dt = 0.001; % time step
-tau = 1; % time constant 
+tau = 1; % time constant
 
 % construct random matrix of rank N minus nullity (this is M=-I+W)
 % and make sure real part of eigenvalus is negative<span class="Apple-converted-space"> 
@@ -70,7 +70,7 @@ while any(real(eigs(M))&gt;=0)
    end
 end
 % this makes sure b is in range of M
-z = orth(M); b = z*randn(size(z,2),1); 
+z = orth(M); b = z*randn(size(z,2),1);
 
 for k=1:10 % number of initial conditions<span class="Apple-converted-space"> 
 </span>   x = randn(n,1);
@@ -78,8 +78,8 @@ for k=1:10 % number of initial conditions<span class="Apple-converted-space"> 
       x(:,i+1) = x(:,i)+dt/tau*(M*x(:,i)+b); % M=-I+W
    end
 
-   % only the 2 or 3 first dimensions are plotted 
-   % (x1, x2) if n=2, (x1, x2, x3) if n&gt;=3 
+   % only the 2 or 3 first dimensions are plotted
+   % (x1, x2) if n=2, (x1, x2, x3) if n&gt;=3
    if n&lt;=2
       plot(x(1,:),x(2,:)); hold on;
       plot(x(1,end),x(2,end),'*','MarkerSize',10);
@@ -99,7 +99,7 @@ end</pre>
 <div><a href="https://www.sciencedirect.com/science/article/pii/S0893608098000641">Seung, H.S., 1998. Continuous attractors and oculomotor control. <i>Neural Networks</i>, <i>11</i>(7-8), pp.1253-1258.</a></div>
 <div>
 
-Seung, H.S., Lee, D.D., Reis, B.Y. and Tank, D.W., 2000. Stability of the memory of eye position in a recurrent network of conductance-based model neurons. *Neuron*, *26*(1), pp.259-271 [\[Publisher\]](https://www.sciencedirect.com/science/article/pii/S0896627300811551).
+Seung, H.S., Lee, D.D., Reis, B.Y. and Tank, D.W., 2000. Stability of the memory of eye position in a recurrent network of conductance-based model neurons. <em>Neuron</em>, <em>26</em>(1), pp.259-271 <a href="https://www.sciencedirect.com/science/article/pii/S0896627300811551">Publisher</a>.
 
 </div>
 <div>
