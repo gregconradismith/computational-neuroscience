@@ -9,7 +9,6 @@ render_with_liquid: false
 <h2>Preparation for this class</h2>
 Read ...
 
-&nbsp;
 
 <a href="https://www.nature.com/articles/nn1100_1184">Durstewitz, D., Seamans, J.K. and Sejnowski, T.J., 2000. Neurocomputational models of working memory. <i>Nature neuroscience</i>, <i>3</i>(11s), p.1184.</a>
 
