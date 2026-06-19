@@ -4,6 +4,8 @@ This repository contains editable Markdown source files for the APSC 450
 Computational Neuroscience course site, plus the original WordPress export used
 to create the first static version.
 
+Static site: <https://gregconradismith.github.io/computational-neuroscience/>
+
 ## Editing the site
 
 Edit course pages in `docs/_materials/` and course updates in `docs/_posts/`.
