@@ -1,10 +1,11 @@
 ---
-title: "Overview"
+title: "Spring 2025 Calendar"
 kind: "page"
 date: "1970-01-01"
 slug: "calendar-spring-2025"
 permalink: "/pages/calendar-spring-2025/"
 render_with_liquid: false
+layout: calendar
 ---
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
