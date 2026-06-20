@@ -39,3 +39,7 @@ oversized WordPress media are left external.
 
 The original WordPress export is preserved at
 `tmp/computationalneuroscience.WordPress.2026-05-06.xml`.
+
+## Codex Coordination
+
+Codex session state is tracked in `.codex/handoff.md`; durable decisions and task history may also appear in `.codex/` when useful.
