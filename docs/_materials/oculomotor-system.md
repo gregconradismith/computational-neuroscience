@@ -7,11 +7,13 @@ permalink: "/pages/oculomotor-system/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/oculomotor-system.md). Access requires permission to the private repository.
+
 <h2 class="wp-block-heading">Preparation for class Thursday, February 13</h2>
 
 
 <ul class="wp-block-list">
-<li>Read pp. 165-172 of Goldman, Compte, and Wang (2009). Neural Integrator Models. <a href="../../wp-content/uploads/2019/01/Goldmanetal_NeuralIntegrators.pdf">PDF</a> This reading discusses neural integrators more generally. Focus on understanding Figures 1-5.</li>
+<li>Read pp. 165-172 of Goldman, Compte, and Wang (2009). Neural Integrator Models. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/oculomotor-system.md">PDF</a> This reading discusses neural integrators more generally. Focus on understanding Figures 1-5.</li>
 </ul>
 
 
@@ -19,12 +21,12 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Read pp. 376-385 of Baer, Connors, and Paradiso (The Auditory and Vestibular Systems). <a href="../../wp-content/uploads/2025/02/baeretalneurosciencech11auditoryandvestibularsystems.pdf">PDF</a></li>
+<li>Read pp. 376-385 of Baer, Connors, and Paradiso (The Auditory and Vestibular Systems). <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/oculomotor-system.md">PDF</a></li>
 </ul>
 
 
 <ul class="wp-block-list">
-<li>Read pp. 33-38, 42-44 of Robinson (1989). Integrating with neurons. Annu Rev Neurosci. 12:33-45. <a href="../../wp-content/uploads/2019/01/robinson_integratingwithneurons.pdf">PDF</a> The page range indicates that you may skip the <em>Models of Neural Integrators</em> section, which we talked about already.</li>
+<li>Read pp. 33-38, 42-44 of Robinson (1989). Integrating with neurons. Annu Rev Neurosci. 12:33-45. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/oculomotor-system.md">PDF</a> The page range indicates that you may skip the <em>Models of Neural Integrators</em> section, which we talked about already.</li>
 </ul>
 
 
@@ -57,7 +59,7 @@ render_with_liquid: false
 </blockquote>
 
 
-<p>Some mathematical explanation for the form of these equations is provided in these notes on Wilson-Cowan-type equations <a href="../../wp-content/uploads/2019/01/wilsoncowan.pdf">PDF</a>, The readings also discuss how the integration time constant for recurrent excitatory networks is longer than the time constant for the decay of neural activity in the absence of recurrent excitation. These notes show how postive feedback changes time constant of leaky integrator. <a href="../../wp-content/uploads/2019/01/postivefeedback.pdf">PDF</a></p>
+<p>Some mathematical explanation for the form of these equations is provided in these notes on Wilson-Cowan-type equations <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/oculomotor-system.md">PDF</a>, The readings also discuss how the integration time constant for recurrent excitatory networks is longer than the time constant for the decay of neural activity in the absence of recurrent excitation. These notes show how postive feedback changes time constant of leaky integrator. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/oculomotor-system.md">PDF</a></p>
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
@@ -123,19 +125,19 @@ legend({'u1','u2'})
 
 
 <ul class="wp-block-list">
-<li>Arnold and Robinson (1992). A neural network model of the vestibulo-ocular reflex using a local synaptic learning rule. Philos Trans R Soc Lond B Biol Sci. 337(1281):327-30. <a href="../../wp-content/uploads/2019/01/arnold1992aneuralnetworkmodlofvor.pdf">PDF</a></li>
+<li>Arnold and Robinson (1992). A neural network model of the vestibulo-ocular reflex using a local synaptic learning rule. Philos Trans R Soc Lond B Biol Sci. 337(1281):327-30. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/oculomotor-system.md">PDF</a></li>
 
 
-<li>Destexhe, A. and Sejnowski, T.J., 2009. The Wilson–Cowan model, 36 years later. <em>Biological cybernetics</em>, <em>101</em>(1), pp.1-2. <a href="../../wp-content/uploads/2019/01/sejnowskidestexhe2009thewilson-cowan_model_36_years_later.pdf">PDF</a></li>
+<li>Destexhe, A. and Sejnowski, T.J., 2009. The Wilson–Cowan model, 36 years later. <em>Biological cybernetics</em>, <em>101</em>(1), pp.1-2. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/oculomotor-system.md">PDF</a></li>
 
 
-<li>Cannon, Robinson and Shamma (1983). A proposed neural network for the integrator of the oculomotor system. Biol Cybern. 49(2):127-36. <a href="../../wp-content/uploads/2019/01/cannonetal1983.pdf">PDF</a></li>
+<li>Cannon, Robinson and Shamma (1983). A proposed neural network for the integrator of the oculomotor system. Biol Cybern. 49(2):127-36. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/oculomotor-system.md">PDF</a></li>
 
 
-<li>Branoner, F., Chagnaud, B. P., & Straka, H. (2016). Ontogenetic development of vestibulo-ocular reflexes in amphibians. <em>Frontiers in neural circuits</em>, <em>10</em>, 91. <a href="../../wp-content/uploads/2019/01/front._neural_circuits_2016_branoner.pdf">PDF</a></li>
+<li>Branoner, F., Chagnaud, B. P., & Straka, H. (2016). Ontogenetic development of vestibulo-ocular reflexes in amphibians. <em>Frontiers in neural circuits</em>, <em>10</em>, 91. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/oculomotor-system.md">PDF</a></li>
 
 
-<li>Angelaki, D. E. (2004). Eyes on target: what neurons must do for the vestibuloocular reflex during linear motion. <em>Journal of neurophysiology</em>, <em>92</em>(1), 20-35. <a href="../../wp-content/uploads/2019/01/jneurophysiol2004angelaki.pdf">PDF</a></li>
+<li>Angelaki, D. E. (2004). Eyes on target: what neurons must do for the vestibuloocular reflex during linear motion. <em>Journal of neurophysiology</em>, <em>92</em>(1), 20-35. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/oculomotor-system.md">PDF</a></li>
 </ul>
 
 

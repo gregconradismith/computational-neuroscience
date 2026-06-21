@@ -7,11 +7,13 @@ permalink: "/pages/thalamus-firing-mode-and-synaptic-interactions/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/thalamus-firing-mode-and-synaptic-interactions.md). Access requires permission to the private repository.
+
 <h2 class="wp-block-heading">Preparation</h2>
 
 
 <ul class="wp-block-list">
-<li>Read Steriade, M., McCormick, D. A., & Sejnowski, T. J. (1993). <strong>Thalamocortical oscillations in the sleeping and aroused brain <a href="../../wp-content/uploads/2025/03/steriade-1993-thalamocor.pdf">PDF</a></strong>. Science, 262(5134), 679-685. <a href="../../wp-content/uploads/2025/03/steriade-1993-thalamocor.pdf">PDF</a></li>
+<li>Read Steriade, M., McCormick, D. A., & Sejnowski, T. J. (1993). <strong>Thalamocortical oscillations in the sleeping and aroused brain <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/thalamus-firing-mode-and-synaptic-interactions.md">PDF</a></strong>. Science, 262(5134), 679-685. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/thalamus-firing-mode-and-synaptic-interactions.md">PDF</a></li>
 
 
 <li>Work on your <strong>Final Project <a href="../spring-2025-final-project-statement/">Page</a></strong> proposal (target date Wednesday, April 2).</li>

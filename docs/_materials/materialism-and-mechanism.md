@@ -7,6 +7,8 @@ permalink: "/pages/materialism-and-mechanism/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/materialism-and-mechanism.md). Access requires permission to the private repository.
+
 <h2 class="wp-block-heading">Overview </h2>
 
 
@@ -23,7 +25,7 @@ render_with_liquid: false
 <li>Read the blog page <strong>The Problem of Qualia</strong> <a href="../the-problem-of-qualia/">Page</a>. (15 min)</li>
 
 
-<li>Read <strong>Putnam (1975). Philosophy and our mental life.</strong> <a href="https://www.cambridge.org/core/books/philosophical-papers/philosophy-and-our-mental-life/45E42DE21692C2050A11E4D5BC16C2E4#">Publisher</a> In: <em>Philosophical Papers</em>, Vol. 2, Ch 14, pp. 134–143. <a href="../../wp-content/uploads/2019/01/1980Putnam.pdf">PDF</a> (60 min)</li>
+<li>Read <strong>Putnam (1975). Philosophy and our mental life.</strong> <a href="https://www.cambridge.org/core/books/philosophical-papers/philosophy-and-our-mental-life/45E42DE21692C2050A11E4D5BC16C2E4#">Publisher</a> In: <em>Philosophical Papers</em>, Vol. 2, Ch 14, pp. 134–143. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/materialism-and-mechanism.md">PDF</a> (60 min)</li>
 
 
 <li><strong><strong>Notebook/Blackboard Writing Prompt</strong></strong>s

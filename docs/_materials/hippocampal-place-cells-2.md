@@ -7,6 +7,8 @@ permalink: "/pages/hippocampal-place-cells-2/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/hippocampal-place-cells-2.md). Access requires permission to the private repository.
+
 <h2 class="wp-block-heading">Preparation</h2>
 
 
@@ -38,17 +40,17 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Hardcastle, K., Ganguli, S. and Giocomo, L.M., 2017. Cell types for our sense of location: where we are and where we are going. <em>Nature neuroscience</em>, <em>20</em>(11), p.1474. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Hardcastle+Cell+types+for+our+sense+of+location">PubMed</a> <a href="../../wp-content/uploads/2019/04/natneurosci2017hardcastle.pdf">PDF</a></li>
+<li>Hardcastle, K., Ganguli, S. and Giocomo, L.M., 2017. Cell types for our sense of location: where we are and where we are going. <em>Nature neuroscience</em>, <em>20</em>(11), p.1474. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Hardcastle+Cell+types+for+our+sense+of+location">PubMed</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/hippocampal-place-cells-2.md">PDF</a></li>
 </ul>
 
 
 <ul class="wp-block-list">
-<li>Butler, W. N., Hardcastle, K., & Giocomo, L. M. (2019). Remembered reward locations restructure entorhinal spatial maps. Science, 363(6434), 1447-1452. <a href="https://science.sciencemag.org/content/363/6434/1447">Publisher</a> <a href="../../wp-content/uploads/2020/03/1447.full_.pdf">PDF</a></li>
+<li>Butler, W. N., Hardcastle, K., & Giocomo, L. M. (2019). Remembered reward locations restructure entorhinal spatial maps. Science, 363(6434), 1447-1452. <a href="https://science.sciencemag.org/content/363/6434/1447">Publisher</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/hippocampal-place-cells-2.md">PDF</a></li>
 </ul>
 
 
 <ul class="wp-block-list">
-<li>Quanta, Jordana Cepelewicz. Rewards Warp the Brain’s Inner GPS: Cells that control an animal’s spatial awareness can reorient themselves to favor locations that are full of food. April 7, 2019 <a href="https://www.theatlantic.com/science/archive/2019/04/personal-experience-shapes-spatial-awareness/586540/">Publisher</a> <a href="../../wp-content/uploads/2020/03/place-cells-the-braine28099s-gps-favor-areas-with-rewards-the-atlantic.pdf">PDF</a></li>
+<li>Quanta, Jordana Cepelewicz. Rewards Warp the Brain’s Inner GPS: Cells that control an animal’s spatial awareness can reorient themselves to favor locations that are full of food. April 7, 2019 <a href="https://www.theatlantic.com/science/archive/2019/04/personal-experience-shapes-spatial-awareness/586540/">Publisher</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/hippocampal-place-cells-2.md">PDF</a></li>
 </ul>
 
 
@@ -71,4 +73,4 @@ https://youtu.be/i9GiLBXWAHI https://youtu.be/jYCR0pQLd_U
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
-<h2 class="wp-block-heading"><a href="../../wp-content/uploads/2023/03/lecture19localfieldpotentialshippocampalplacecellsthetarhythm.pdf">Slides used in class</a></h2>
+<h2 class="wp-block-heading"><a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/hippocampal-place-cells-2.md">Slides used in class</a></h2>

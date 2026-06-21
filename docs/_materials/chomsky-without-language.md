@@ -7,10 +7,12 @@ permalink: "/pages/chomsky-without-language/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/chomsky-without-language.md). Access requires permission to the private repository.
+
 <h2 class="wp-block-heading">Preparation</h2>
 
 
-<p>Read... <a href="https://www.sciencedirect.com/science/article/pii/0010027781900226">Bregman, A.S., 1981. Chomsky without language. <i>Cognition</i>, <i>10</i>(1-3), p.33.</a>  <a title="bregman1981" href="../../wp-content/uploads/2019/01/bregman1981.pdf">[PDF]</a></p>
+<p>Read... <a href="https://www.sciencedirect.com/science/article/pii/0010027781900226">Bregman, A.S., 1981. Chomsky without language. <i>Cognition</i>, <i>10</i>(1-3), p.33.</a>  <a title="bregman1981" href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/chomsky-without-language.md">[PDF]</a></p>
 
 
 <h2 class="wp-block-heading">Discussion and further reading</h2>

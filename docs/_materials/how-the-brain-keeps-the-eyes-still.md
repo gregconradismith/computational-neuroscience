@@ -6,8 +6,10 @@ slug: "how-the-brain-keeps-the-eyes-still"
 permalink: "/pages/how-the-brain-keeps-the-eyes-still/"
 render_with_liquid: false
 ---
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/how-the-brain-keeps-the-eyes-still.md). Access requires permission to the private repository.
+
 <h2>Preparation</h2>
-Read Seung, H.S., 1996. How the brain keeps the eyes still. <em>PNAS</em> <em>93</em>(23):13339-13344. <a href="../../wp-content/uploads/2019/01/seung1996howbrainkeepseyesstill.pdf">PDF</a>
+Read Seung, H.S., 1996. How the brain keeps the eyes still. <em>PNAS</em> <em>93</em>(23):13339-13344. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/how-the-brain-keeps-the-eyes-still.md">PDF</a>
 <div>
 <h2>Overview</h2>
 </div>
@@ -20,7 +22,7 @@ Seung discusses the state space portraits of the eye position memory network, m
 
 As in our previous reading by Robinson, Seung discusses how positive feedback changes the time constant of persistent activity.   Seung also discusses the issue of "fine tuning" and the idea that synaptic weights could be adjusted through a learning rule.
 <h2>Linear attractor networks</h2>
-The simplest network models are completely linear and a natural extension of the Wilson-Cowan formalism discussed last time. The mathematical formalism of attractor networks is summarized in this PDF <a href="../../wp-content/uploads/2019/02/attractornetworks.pdf">PDF</a>.
+The simplest network models are completely linear and a natural extension of the Wilson-Cowan formalism discussed last time. The mathematical formalism of attractor networks is summarized in this PDF <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/how-the-brain-keeps-the-eyes-still.md">PDF</a>.
 
 When a linear network is written in terms of firing rate, the Wilson-Cowan equations are
 

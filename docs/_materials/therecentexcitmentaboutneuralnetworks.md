@@ -7,6 +7,8 @@ permalink: "/pages/therecentexcitmentaboutneuralnetworks/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/therecentexcitmentaboutneuralnetworks.md). Access requires permission to the private repository.
+
 <h2 class="wp-block-heading">Assignment</h2>
 
 
@@ -16,7 +18,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Read and annotate this classic commentary by Francis Crick <a href="https://en.wikipedia.org/wiki/Francis_Crick">Publisher</a> entitled "<strong>The recent excitement about neural networks</strong>" <a href="../../wp-content/uploads/2019/01/crick1989.pdf">PDF</a>. Write out three or more salient quotes from the paper and provide a worthy response (e.g., an astute observation, nuanced critique, or thought-provoking question). Upload your work to Bb as Assignment #3. Bring a copy of your quotes and responses to class and be prepared to share your thoughts.</li>
+<li>Read and annotate this classic commentary by Francis Crick <a href="https://en.wikipedia.org/wiki/Francis_Crick">Publisher</a> entitled "<strong>The recent excitement about neural networks</strong>" <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/therecentexcitmentaboutneuralnetworks.md">PDF</a>. Write out three or more salient quotes from the paper and provide a worthy response (e.g., an astute observation, nuanced critique, or thought-provoking question). Upload your work to Bb as Assignment #3. Bring a copy of your quotes and responses to class and be prepared to share your thoughts.</li>
 </ul>
 
 

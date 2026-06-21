@@ -7,11 +7,13 @@ permalink: "/pages/synaptic-scaling-and-redistribution/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/synaptic-scaling-and-redistribution.md). Access requires permission to the private repository.
+
 <h2 class="wp-block-heading">Assignment</h2>
 
 
 <ul class="wp-block-list">
-<li>Read through this blog page and then complete the reading Abbott, L.F. and Regehr, W.G., 2004. Synaptic computation. <em>Nature</em>, <em>431</em>(7010), p.796. <a href="https://www.nature.com/articles/nature03010">Publisher</a> <a href="../../wp-content/uploads/2019/01/abbottregehr2004.pdf">PDF</a></li>
+<li>Read through this blog page and then complete the reading Abbott, L.F. and Regehr, W.G., 2004. Synaptic computation. <em>Nature</em>, <em>431</em>(7010), p.796. <a href="https://www.nature.com/articles/nature03010">Publisher</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/synaptic-scaling-and-redistribution.md">PDF</a></li>
 </ul>
 
 
@@ -88,7 +90,7 @@ render_with_liquid: false
 <h2 class="wp-block-heading">References</h2>
 
 
-<p>Abbott, L.F. and Nelson, S.B., 2000. Synaptic plasticity: taming the beast. <em>Nature Neuroscience</em>, <em>3</em>:1178-1183. <a href="https://www.nature.com/articles/nn1100_1178">Publisher</a> <a href="../../wp-content/uploads/2019/01/abbottnelson00.pdf">PDF</a></p>
+<p>Abbott, L.F. and Nelson, S.B., 2000. Synaptic plasticity: taming the beast. <em>Nature Neuroscience</em>, <em>3</em>:1178-1183. <a href="https://www.nature.com/articles/nn1100_1178">Publisher</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/synaptic-scaling-and-redistribution.md">PDF</a></p>
 
 
-<p>Abbott, L.F. and Regehr, W.G., 2004. Synaptic computation. <em>Nature</em>, <em>431</em>(7010), p.796. <a href="https://www.nature.com/articles/nature03010">Publisher</a> <a href="../../wp-content/uploads/2019/01/abbottregehr2004.pdf">PDF</a></p>
+<p>Abbott, L.F. and Regehr, W.G., 2004. Synaptic computation. <em>Nature</em>, <em>431</em>(7010), p.796. <a href="https://www.nature.com/articles/nature03010">Publisher</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/synaptic-scaling-and-redistribution.md">PDF</a></p>

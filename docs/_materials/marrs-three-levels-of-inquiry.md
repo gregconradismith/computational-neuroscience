@@ -7,6 +7,8 @@ permalink: "/pages/marrs-three-levels-of-inquiry/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/marrs-three-levels-of-inquiry.md). Access requires permission to the private repository.
+
 <h2 class="wp-block-heading">Assignment</h2>
 
 
@@ -21,7 +23,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Read the General Introduction (pp. 1-7) <a href="../../wp-content/uploads/2019/01/MarrVisionGeneralIntroduction.pdf">PDF</a> and Chapter 1 <em>The Philosophy and the Approach</em> (pp. 24-38) <a href="../readings/">PDF</a> of <em>Vision: A Computational Investigation into the Human Representation and Processing of Visual Information</em> <a href="https://mitpress.mit.edu/books/vision">Publisher</a> by David Marr. MIT Press, 2010. You have access to the entire e-book <a href="https://wm-primo.hosted.exlibrisgroup.com:443/01COWM_WM:EVERYTHING:01COWM_WM_ALMA51807473810003196">SWEM</a> via <a href="https://wm-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01COWM_WM_ALMA51807473810003196&context=L&vid=01COWM_WM_NEWUI&search_scope=01COWM_WM_ALMA&tab=01cowm_alma&lang=en_US">SWEM</a>.</li>
+<li>Read the General Introduction (pp. 1-7) <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/marrs-three-levels-of-inquiry.md">PDF</a> and Chapter 1 <em>The Philosophy and the Approach</em> (pp. 24-38) <a href="../readings/">PDF</a> of <em>Vision: A Computational Investigation into the Human Representation and Processing of Visual Information</em> <a href="https://mitpress.mit.edu/books/vision">Publisher</a> by David Marr. MIT Press, 2010. You have access to the entire e-book <a href="https://wm-primo.hosted.exlibrisgroup.com:443/01COWM_WM:EVERYTHING:01COWM_WM_ALMA51807473810003196">SWEM</a> via <a href="https://wm-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01COWM_WM_ALMA51807473810003196&context=L&vid=01COWM_WM_NEWUI&search_scope=01COWM_WM_ALMA&tab=01cowm_alma&lang=en_US">SWEM</a>.</li>
 
 
 <li>Read through this blog page. Answer the <strong>Writing Prompts</strong> (below).  Print out your responses to these <strong>Questions for Discussion</strong> and bring to class; these will be collected.</li>

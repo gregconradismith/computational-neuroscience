@@ -6,6 +6,8 @@ slug: "midterm-project-octopus-gallery"
 permalink: "/pages/midterm-project-octopus-gallery/"
 render_with_liquid: false
 ---
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/midterm-project-octopus-gallery.md). Access requires permission to the private repository.
+
 In Spring 2018 students selected one of the two following books
 
 <hr />
@@ -22,7 +24,7 @@ Reviews: <a href="https://www.publishersweekly.com/978-1-4516-9771-1">Publisher
 
 Reviews: <a href="https://www.nytimes.com/2016/12/27/books/review/other-minds-peter-godfrey-smith.html">The New York Times</a>, <a href="https://www.theguardian.com/books/2017/mar/15/other-minds-peter-godfrey-smith-review-octopus-philip-hoare">The Guardian</a>, <a href="https://www.publishersweekly.com/978-0-374-22776-0">Publishers Weekly</a>.
 
-<a href="https://link.springer.com/article/10.1007/s10539-018-9650-2">Dennett, D., 2019. Review of Other Minds: the octopus, the sea and the deep origins of consciousness. <i>Biology &amp; Philosophy</i>, <i>34</i>(1), p.2.</a>   <a title="Biology&amp;amp;Philosophy2018Dennett" href="../../wp-content/uploads/2019/02/biologyphilosophy2018dennett.pdf">[PDF]</a>
+<a href="https://link.springer.com/article/10.1007/s10539-018-9650-2">Dennett, D., 2019. Review of Other Minds: the octopus, the sea and the deep origins of consciousness. <i>Biology &amp; Philosophy</i>, <i>34</i>(1), p.2.</a>   <a title="Biology&amp;amp;Philosophy2018Dennett" href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/midterm-project-octopus-gallery.md">[PDF]</a>
 
 <hr />
 
@@ -53,11 +55,11 @@ The media was to be chosen from written, video, or podcast.
 
 <hr />
 
-<h3><a title="Nicole Ma Midterm Project" href="../../wp-content/uploads/2019/03/nicole-ma-midterm-project.pdf"><em>The 5 Facts of the Octopus</em> <em>Poster</em> by Nicole Ma</a></h3>
+<h3><a title="Nicole Ma Midterm Project" href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/midterm-project-octopus-gallery.md"><em>The 5 Facts of the Octopus</em> <em>Poster</em> by Nicole Ma</a></h3>
 
 <hr />
 
-<h3><a title="The Soul of an Octopus" href="../../wp-content/uploads/2019/03/the-soul-of-an-octopus.pdf">Value in Experience: a Review of Soul of the Octopus by Sy Montgomery</a></h3>
+<h3><a title="The Soul of an Octopus" href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/midterm-project-octopus-gallery.md">Value in Experience: a Review of Soul of the Octopus by Sy Montgomery</a></h3>
 <div class="embed-youtube">
 <iframe title="YouTube video" src="https://www.youtube.com/embed/ldRwIURVzbc" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
@@ -75,20 +77,20 @@ The media was to be chosen from written, video, or podcast.
 </div>
 <hr />
 
-<h3><a title="Mark Agrios - Computational Neuroscience midterm project" href="../../wp-content/uploads/2019/03/mark-agrios-computational-neuroscience-midterm-project.pdf"><em>Three-level discussion of Octopus consciousness</em> by Mark Agrios</a></h3>
+<h3><a title="Mark Agrios - Computational Neuroscience midterm project" href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/midterm-project-octopus-gallery.md"><em>Three-level discussion of Octopus consciousness</em> by Mark Agrios</a></h3>
 
 <hr />
 
-<h3><a title="Sean_Rogers_Midterm" href="../../wp-content/uploads/2019/03/sean_rogers_midterm.pdf">Speculation on Language and the Octopus by Sean Rogers</a></h3>
+<h3><a title="Sean_Rogers_Midterm" href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/midterm-project-octopus-gallery.md">Speculation on Language and the Octopus by Sean Rogers</a></h3>
 
 <hr />
 
-<h3><a title="Sonia Jindal Midterm Project (Review)" href="../../wp-content/uploads/2019/03/sonia-jindal-midterm-project-review.pdf"><em>Infographic and Review of The Soul of an Octopus</em> by Sonia Jindal</a></h3>
+<h3><a title="Sonia Jindal Midterm Project (Review)" href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/midterm-project-octopus-gallery.md"><em>Infographic and Review of The Soul of an Octopus</em> by Sonia Jindal</a></h3>
 <img class="alignnone size-full wp-image-2037" src="../../wp-content/uploads/2019/03/sonia-jindal-midterm-project-infographic.png" alt="Sonia Jindal Midterm Project (Infographic).png" width="800" height="2000" />
 
 <hr />
 
-<h3><a title="NickLaGamma-Midterm Project" href="../../wp-content/uploads/2019/03/nicklagamma-midterm-project.pdf"><em>Thoughts on Evolutionary Neuroscience</em> by Nick LaGamma</a></h3>
+<h3><a title="NickLaGamma-Midterm Project" href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/midterm-project-octopus-gallery.md"><em>Thoughts on Evolutionary Neuroscience</em> by Nick LaGamma</a></h3>
 
 <hr />
 
@@ -96,7 +98,7 @@ The media was to be chosen from written, video, or podcast.
 
 <hr />
 
-<h3><a title="Jessica Seidenberg_The Real Aliens Live Under the Sea" href="../../wp-content/uploads/2019/03/jessica-seidenberg_the-real-aliens-live-under-the-sea.pdf"><em>The Real Aliens Live Under the Sea</em> by Jessica Seidenberg</a></h3>
+<h3><a title="Jessica Seidenberg_The Real Aliens Live Under the Sea" href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/midterm-project-octopus-gallery.md"><em>The Real Aliens Live Under the Sea</em> by Jessica Seidenberg</a></h3>
 <img class="alignnone size-full wp-image-2049" src="../../wp-content/uploads/2019/03/jessica-seidenberg_the-real-aliens-live-under-the-sea1-1.png" alt="Jessica Seidenberg_The Real Aliens Live Under the Sea1.png" width="7200" height="7200" />
 
 <img class="alignnone size-full wp-image-2050" src="../../wp-content/uploads/2019/03/jessica-seidenberg_the-real-aliens-live-under-the-sea2.png" alt="Jessica Seidenberg_The Real Aliens Live Under the Sea2.png" width="7200" height="7200" />

@@ -8,6 +8,8 @@ render_with_liquid: false
 layout: calendar
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/calendar-spring-2025.md). Access requires permission to the private repository.
+
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
@@ -53,7 +55,7 @@ layout: calendar
 <p><strong>Class 9 - <a href="../how-the-brain-keeps-the-eyes-still/">Line attractor network (or how the brain keeps the eyes still)</a></strong></p>
 
 
-<p><strong>Class 10 -</strong> <strong><a href="https://www.nature.com/articles/s41583-022-00642-0">Attractor and integrator networks in the brain</a>. <a href="../../wp-content/uploads/2025/02/khonaandfiete2022.pdf">[PDF]</a></strong></p>
+<p><strong>Class 10 -</strong> <strong><a href="https://www.nature.com/articles/s41583-022-00642-0">Attractor and integrator networks in the brain</a>. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/calendar-spring-2025.md">[PDF]</a></strong></p>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />

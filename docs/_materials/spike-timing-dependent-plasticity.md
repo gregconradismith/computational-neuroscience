@@ -7,6 +7,8 @@ permalink: "/pages/_-spike-timing-dependent-plasticity/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/spike-timing-dependent-plasticity.md). Access requires permission to the private repository.
+
 <h2 class="wp-block-heading"><span style="color: var(--color-text);background-color: #ffffff">Assignment</span></h2>
 
 
@@ -14,10 +16,10 @@ render_with_liquid: false
 <li>Watch the short video on Synaptic Plasticity (see below).  </li>
 
 
-<li>Read this 1-page viewpoint on the "basic computational unit" of the brain. <strong>Zador, A. M. (2000). The basic unit of computation. <em>Nature neuroscience</em>, <em>3</em>(11), 1167-1167.</strong> <a href="https://www.nature.com/articles/nn1100_1167">Publisher</a> <a href="../../wp-content/uploads/2020/03/2000-z-zador-the_basic_unit_of_computation.pdf">PDF</a></li>
+<li>Read this 1-page viewpoint on the "basic computational unit" of the brain. <strong>Zador, A. M. (2000). The basic unit of computation. <em>Nature neuroscience</em>, <em>3</em>(11), 1167-1167.</strong> <a href="https://www.nature.com/articles/nn1100_1167">Publisher</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/spike-timing-dependent-plasticity.md">PDF</a></li>
 
 
-<li>Our main reading is <strong>"Hebbian Learning and Plasticity" by Wulfram Gerstner <a href="../../wp-content/uploads/2025/03/gerstner2011hebbianlearning.pdf">PDF</a></strong>. The mathematical formulation of Hebbian plasticity in terms of correlation of pre- and post-synaptic firing rates begins in Section 6.2.3 (p. 203).</li>
+<li>Our main reading is <strong>"Hebbian Learning and Plasticity" by Wulfram Gerstner <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/spike-timing-dependent-plasticity.md">PDF</a></strong>. The mathematical formulation of Hebbian plasticity in terms of correlation of pre- and post-synaptic firing rates begins in Section 6.2.3 (p. 203).</li>
 </ul>
 
 
@@ -93,7 +95,7 @@ render_with_liquid: false
 <li>Markram, H., Gerstner, W. and Sjöström, P.J., 2011. A history of spike-timing-dependent plasticity. <em>Frontiers in Synaptic Neuroscience</em>, <em>3</em>, p.4. <a href="https://www.frontiersin.org/articles/10.3389/fnsyn.2011.00004/full">Publisher</a></li>
 
 
-<li>Waters, J., Schaefer, A., & Sakmann, B. (2005). Backpropagating action potentials in neurones: measurement, mechanisms and potential functions. <em>Progress in biophysics and molecular biology</em>, <em>87</em>(1), 145-170. <a href="https://www.sciencedirect.com/science/article/pii/S0079610704000653">Publisher</a> <a href="../../wp-content/uploads/2020/03/1-s2.0-s0079610704000653-main.pdf">PDF</a></li>
+<li>Waters, J., Schaefer, A., & Sakmann, B. (2005). Backpropagating action potentials in neurones: measurement, mechanisms and potential functions. <em>Progress in biophysics and molecular biology</em>, <em>87</em>(1), 145-170. <a href="https://www.sciencedirect.com/science/article/pii/S0079610704000653">Publisher</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/spike-timing-dependent-plasticity.md">PDF</a></li>
 
 
 <li>Abbott, L.F. and Nelson, S.B., 2000. Synaptic plasticity: taming the beast. <em>Nature neuroscience</em>, <em>3</em>(11s), p.1178. <a href="https://www.nature.com/articles/nn1100_1178">Publisher</a></li>

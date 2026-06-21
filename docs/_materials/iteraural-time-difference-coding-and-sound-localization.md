@@ -7,6 +7,8 @@ permalink: "/pages/iteraural-time-difference-coding-and-sound-localization/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/iteraural-time-difference-coding-and-sound-localization.md). Access requires permission to the private repository.
+
 <h2 class="wp-block-heading">Overview</h2>
 
 
@@ -22,7 +24,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Read pp. 363-372 of Baer, Connors, and Paradiso (The Auditory and Vestibular Systems). <a href="../../wp-content/uploads/2025/02/baeretalneurosciencech11auditoryandvestibularsystems.pdf">PDF</a></li>
+<li>Read pp. 363-372 of Baer, Connors, and Paradiso (The Auditory and Vestibular Systems). <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/iteraural-time-difference-coding-and-sound-localization.md">PDF</a></li>
 
 
 <li>Read Carr, C.E., 1993. Processing of temporal information in the brain. Annual review of neuroscience, 16(1), pp.223-243. <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev.ne.16.030193.001255">DOI</a> This review discusses studies of neural coding of temporal information in the neuroethological context of weakly electric fish, barn owls, and echolocating bats. The circuits considered achieve their function using <em>delay lines</em> and <em>coincidence detectors</em>.</li>

@@ -7,6 +7,8 @@ permalink: "/pages/projects-2/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/projects-2.md). Access requires permission to the private repository.
+
 <h3 class="wp-block-heading">Coding Pain by Erin Lottes (Spring 2018)</h3>
 
 
@@ -61,7 +63,7 @@ render_with_liquid: false
 <h3 class="wp-block-heading"> Something to Crow About: What Avian Brains Can Tell Us About the Evolution of Intelligence by Alyssa Luz Rica (Spring 2020)</h3>
 
 
-<div class="wp-block-file"><object class="wp-block-file__embed" data="../../wp-content/uploads/2023/04/luzriccaalyssa_finalproject_text.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="luzriccaalyssa_finalproject_text"></object><a id="wp-block-file--media-4a761cdd-91ae-4677-a1e9-988de38b65d2" href="../../wp-content/uploads/2023/04/luzriccaalyssa_finalproject_text.pdf">luzriccaalyssa_finalproject_text</a><a href="../../wp-content/uploads/2023/04/luzriccaalyssa_finalproject_text.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-4a761cdd-91ae-4677-a1e9-988de38b65d2">Download</a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-4a761cdd-91ae-4677-a1e9-988de38b65d2" href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/projects-2.md">luzriccaalyssa_finalproject_text</a></div>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />

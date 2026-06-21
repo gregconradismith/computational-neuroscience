@@ -7,10 +7,12 @@ permalink: "/pages/information-and-physical-computation/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/information-and-physical-computation.md). Access requires permission to the private repository.
+
 <h2 class="wp-block-heading">Assignment</h2>
 
 
-<p>Read Piccinini & Shagrir (2014). Foundations of computational neuroscience. Current Opinion in Neurobiology, 25, 25–30. <a href="https://www.sciencedirect.com/science/article/pii/S0959438813002043">Publisher</a> <a href="../../wp-content/uploads/2019/01/piccininishagrir2014foundationsofcomputationalneuroscience.pdf">PDF</a></p>
+<p>Read Piccinini & Shagrir (2014). Foundations of computational neuroscience. Current Opinion in Neurobiology, 25, 25–30. <a href="https://www.sciencedirect.com/science/article/pii/S0959438813002043">Publisher</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/information-and-physical-computation.md">PDF</a></p>
 
 
 <p> There is no writing assignment on Blackboard, but the questions that appear throughout this page should help you prepare for class discussion.  </p>
@@ -50,7 +52,7 @@ render_with_liquid: false
 <p><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">Mutual information</mark></strong>:  Some of the variables reduce uncertainty about other variables.  Using the mathematics of probability, the time-varying observables may be idealized as <em>random variables -- </em>note that the word "variable" has changed meaning! <em>-- </em>one may quantify the uncertainty that characterizes a process as a whole, by considering all of the possible alternative states.  This idea has its roots in Shannon's theory of communication, where the dynamic process is information transmission, and the states are the possible messages.</p>
 
 
-<p>See Trappenberg, Thomas. <em>Fundamentals of Computational Neuroscience</em>. 2nd Edition. Oxford University Press <a href="https://global.oup.com/academic/product/fundamentals-of-computational-neuroscience-9780199568413?cc=us&lang=en&">Publisher</a>, 2010. <a href="https://www.amazon.com/dp/0199568413/">Amazon</a> <a href="../../wp-content/uploads/2019/01/trappenbergfundamentalscomputneuroappendixdbasicinformationtheory.pdf">Appendix D Basic information theory</a></p>
+<p>See Trappenberg, Thomas. <em>Fundamentals of Computational Neuroscience</em>. 2nd Edition. Oxford University Press <a href="https://global.oup.com/academic/product/fundamentals-of-computational-neuroscience-9780199568413?cc=us&lang=en&">Publisher</a>, 2010. <a href="https://www.amazon.com/dp/0199568413/">Amazon</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/information-and-physical-computation.md">Appendix D Basic information theory</a></p>
 
 
 <p><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">Semantic information</mark></strong> is a different concept.   Our reading states that...</p>

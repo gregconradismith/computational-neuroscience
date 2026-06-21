@@ -6,6 +6,8 @@ slug: "the-evolution-of-language-systems-in-the-human-brain"
 permalink: "/pages/the-evolution-of-language-systems-in-the-human-brain/"
 render_with_liquid: false
 ---
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/the-evolution-of-language-systems-in-the-human-brain.md). Access requires permission to the private repository.
+
 <h2>Preparation</h2>
 <ul>
 	<li>Consider this quote:</li>
@@ -54,9 +56,9 @@ The computational architecture and neurophysiology of the human brain and compar
 <h2>Further reading</h2>
 <a href="https://www.hup.harvard.edu/catalog.php?isbn=9780674007932" target="_blank" rel="noopener">Lieberman, P. (2009). <i>Human language and our reptilian brain: The subcortical bases of speech, syntax, and thought</i>. Harvard University Press.</a>   <a href="https://www.amazon.com/dp/067400793X" target="_blank" rel="noopener">[Amazon]</a>
 
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/11253303" target="_blank" rel="noopener">Lieberman, P. (2001). Human language and our reptilian brain–the subcortival bases of speech, syntax, and thought. <i>Perspectives in Biology and Medicine</i>, <i>44</i>(1), 32-51.</a>  <a title="Lieberman2000ReptilianBrainLanguage" href="../../wp-content/uploads/2020/04/lieberman2000reptilianbrainlanguage.pdf">[PDF]</a>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/11253303" target="_blank" rel="noopener">Lieberman, P. (2001). Human language and our reptilian brain–the subcortival bases of speech, syntax, and thought. <i>Perspectives in Biology and Medicine</i>, <i>44</i>(1), 32-51.</a>  <a title="Lieberman2000ReptilianBrainLanguage" href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/the-evolution-of-language-systems-in-the-human-brain.md">[PDF]</a>
 
-<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ajpa.10171" target="_blank" rel="noopener">Lieberman, P. (2002). On the nature and evolution of the neural bases of human language. American Journal of Physical Anthropology: The Official Publication of the American Association of Physical Anthropologists, 119(S35), 36-62.</a>    <a title="LiebermanNatureAndEvolutionOfLanguage" href="../../wp-content/uploads/2020/04/liebermannatureandevolutionoflanguage.pdf">[PDF]</a>
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ajpa.10171" target="_blank" rel="noopener">Lieberman, P. (2002). On the nature and evolution of the neural bases of human language. American Journal of Physical Anthropology: The Official Publication of the American Association of Physical Anthropologists, 119(S35), 36-62.</a>    <a title="LiebermanNatureAndEvolutionOfLanguage" href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/the-evolution-of-language-systems-in-the-human-brain.md">[PDF]</a>
 
 <a href="https://www.amazon.com/dp/0262533499" target="_blank" rel="noopener">Robert C. Berwick and Noam Chomsky.  Why Only Us: Language and Evolution.  MIT Press. 2017.</a>
 

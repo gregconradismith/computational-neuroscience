@@ -7,6 +7,8 @@ permalink: "/pages/theory-of-mind/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/theory-of-mind.md). Access requires permission to the private repository.
+
 <p>Materials for class discussion are below.  You do not need to read/watch anything before class.</p>
 
 
@@ -98,4 +100,4 @@ render_with_liquid: false
 <p>Dally, J.M., Emery, N.J. and Clayton, N.S., 2010. Avian Theory of Mind and counter espionage by food-caching western scrub-jays (Aphelocoma californica). European Journal of Developmental Psychology, 7(1), pp.17-37. </p>
 
 
-<p>Frith, C. and Frith, U., 2005. Theory of mind. <em>Current Biology</em>, <em>15</em>(17), pp.R644-R645. <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(05)00960-7">Publisher</a><a href="../../wp-content/uploads/2019/04/piis0960982205009607.pdf">PDF</a></p>
+<p>Frith, C. and Frith, U., 2005. Theory of mind. <em>Current Biology</em>, <em>15</em>(17), pp.R644-R645. <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(05)00960-7">Publisher</a><a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/theory-of-mind.md">PDF</a></p>

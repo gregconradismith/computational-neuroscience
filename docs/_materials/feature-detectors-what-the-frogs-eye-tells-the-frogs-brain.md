@@ -7,6 +7,8 @@ permalink: "/pages/feature-detectors-what-the-frogs-eye-tells-the-frogs-brain/"
 render_with_liquid: false
 ---
 
+> Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/feature-detectors-what-the-frogs-eye-tells-the-frogs-brain.md). Access requires permission to the private repository.
+
 <figure class="wp-block-image aligncenter is-resized"><img src="../../wp-content/uploads/2023/02/dallc2b7e-2023-02-24-10.08.23-what-the-frogs-eye-tells-the-frogs-brain.png" alt="" style="width:132px;height:132px" /></figure>
 
 
@@ -70,7 +72,7 @@ render_with_liquid: false
 <h2 class="wp-block-heading">Further Reading</h2>
 
 
-<p>Read <strong>Genealogy of the "Grandmother Cell" <a href="../../wp-content/uploads/2019/01/gross2002grandmothercell.pdf">PDF</a></strong> -- a short history of neuroscience essay by Charles G. Gross. <em>The Neuroscientist</em>, <em>8</em>(5): 512-518, 2002.</p>
+<p>Read <strong>Genealogy of the "Grandmother Cell" <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/feature-detectors-what-the-frogs-eye-tells-the-frogs-brain.md">PDF</a></strong> -- a short history of neuroscience essay by Charles G. Gross. <em>The Neuroscientist</em>, <em>8</em>(5): 512-518, 2002.</p>
 
 
 <p>Kline, R. R. (2015). <em>The Cybernetics Moment: Or why we call our age the information age</em>. Johns Hopkins University Press.  </p>
@@ -79,4 +81,4 @@ render_with_liquid: false
 <p>Lefkowitz, M. (2019). <a href="https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon">Professor’s perceptron paved the way for AI – 60 years too soon</a>. <em>Cornell Chronicle</em>.</p>
 
 
-<p>Read the following 4-page <a href="../../wp-content/uploads/2023/02/margaret-boden-bug-detectors.pdf">PDF</a> titled Bug-detectors. This is the first part (pp. 1130-1133) of A Fistful of Feature-Detectors, which itself is a section within Ch 14 of Mind as Machine by Margaret Boden.</p>
+<p>Read the following 4-page <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/feature-detectors-what-the-frogs-eye-tells-the-frogs-brain.md">PDF</a> titled Bug-detectors. This is the first part (pp. 1130-1133) of A Fistful of Feature-Detectors, which itself is a section within Ch 14 of Mind as Machine by Margaret Boden.</p>
