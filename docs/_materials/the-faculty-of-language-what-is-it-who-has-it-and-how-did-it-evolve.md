@@ -24,7 +24,7 @@ To get us started thinking about evolutionary biology and neuroscience, consider
 
 <h2><span style="color:var(--color-text);">Close reading and peer-to-peer discussion</span></h2>
 <ul>
-	<li><span style="color:var(--color-text);">Read</span> and annotate the<span style="color:var(--color-text);"> this review article on the faculty of language. </span><a href="https://science.sciencemag.org/content/298/5598/1569" target="_blank" rel="noopener">Hauser, M.D., Chomsky, N. and Fitch, W.T., 2002. The faculty of language: What is it, who has it, and how did it evolve?. Science, 298(5598), pp.1569-1579.</a>   <a href="../readings/" target="_blank" rel="noopener">[PDF]</a>  <span style="color:var(--color-text);">This <a href="https://app.perusall.com/courses/apsc-450-computational-neuroscience-spring-2020/hauserchomskyfitch2002?assignmentId=FSexkKmHvZWYs22Wt&amp;part=1" target="_blank" rel="noopener">link </a>should take you to the assignment within </span><a style="color:var(--color-text);" href="https://app.perusall.com/courses/apsc-450-computational-neuroscience-spring-2020/" target="_blank" rel="noopener">Perusall</a><span style="color:var(--color-text);">.   </span><span style="color:#ff0000;">This assignment is due Tuesday midnight.</span>  <span style="color:#ff0000;"> </span> <a href="https://doi.org/10.1126/science.298.5598.1569">[DOI]</a></li>
+	<li><span style="color:var(--color-text);">Read</span> and annotate the<span style="color:var(--color-text);"> this review article on the faculty of language. </span><a href="https://science.sciencemag.org/content/298/5598/1569" target="_blank" rel="noopener">Hauser, M.D., Chomsky, N. and Fitch, W.T., 2002. The faculty of language: What is it, who has it, and how did it evolve?. Science, 298(5598), pp.1569-1579.</a>     <span style="color:var(--color-text);">This <a href="https://app.perusall.com/courses/apsc-450-computational-neuroscience-spring-2020/hauserchomskyfitch2002?assignmentId=FSexkKmHvZWYs22Wt&amp;part=1" target="_blank" rel="noopener">link </a>should take you to the assignment within </span><a style="color:var(--color-text);" href="https://app.perusall.com/courses/apsc-450-computational-neuroscience-spring-2020/" target="_blank" rel="noopener">Perusall</a><span style="color:var(--color-text);">.   </span><span style="color:#ff0000;">This assignment is due Tuesday midnight.</span>  <span style="color:#ff0000;"> </span> <a href="https://doi.org/10.1126/science.298.5598.1569">[DOI]</a></li>
 </ul>
 
 <hr />
@@ -45,7 +45,7 @@ Class will meet via Zoom video conference at the normal time.  A few minutes be
 <h2>Further reading</h2>
 <div class="l-article__container">
 <div class="blah">
-<div class="l-article__container__container"><a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2013.01017/full" target="_blank" rel="noopener">Watumull, J., Hauser, M. D., Roberts, I. G., &amp; Hornstein, N. (2014). On recursion. <i>Frontiers in Psychology</i>, <i>4</i>, 1017.</a> <a href="https://doi.org/10.3389/fpsyg.2013.01017">[DOI]</a>  <a href="../readings/" target="_blank" rel="noopener">[PDF]</a></div>
+<div class="l-article__container__container"><a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2013.01017/full" target="_blank" rel="noopener">Watumull, J., Hauser, M. D., Roberts, I. G., &amp; Hornstein, N. (2014). On recursion. <i>Frontiers in Psychology</i>, <i>4</i>, 1017.</a> <a href="https://doi.org/10.3389/fpsyg.2013.01017">[DOI]</a>  </div>
 <div></div>
 </div>
 </div>

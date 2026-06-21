@@ -48,7 +48,7 @@ Read...
 
 <a href="https://www.simonsfoundation.org/2018/10/18/beyond-movement-first-direct-evidence-to-support-thinking-in-the-cerebellum/">https://www.simonsfoundation.org/2018/10/18/beyond-movement-first-direct-evidence-to-support-thinking-in-the-cerebellum/</a>
 
-<a href="https://www.nature.com/articles/nrn1646"> Apps, R. and Garwicz, M., 2005. Anatomical and physiological foundations of cerebellar information processing. <i>Nature Reviews Neuroscience</i>, <i>6</i>(4), p.297.</a>    <a title="AppsGarwicz2005" href="../readings/">[PDF]</a> <a href="https://doi.org/10.1038/nrn1646">[DOI]</a>
+<a href="https://www.nature.com/articles/nrn1646"> Apps, R. and Garwicz, M., 2005. Anatomical and physiological foundations of cerebellar information processing. <i>Nature Reviews Neuroscience</i>, <i>6</i>(4), p.297.</a>     <a href="https://doi.org/10.1038/nrn1646">[DOI]</a>
 
 
 

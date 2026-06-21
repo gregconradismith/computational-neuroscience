@@ -46,7 +46,7 @@ render_with_liquid: false
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
-<p><strong>Kaminski, 2017. <em>Reading Other Minds</em>.</strong> In: Shepherd, S.V. (2017) The Wiley Handbook of Evolutionary Neuroscience. John Wiley & Sons, Ltd. <a href="https://doi.org/10.1002/9781118316757">[DOI]</a> (pp. 514-525; Chapter 19) <a href="https://wm-primo.hosted.exlibrisgroup.com/permalink/f/3gli40/01COWM_WM_ALMA51749378780003196">SWEM</a> <a href="../readings/">PDF</a> This is a 10 page book chapter.</p>
+<p><strong>Kaminski, 2017. <em>Reading Other Minds</em>.</strong> In: Shepherd, S.V. (2017) The Wiley Handbook of Evolutionary Neuroscience. John Wiley & Sons, Ltd. <a href="https://doi.org/10.1002/9781118316757">[DOI]</a> (pp. 514-525; Chapter 19) <a href="https://wm-primo.hosted.exlibrisgroup.com/permalink/f/3gli40/01COWM_WM_ALMA51749378780003196">SWEM</a>  This is a 10 page book chapter.</p>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
@@ -55,7 +55,7 @@ render_with_liquid: false
 <h3 class="wp-block-heading">ToM and literacy </h3>
 
 
-<p>Dore, R. A., Amendum, S. J., Golinkoff, R. M., & Hirsh-Pasek, K. (2018). Theory of mind: A hidden factor in reading comprehension?. <em>Educational Psychology Review</em>, <em>30</em>(3), 1067-1089. <a href="https://doi.org/10.1007/s10648-018-9443-9">[DOI]</a> <a href="../readings/">PDF</a></p>
+<p>Dore, R. A., Amendum, S. J., Golinkoff, R. M., & Hirsh-Pasek, K. (2018). Theory of mind: A hidden factor in reading comprehension?. <em>Educational Psychology Review</em>, <em>30</em>(3), 1067-1089. <a href="https://doi.org/10.1007/s10648-018-9443-9">[DOI]</a> </p>
 
 
 <blockquote class="wp-block-quote">

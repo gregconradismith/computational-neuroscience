@@ -34,4 +34,4 @@ render_with_liquid: false
 <p><a href="https://www.mathworks.com/solutions/deep-learning/object-recognition.html">Object Recognition - MATLAB &amp; Simulink</a></p>
 
 
-<p>Object Recognition.  Chapter 15 of <a href="http://www.cse.usf.edu/~r1k/MachineVisionBook/MachineVision.pdf">Jain, R., Kasturi, R. and Schunck, B.G., 1995. <i>Machine vision </i>(Vol. 5, pp. 309-364). New York: McGraw-Hill.</a>  [<a href="https://www.amazon.com/dp/B00SB59TIU/">Amazon</a>]</p>
+<p>Object Recognition.  Chapter 15 of Jain, R., Kasturi, R. and Schunck, B.G., 1995. <i>Machine vision </i>(Vol. 5, pp. 309-364). New York: McGraw-Hill.  [<a href="https://www.amazon.com/dp/B00SB59TIU/">Amazon</a>]</p>

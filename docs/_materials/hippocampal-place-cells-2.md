@@ -35,7 +35,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Moser, E.I., Moser, M.B. and McNaughton, B.L., 2017. Spatial representation in the hippocampal formation: a history. Nature neuroscience, 20(11), p.1448. <a href="https://www.ncbi.nlm.nih.gov/pubmed/29073644">PubMed</a> <a href="../readings/">PDF</a> <a href="https://doi.org/10.1038/nn.4653">[DOI]</a></li>
+<li>Moser, E.I., Moser, M.B. and McNaughton, B.L., 2017. Spatial representation in the hippocampal formation: a history. Nature neuroscience, 20(11), p.1448. <a href="https://www.ncbi.nlm.nih.gov/pubmed/29073644">PubMed</a>  <a href="https://doi.org/10.1038/nn.4653">[DOI]</a></li>
 </ul>
 
 

@@ -25,7 +25,7 @@ render_with_liquid: false
 <h2 class="wp-block-heading"><a href="../readings/">Further Reading</a></h2>
 
 
-<p>Nauta, W. J., & Feirtag, M. (1979). <strong>The organization of the brain.</strong> <em>Scientific American</em>, <em>241</em>(3), 88-111. [JSTORE <a href="https://www.jstor.org/stable/pdf/24965290.pdf">JSTOR</a>] <a href="https://doi.org/10.1038/scientificamerican0979-88">[DOI]</a></p>
+<p>Nauta, W. J., & Feirtag, M. (1979). <strong>The organization of the brain.</strong> <em>Scientific American</em>, <em>241</em>(3), 88-111. [JSTORE ] <a href="https://doi.org/10.1038/scientificamerican0979-88">[DOI]</a></p>
 
 
 <p><a href="https://ocw.mit.edu/courses/9-14-brain-structure-and-its-origins-spring-2014/">Brain structure and its origins.  Instructor: </a><a href="https://ocw.mit.edu/search/?q=Prof.+Gerald+E.+Schneider">Gerald E. Schneider</a>.  MIT Open Courseware</p>

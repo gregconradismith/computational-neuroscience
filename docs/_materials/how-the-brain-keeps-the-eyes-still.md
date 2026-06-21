@@ -63,7 +63,7 @@ dt = 0.001; % time step
 tau = 1; % time constant
 
 % construct random matrix of rank N minus nullity (this is M=-I+W)
-% and make sure real part of eigenvalus is negative<span class="Apple-converted-space"> 
+% and make sure real part of eigenvalus is negative<span class="Apple-converted-space">
 </span>M = zeros(n,n);
 while any(real(eigs(M))&gt;=0)
    M = zeros(n,n);
@@ -74,7 +74,7 @@ end
 % this makes sure b is in range of M
 z = orth(M); b = z*randn(size(z,2),1);
 
-for k=1:10 % number of initial conditions<span class="Apple-converted-space"> 
+for k=1:10 % number of initial conditions<span class="Apple-converted-space">
 </span>   x = randn(n,1);
    for i = 1:1e5
       x(:,i+1) = x(:,i)+dt/tau*(M*x(:,i)+b); % M=-I+W
@@ -88,7 +88,7 @@ for k=1:10 % number of initial conditions<span class="Apple-converted-space"> 
    else
       plot3(x(1,:),x(2,:),x(3,:),'LineWidth',2); hold on;
       plot3(x(1,end),x(2,end),x(3,end),'*','MarkerSize',10); hold on;
-      zlabel('x3')<span class="Apple-converted-space"> 
+      zlabel('x3')<span class="Apple-converted-space">
 </span>   end
    xlabel('x1')
    ylabel('x2')

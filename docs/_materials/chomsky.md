@@ -69,7 +69,7 @@ render_with_liquid: false
 <li>"The Author of the Acacia Seeds and Other Extracts from the Journal of the Association of Therolinguistics" by Ursula LeGuin. <a href="../readings/">Readings</a></li>
 
 
-<li>"Politics and the English Language" by George Orwell <a href="https://www.npr.org/blogs/ombudsman/Politics_and_the_English_Language-1.pdf">PDF</a></li>
+<li>"Politics and the English Language" by George Orwell </li>
 
 
 <li><p class="_3vbdr sc-dfVpRl jZZncJ"><span class="-KXLs">Watch the documentary "Whistles in the Mist: Whistled Speech in Oaxaca." </span></p></li>

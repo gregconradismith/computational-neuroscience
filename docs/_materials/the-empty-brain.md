@@ -136,4 +136,4 @@ render_with_liquid: false
 <h2 class="wp-block-heading">Further Reading </h2>
 
 
-<p>Savage, John E. (1998). <em>Models Of Computation: Exploring the Power of Computing</em>. Addison-Wesley. <a href="https://cs.brown.edu/people/jsavage/book/pdfs/ModelsOfComputation.pdf">PDF</a></p>
+<p>Savage, John E. (1998). <em>Models Of Computation: Exploring the Power of Computing</em>. Addison-Wesley. </p>

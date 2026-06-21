@@ -11,7 +11,7 @@ render_with_liquid: false
 <h2>Preparation</h2>
 For Tuesday read:
 
-<a href="https://www.cell.com/current-biology/pdf/S0960-9822(08)00966-4.pdf">Hochner, B., 2008. Octopuses. <i>Current Biology</i>, <i>18</i>(19), pp.R897-R898.</a> <a href="https://doi.org/10.1016/j.cub.2008.07.057">[DOI]</a>  <a title="CurrentBiology2008Hochner" href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/cephalopod-brains.md">[PDF]</a>
+Hochner, B., 2008. Octopuses. <i>Current Biology</i>, <i>18</i>(19), pp.R897-R898. <a href="https://doi.org/10.1016/j.cub.2008.07.057">[DOI]</a>  <a title="CurrentBiology2008Hochner" href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/cephalopod-brains.md">[PDF]</a>
 
 Read Chapter 12 "Molluscan Defense and Escape Systems" (pp. 304-325) in <a href="https://www.amazon.com/dp/0470972238">Keith T. Sillar, Laurence D. Picton, William J. Heitler.  Neuroethology of Predation and Escape. Wiley-Blackwell, 2016.</a>  <a title="20190308143512430" href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/cephalopod-brains.md">[PDF]</a>
 

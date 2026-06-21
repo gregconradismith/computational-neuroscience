@@ -19,7 +19,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Read the "<strong>What the frog's eye tells the frog's brain</strong> <a href="https://hearingbrain.org/docs/letvin_ieee_1959.pdf">PDF</a>" by Lettvin, J. Y., Maturana, H. R., McCulloch, W. S., & Pitts, W. H. (1959). <em>Proceedings of the IRE</em>, <em>47</em>(11), 1940-1951. Focus on the Introduction, Methods, the first paragraph of Findings, General Discussion and Conclusion. That is, read the whole paper but de-emphasize the figures and pp.1944-1951. <a href="https://doi.org/10.1109/jrproc.1959.287207">[DOI]</a></li>
+<li>Read the "<strong>What the frog's eye tells the frog's brain</strong> " by Lettvin, J. Y., Maturana, H. R., McCulloch, W. S., & Pitts, W. H. (1959). <em>Proceedings of the IRE</em>, <em>47</em>(11), 1940-1951. Focus on the Introduction, Methods, the first paragraph of Findings, General Discussion and Conclusion. That is, read the whole paper but de-emphasize the figures and pp.1944-1951. <a href="https://doi.org/10.1109/jrproc.1959.287207">[DOI]</a></li>
 </ul>
 
 

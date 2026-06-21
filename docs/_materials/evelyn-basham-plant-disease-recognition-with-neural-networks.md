@@ -28,7 +28,7 @@ See the picture below demonstrating the extraction of only the most important pi
 Sladojevic et al. reveal that:
 <blockquote>“The main goal for the future work will be developing a complete system consisting of server side components containing a trained model and application for smart mobile devices with features such as displaying recognized diseases in fruits, vegetables, and other plants, based on leaf images captured by the mobile phone camera. This application will serve as an aid to farmers (regardless of the level of experience), enabling fast and efficient recognition of plant diseases and facilitating the decision-making process when it comes to the use of chemical pesticides.”</blockquote>
 <h2>Close Reading Assignment</h2>
-<a href="http://downloads.hindawi.com/journals/cin/2016/3289801.pdf" target="_blank" rel="noopener">Sladojevic et al. - Deep Neural Networks Based Recognition of Plant Diseases by Leaf Image Classification</a> <a href="https://doi.org/10.1155/2016/3289801">[DOI]</a>
+Sladojevic et al. - Deep Neural Networks Based Recognition of Plant Diseases by Leaf Image Classification <a href="https://doi.org/10.1155/2016/3289801">[DOI]</a>
 <h2>Response</h2>
 Compare and contrast the abilities of ANNs and ConvNets to mimic the human brain in your notebook. A bulleted list/diagram is fine.
 <h2>Further reading/Sources</h2>

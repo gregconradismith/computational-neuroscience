@@ -55,7 +55,7 @@ render_with_liquid: false
 
 
 <blockquote class="wp-block-quote">
-<p>... the evolution of excitatory and inhibitory activity in a synaptically coupled neuronal network. As opposed to being a detailed biophysical model, [these equations are] a coarse-grained description of the overall activity of a large-scale neuronal network.... Key parameters in the model are the strength of connectivity between each subtype of population (excitatory and inhibitory) and the strength of input to each subpopulation. Varying these generates a diversity of dynamical behaviors that are representative of observed activity in the brain, like multistability, oscillations, traveling waves, and spatial patterns. (From Kilpatrick 2013. Wilson-Cowan model. <a href="https://www.colorado.edu/amath/sites/default/files/attached-files/kilpatrick_wc14.pdf">PDF</a> Encyclopedia of Computational Neuroscience.)</p>
+<p>... the evolution of excitatory and inhibitory activity in a synaptically coupled neuronal network. As opposed to being a detailed biophysical model, [these equations are] a coarse-grained description of the overall activity of a large-scale neuronal network.... Key parameters in the model are the strength of connectivity between each subtype of population (excitatory and inhibitory) and the strength of input to each subpopulation. Varying these generates a diversity of dynamical behaviors that are representative of observed activity in the brain, like multistability, oscillations, traveling waves, and spatial patterns. (From Kilpatrick 2013. Wilson-Cowan model.  Encyclopedia of Computational Neuroscience.)</p>
 </blockquote>
 
 

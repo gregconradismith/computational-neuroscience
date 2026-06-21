@@ -11,9 +11,9 @@ render_with_liquid: false
 <hr />
 
 <h2>Close reading</h2>
-<a href="https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/jphysiol.2012.246660">Grillner, S., Robertson, B., &amp; Stephenson‐Jones, M. (2013). The evolutionary origin of the vertebrate basal ganglia and its role in action selection. The Journal of physiology, 591(22), 5425-5431.</a> <a href="https://doi.org/10.1113/jphysiol.2012.246660">[DOI]</a>    <a title="GrillnerEtal2013" href="../readings/">[PDF]</a>
+<a href="https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/jphysiol.2012.246660">Grillner, S., Robertson, B., &amp; Stephenson‐Jones, M. (2013). The evolutionary origin of the vertebrate basal ganglia and its role in action selection. The Journal of physiology, 591(22), 5425-5431.</a> <a href="https://doi.org/10.1113/jphysiol.2012.246660">[DOI]</a>
 
-<a href="https://www.sciencedirect.com/science/article/pii/S0960982216306807" target="_blank" rel="noopener">Grillner, S., &amp; Robertson, B. (2016). The basal ganglia over 500 million years. Current Biology, 26(20), R1088-R1100.</a>  <a title="GrillnerRobertson2016" href="../readings/">[PDF]</a> <a href="https://doi.org/10.1016/j.cub.2016.06.041">[DOI]</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0960982216306807" target="_blank" rel="noopener">Grillner, S., &amp; Robertson, B. (2016). The basal ganglia over 500 million years. Current Biology, 26(20), R1088-R1100.</a>   <a href="https://doi.org/10.1016/j.cub.2016.06.041">[DOI]</a>
 
 <hr />
 <p class="o-page-header__title"></p>
