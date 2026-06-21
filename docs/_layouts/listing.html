@@ -13,9 +13,13 @@ layout: default
         <p>{{ page.subtitle | escape }}</p>
       </div>
       {% if page.listing == "posts" %}
-      <ol class="post-list">
+      <label class="search-box">
+        <span>Filter</span>
+        <input type="search" data-filter-input placeholder="Search announcements">
+      </label>
+      <ol class="post-list" data-filter-list>
         {% for item in items %}
-        <li>
+        <li data-filter-item>
           <a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
           {% unless item.hide_date %}
           <span>{{ item.date | date: "%b %-d, %Y" }}</span>
