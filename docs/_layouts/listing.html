@@ -17,7 +17,9 @@ layout: default
         {% for item in items %}
         <li>
           <a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+          {% unless item.hide_date %}
           <span>{{ item.date | date: "%b %-d, %Y" }}</span>
+          {% endunless %}
         </li>
         {% endfor %}
       </ol>
