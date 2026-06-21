@@ -9,7 +9,7 @@ render_with_liquid: false
 <h2>Preparation for this class</h2>
 Read...
 
-<a href="https://www.nature.com/articles/nrn1296">Krahe, R. and Gabbiani, F., 2004. Burst firing in sensory systems. <i>Nature Reviews Neuroscience</i>, <i>5</i>(1), p.13.</a>
+<a href="https://www.nature.com/articles/nrn1296">Krahe, R. and Gabbiani, F., 2004. Burst firing in sensory systems. <i>Nature Reviews Neuroscience</i>, <i>5</i>(1), p.13.</a> <a href="https://doi.org/10.1038/nrn1296">[DOI]</a>
 <div class="article-topper__hgroup--top">
 <p class="article-topper__title"></p>
 

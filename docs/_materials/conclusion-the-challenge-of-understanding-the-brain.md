@@ -9,11 +9,11 @@ render_with_liquid: false
 <h2>Preparation for this class</h2>
 Read...
 
-<a href="https://www.sciencedirect.com/science/article/pii/S0896627315002561">Lisman, J., 2015. The challenge of understanding the brain: where we stand in 2015. <i>Neuron</i>, <i>86</i>(4), pp.864-882.</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0896627315002561">Lisman, J., 2015. The challenge of understanding the brain: where we stand in 2015. <i>Neuron</i>, <i>86</i>(4), pp.864-882.</a> <a href="https://doi.org/10.1016/j.neuron.2015.03.032">[DOI]</a>
 
 
 
-<a href="https://www.sciencedirect.com/science/article/pii/S095943881300189X">Eliasmith, C. and Trujillo, O., 2014. The use and abuse of large-scale brain models. <i>Current opinion in neurobiology</i>, <i>25</i>, pp.1-6.</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S095943881300189X">Eliasmith, C. and Trujillo, O., 2014. The use and abuse of large-scale brain models. <i>Current opinion in neurobiology</i>, <i>25</i>, pp.1-6.</a> <a href="https://doi.org/10.1016/j.conb.2013.09.009">[DOI]</a>
 
 
 
@@ -32,4 +32,4 @@ Read...
 <h2>Further reading</h2>
 
 
-<a href="https://www.cell.com/cell/fulltext/S0092-8674(00)00251-8">Albright, T.D., Jessell, T.M., Kandel, E.R. and Posner, M.I., 2000. Neural science: a century of progress and the mysteries that remain. Neuron 25. <i>S1–S55</i>.</a>
+<a href="https://www.cell.com/cell/fulltext/S0092-8674(00)00251-8">Albright, T.D., Jessell, T.M., Kandel, E.R. and Posner, M.I., 2000. Neural science: a century of progress and the mysteries that remain. Neuron 25. <i>S1–S55</i>.</a> <a href="https://doi.org/10.1016/s0896-6273(00)80912-5">[DOI]</a>

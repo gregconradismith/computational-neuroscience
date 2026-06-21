@@ -18,7 +18,7 @@ render_with_liquid: false
 <h2 class="wp-block-heading">Preparation</h2>
 
 
-<p>Required reading: Nagel, T., 1974. What is it like to be a bat?. The philosophical review, 83(4), pp.435-450. <a href="https://www.jstor.org/stable/2183914?casa_token=is2AjhkzQFMAAAAA:ib3oCZYBY6rDP2Qka0ab3K7aN0nj8mxWiVrug_6Q20sabBLD5ktTBhpShTzv1cYEifZBbOyc4QmPc3lPz5HpyWf8TH-JW9Vsyx2u8UptviVdD6DxnRdP&seq=1#metadata_info_tab_contents">JSTOR</a> (90 mins).</p>
+<p>Required reading: Nagel, T., 1974. What is it like to be a bat?. The philosophical review, 83(4), pp.435-450. <a href="https://www.jstor.org/stable/2183914?casa_token=is2AjhkzQFMAAAAA:ib3oCZYBY6rDP2Qka0ab3K7aN0nj8mxWiVrug_6Q20sabBLD5ktTBhpShTzv1cYEifZBbOyc4QmPc3lPz5HpyWf8TH-JW9Vsyx2u8UptviVdD6DxnRdP&seq=1#metadata_info_tab_contents">JSTOR</a> (90 mins). <a href="https://doi.org/10.2307/2183914">[DOI]</a></p>
 
 
 <p>If you find this reading difficult to understand, please watch the video Tips For Reading Philosophy <a href="https://youtu.be/-Pj26s8u6Vo">Video</a> by Ellie Anderson (15 min).</p>

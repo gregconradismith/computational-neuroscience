@@ -13,7 +13,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Read Steriade, M., McCormick, D. A., & Sejnowski, T. J. (1993). <strong>Thalamocortical oscillations in the sleeping and aroused brain <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/thalamus-firing-mode-and-synaptic-interactions.md">PDF</a></strong>. Science, 262(5134), 679-685. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/thalamus-firing-mode-and-synaptic-interactions.md">PDF</a></li>
+<li>Read Steriade, M., McCormick, D. A., & Sejnowski, T. J. (1993). <strong>Thalamocortical oscillations in the sleeping and aroused brain <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/thalamus-firing-mode-and-synaptic-interactions.md">PDF</a></strong>. Science, 262(5134), 679-685. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/thalamus-firing-mode-and-synaptic-interactions.md">PDF</a> <a href="https://doi.org/10.1126/science.8235588">[DOI]</a></li>
 
 
 <li>Work on your <strong>Final Project <a href="../spring-2025-final-project-statement/">Page</a></strong> proposal (target date Wednesday, April 2).</li>

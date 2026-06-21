@@ -11,11 +11,11 @@ Read...
 
 
 
-<a href="https://www.nature.com/articles/nature03015">Montague, P.R., Hyman, S.E. and Cohen, J.D., 2004. Computational roles for dopamine in behavioural control. <i>Nature</i>, <i>431</i>(7010), p.760.</a>
+<a href="https://www.nature.com/articles/nature03015">Montague, P.R., Hyman, S.E. and Cohen, J.D., 2004. Computational roles for dopamine in behavioural control. <i>Nature</i>, <i>431</i>(7010), p.760.</a> <a href="https://doi.org/10.1038/nature03015">[DOI]</a>
 
 
 
-<a href="https://www.nature.com/articles/nature14236/">Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A.A., Veness, J., Bellemare, M.G., Graves, A., Riedmiller, M., Fidjeland, A.K., Ostrovski, G. and Petersen, S., 2015. Human-level control through deep reinforcement learning. <i>Nature</i>, <i>518</i>(7540), p.529.</a>
+<a href="https://www.nature.com/articles/nature14236/">Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A.A., Veness, J., Bellemare, M.G., Graves, A., Riedmiller, M., Fidjeland, A.K., Ostrovski, G. and Petersen, S., 2015. Human-level control through deep reinforcement learning. <i>Nature</i>, <i>518</i>(7540), p.529.</a> <a href="https://doi.org/10.1038/nature14236">[DOI]</a>
 
 
 

@@ -27,7 +27,7 @@ render_with_liquid: false
 <li>Read pp. 363-372 of Baer, Connors, and Paradiso (The Auditory and Vestibular Systems). <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/iteraural-time-difference-coding-and-sound-localization.md">PDF</a></li>
 
 
-<li>Read Carr, C.E., 1993. Processing of temporal information in the brain. Annual review of neuroscience, 16(1), pp.223-243. <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev.ne.16.030193.001255">DOI</a> This review discusses studies of neural coding of temporal information in the neuroethological context of weakly electric fish, barn owls, and echolocating bats. The circuits considered achieve their function using <em>delay lines</em> and <em>coincidence detectors</em>.</li>
+<li>Read Carr, C.E., 1993. Processing of temporal information in the brain. Annual review of neuroscience, 16(1), pp.223-243. <a href="https://doi.org/10.1146/annurev.ne.16.030193.001255">[DOI]</a> This review discusses studies of neural coding of temporal information in the neuroethological context of weakly electric fish, barn owls, and echolocating bats. The circuits considered achieve their function using <em>delay lines</em> and <em>coincidence detectors</em>.</li>
 </ul>
 
 
@@ -37,7 +37,7 @@ render_with_liquid: false
 <h2 class="wp-block-heading">In-class discussion  </h2>
 
 
-<p>In addition to discussing the reading, we will (probably) learn about <strong>coincidence detection</strong>, <strong>population coding</strong>, and <strong>stochastic resonance</strong> as mechanisms that can lead to <strong>hyperacuity in sensory systems</strong>. We may also introduce the concept of <strong>dendritic computation</strong> using Figures 1 & 2 of Agmon-Snir, H., Carr, C.E. and Rinzel, J., 1998. The role of dendrites in auditory coincidence detection. Nature, 393(6682), p.268. <a href="https://www.nature.com/articles/30505">Publisher</a></p>
+<p>In addition to discussing the reading, we will (probably) learn about <strong>coincidence detection</strong>, <strong>population coding</strong>, and <strong>stochastic resonance</strong> as mechanisms that can lead to <strong>hyperacuity in sensory systems</strong>. We may also introduce the concept of <strong>dendritic computation</strong> using Figures 1 & 2 of Agmon-Snir, H., Carr, C.E. and Rinzel, J., 1998. The role of dendrites in auditory coincidence detection. Nature, 393(6682), p.268. <a href="https://www.nature.com/articles/30505">Publisher</a> <a href="https://doi.org/10.1038/30505">[DOI]</a></p>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
@@ -50,13 +50,13 @@ render_with_liquid: false
 <li>The Carr Lab at University of Maryland <a href="https://terpconnect.umd.edu/~cecarr/">Publisher</a></li>
 
 
-<li>Ashida, G. and Carr, C.E., 2011. Sound localization: Jeffress and beyond. <em>Current opinion in neurobiology</em>, <em>21</em>(5), pp.745-751. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959438811000766">Publisher</a> [PubMed <a href="https://www.ncbi.nlm.nih.gov/pubmed/21646012">PubMed</a>]</li>
+<li>Ashida, G. and Carr, C.E., 2011. Sound localization: Jeffress and beyond. <em>Current opinion in neurobiology</em>, <em>21</em>(5), pp.745-751. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959438811000766">Publisher</a> [PubMed <a href="https://www.ncbi.nlm.nih.gov/pubmed/21646012">PubMed</a>] <a href="https://doi.org/10.1016/j.conb.2011.05.008">[DOI]</a></li>
 
 
-<li>Bullock, T.H., 1984. Comparative neuroscience holds promise for quiet revolutions. <em>Science</em>, <em>225</em>(4661), pp.473-478 <a href="http://science.sciencemag.org/content/225/4661/473">Publisher</a>.</li>
+<li>Bullock, T.H., 1984. Comparative neuroscience holds promise for quiet revolutions. <em>Science</em>, <em>225</em>(4661), pp.473-478 <a href="http://science.sciencemag.org/content/225/4661/473">Publisher</a>. <a href="https://doi.org/10.1126/science.6740319">[DOI]</a></li>
 
 
-<li>Carr, C.E., Soares, D., Parameshwaran, S. and Perney, T., 2001. Evolution and development of time coding systems. Current opinion in neurobiology, 11(6), pp.727-733. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959438801002768">Publisher</a></li>
+<li>Carr, C.E., Soares, D., Parameshwaran, S. and Perney, T., 2001. Evolution and development of time coding systems. Current opinion in neurobiology, 11(6), pp.727-733. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959438801002768">Publisher</a> <a href="https://doi.org/10.1016/s0959-4388(01)00276-8">[DOI]</a></li>
 </ul>
 
 
@@ -73,7 +73,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Carr, C.E. and Christensen-Dalsgaard, J., 2016. Evolutionary trends in directional hearing. <em>Current opinion in neurobiology</em>, <em>40</em>, pp.111-117. <a href="https://www.sciencedirect.com/science/article/pii/S0959438816300861?via%3Dihub">Publisher</a></li>
+<li>Carr, C.E. and Christensen-Dalsgaard, J., 2016. Evolutionary trends in directional hearing. <em>Current opinion in neurobiology</em>, <em>40</em>, pp.111-117. <a href="https://www.sciencedirect.com/science/article/pii/S0959438816300861?via%3Dihub">Publisher</a> <a href="https://doi.org/10.1016/j.conb.2016.07.001">[DOI]</a></li>
 
 
 <li>Watch the video associated with the article: Jump in communication skills led to species explosion in electric fishes. April 28, 2011 By Diana Lutz, Washington University in St. Louis. <a href="https://phys.org/news/2011-04-skills-species-explosion-electric-fishes.html">Publisher</a></li>

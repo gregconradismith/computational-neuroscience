@@ -72,7 +72,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Sejnowski, T.J., Koch, C. and Churchland, P.S., 1988. Computational neuroscience. Science, 241(4871), pp.1299-1306. <a href="http://science.sciencemag.org/content/241/4871/1299.long">Publisher</a></li>
+<li>Sejnowski, T.J., Koch, C. and Churchland, P.S., 1988. Computational neuroscience. Science, 241(4871), pp.1299-1306. <a href="http://science.sciencemag.org/content/241/4871/1299.long">Publisher</a> <a href="https://doi.org/10.1126/science.3045969">[DOI]</a></li>
 </ul>
 
 

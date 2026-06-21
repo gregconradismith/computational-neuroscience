@@ -12,7 +12,7 @@ render_with_liquid: false
 <h2 class="wp-block-heading">Assignment</h2>
 
 
-<p>Read Piccinini & Shagrir (2014). Foundations of computational neuroscience. Current Opinion in Neurobiology, 25, 25–30. <a href="https://www.sciencedirect.com/science/article/pii/S0959438813002043">Publisher</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/information-and-physical-computation.md">PDF</a></p>
+<p>Read Piccinini & Shagrir (2014). Foundations of computational neuroscience. Current Opinion in Neurobiology, 25, 25–30. <a href="https://www.sciencedirect.com/science/article/pii/S0959438813002043">Publisher</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/information-and-physical-computation.md">PDF</a> <a href="https://doi.org/10.1016/j.conb.2013.10.005">[DOI]</a></p>
 
 
 <p> There is no writing assignment on Blackboard, but the questions that appear throughout this page should help you prepare for class discussion.  </p>
@@ -101,7 +101,7 @@ render_with_liquid: false
 <h2 class="wp-block-heading">Further reading</h2>
 
 
-<p>McDonnell, M.D., Ikeda, S. and Manton, J.H., 2011. An introductory review of information theory in the context of computational neuroscience. <em>Biological cybernetics</em>, <em>105</em>(1), p.55. <a href="https://link.springer.com/article/10.1007/s00422-011-0451-9">Publisher</a></p>
+<p>McDonnell, M.D., Ikeda, S. and Manton, J.H., 2011. An introductory review of information theory in the context of computational neuroscience. <em>Biological cybernetics</em>, <em>105</em>(1), p.55. <a href="https://doi.org/10.1007/s00422-011-0451-9">[DOI]</a></p>
 
 
 <div class="a-section a-spacing-none">
@@ -110,7 +110,7 @@ render_with_liquid: false
 </div>
 
 
-<p>Newell, A., 1980. Physical symbol systems. Cognitive science, 4(2), pp.135-183. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog0402_2">DOI</a></p>
+<p>Newell, A., 1980. Physical symbol systems. Cognitive science, 4(2), pp.135-183. <a href="https://doi.org/10.1207/s15516709cog0402_2">[DOI]</a></p>
 
 
-<p>Piccinini, G., 2006. Computational explanation in neuroscience. <em>Synthese</em>, <em>153</em>(3), pp.343-353. <a href="https://link.springer.com/article/10.1007/s11229-006-9096-y">Publisher</a></p>
+<p>Piccinini, G., 2006. Computational explanation in neuroscience. <em>Synthese</em>, <em>153</em>(3), pp.343-353. <a href="https://doi.org/10.1007/s11229-006-9096-y">[DOI]</a></p>

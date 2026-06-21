@@ -19,7 +19,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Read the "<strong>What the frog's eye tells the frog's brain</strong> <a href="https://hearingbrain.org/docs/letvin_ieee_1959.pdf">PDF</a>" by Lettvin, J. Y., Maturana, H. R., McCulloch, W. S., & Pitts, W. H. (1959). <em>Proceedings of the IRE</em>, <em>47</em>(11), 1940-1951. Focus on the Introduction, Methods, the first paragraph of Findings, General Discussion and Conclusion. That is, read the whole paper but de-emphasize the figures and pp.1944-1951.</li>
+<li>Read the "<strong>What the frog's eye tells the frog's brain</strong> <a href="https://hearingbrain.org/docs/letvin_ieee_1959.pdf">PDF</a>" by Lettvin, J. Y., Maturana, H. R., McCulloch, W. S., & Pitts, W. H. (1959). <em>Proceedings of the IRE</em>, <em>47</em>(11), 1940-1951. Focus on the Introduction, Methods, the first paragraph of Findings, General Discussion and Conclusion. That is, read the whole paper but de-emphasize the figures and pp.1944-1951. <a href="https://doi.org/10.1109/jrproc.1959.287207">[DOI]</a></li>
 </ul>
 
 
@@ -72,7 +72,7 @@ render_with_liquid: false
 <h2 class="wp-block-heading">Further Reading</h2>
 
 
-<p>Read <strong>Genealogy of the "Grandmother Cell" <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/feature-detectors-what-the-frogs-eye-tells-the-frogs-brain.md">PDF</a></strong> -- a short history of neuroscience essay by Charles G. Gross. <em>The Neuroscientist</em>, <em>8</em>(5): 512-518, 2002.</p>
+<p>Read <strong>Genealogy of the "Grandmother Cell" <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/feature-detectors-what-the-frogs-eye-tells-the-frogs-brain.md">PDF</a></strong> -- a short history of neuroscience essay by Charles G. Gross. <em>The Neuroscientist</em>, <em>8</em>(5): 512-518, 2002. <a href="https://doi.org/10.1177/107385802237175">[DOI]</a></p>
 
 
 <p>Kline, R. R. (2015). <em>The Cybernetics Moment: Or why we call our age the information age</em>. Johns Hopkins University Press.  </p>

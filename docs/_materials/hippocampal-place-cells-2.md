@@ -35,17 +35,17 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Moser, E.I., Moser, M.B. and McNaughton, B.L., 2017. Spatial representation in the hippocampal formation: a history. Nature neuroscience, 20(11), p.1448. <a href="https://www.ncbi.nlm.nih.gov/pubmed/29073644">PubMed</a> <a href="../readings/">PDF</a></li>
+<li>Moser, E.I., Moser, M.B. and McNaughton, B.L., 2017. Spatial representation in the hippocampal formation: a history. Nature neuroscience, 20(11), p.1448. <a href="https://www.ncbi.nlm.nih.gov/pubmed/29073644">PubMed</a> <a href="../readings/">PDF</a> <a href="https://doi.org/10.1038/nn.4653">[DOI]</a></li>
 </ul>
 
 
 <ul class="wp-block-list">
-<li>Hardcastle, K., Ganguli, S. and Giocomo, L.M., 2017. Cell types for our sense of location: where we are and where we are going. <em>Nature neuroscience</em>, <em>20</em>(11), p.1474. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Hardcastle+Cell+types+for+our+sense+of+location">PubMed</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/hippocampal-place-cells-2.md">PDF</a></li>
+<li>Hardcastle, K., Ganguli, S. and Giocomo, L.M., 2017. Cell types for our sense of location: where we are and where we are going. <em>Nature neuroscience</em>, <em>20</em>(11), p.1474. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Hardcastle+Cell+types+for+our+sense+of+location">PubMed</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/hippocampal-place-cells-2.md">PDF</a> <a href="https://doi.org/10.1038/nn.4654">[DOI]</a></li>
 </ul>
 
 
 <ul class="wp-block-list">
-<li>Butler, W. N., Hardcastle, K., & Giocomo, L. M. (2019). Remembered reward locations restructure entorhinal spatial maps. Science, 363(6434), 1447-1452. <a href="https://science.sciencemag.org/content/363/6434/1447">Publisher</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/hippocampal-place-cells-2.md">PDF</a></li>
+<li>Butler, W. N., Hardcastle, K., & Giocomo, L. M. (2019). Remembered reward locations restructure entorhinal spatial maps. Science, 363(6434), 1447-1452. <a href="https://science.sciencemag.org/content/363/6434/1447">Publisher</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/hippocampal-place-cells-2.md">PDF</a> <a href="https://doi.org/10.1126/science.aav5297">[DOI]</a></li>
 </ul>
 
 

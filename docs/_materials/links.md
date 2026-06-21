@@ -13,4 +13,4 @@ render_with_liquid: false
 <p><a href="https://plato.stanford.edu/index.html"><strong>The Stanford Encyclopedia of Philosophy</strong></a></p>
 
 
-<p>Houdé, O., Kayser, D., Koenig, O., Proust, J., &amp; Rastier, F. (2004). <strong>Dictionary of cognitive science: Neuroscience, psychology, artificial intelligence, linguistics, and philosophy.</strong> Routledge.  <a rel="noreferrer noopener" href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033112486903196" target="_blank">[SWEM Online]</a> </p>
+<p>Houdé, O., Kayser, D., Koenig, O., Proust, J., &amp; Rastier, F. (2004). <strong>Dictionary of cognitive science: Neuroscience, psychology, artificial intelligence, linguistics, and philosophy.</strong> Routledge.  <a rel="noreferrer noopener" href="https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/1tc7lat/alma991033112486903196" target="_blank">[SWEM Online]</a>  <a href="https://doi.org/10.4324/9780203486030">[DOI]</a></p>

@@ -105,4 +105,4 @@ render_with_liquid: false
 <p>Anderson, J.A. and Rosenfeld, E. eds., 2000. <em>Talking nets: An oral history of neural networks</em>. MiT Press. <a href="https://mitpress.mit.edu/books/talking-nets">Publisher</a> <a href="https://www.amazon.com/dp/0262511118">Amazon</a> <a href="https://wm-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01COWM_WM_ALMA51607320460003196&context=L&vid=01COWM_WM_NEWUI&search_scope=01COWM_WM_ALMA&tab=01cowm_alma&lang=en_US">SWEM</a></p>
 
 
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1389041718301360">Arbib, M.A., 2018. From cybernetics to brain theory, and more: A memoir. <i>Cognitive Systems Research</i>, <i>50</i>, pp.83-145.</a></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1389041718301360">Arbib, M.A., 2018. From cybernetics to brain theory, and more: A memoir. <i>Cognitive Systems Research</i>, <i>50</i>, pp.83-145.</a> <a href="https://doi.org/10.1016/j.cogsys.2018.04.001">[DOI]</a></p>

@@ -11,7 +11,7 @@ render_with_liquid: false
 
 
 <ul>
-<li><span style="color: var(--color-text)">Read</span> and annotate a review article <strong><a href="https://app.perusall.com/courses/apsc-450-computational-neuroscience-spring-2023/how-does-the-brain-solve-visual-object-recognition?assignmentId=52ddAovQrof9c8C2h&amp;part=1">How does the brain solve visual object recognition? [Perusall]</a></strong> written by DiCarlo et al. <em>Neuron</em>, <em>73</em>(3), pp.415-434, 2012 <a href="https://www.cell.com/neuron/fulltext/S0896-6273(12)00092-X">[Cell Press]</a>.<br><br>The assignment - due Thursday at 9am - is focused on the first half of the article (Introduction, Sections 1 and 2, i.e., pp. 415-422) and the Conclusion. Using the Perusall system, make at least 5 worthy comments on the paper and/or contributions to the peer-to-peer discussion.   </li>
+<li><span style="color: var(--color-text)">Read</span> and annotate a review article <strong><a href="https://app.perusall.com/courses/apsc-450-computational-neuroscience-spring-2023/how-does-the-brain-solve-visual-object-recognition?assignmentId=52ddAovQrof9c8C2h&amp;part=1">How does the brain solve visual object recognition? [Perusall]</a></strong> written by DiCarlo et al. <em>Neuron</em>, <em>73</em>(3), pp.415-434, 2012 <a href="https://www.cell.com/neuron/fulltext/S0896-6273(12)00092-X">[Cell Press]</a>.<br><br>The assignment - due Thursday at 9am - is focused on the first half of the article (Introduction, Sections 1 and 2, i.e., pp. 415-422) and the Conclusion. Using the Perusall system, make at least 5 worthy comments on the paper and/or contributions to the peer-to-peer discussion.    <a href="https://doi.org/10.1016/j.neuron.2012.01.010">[DOI]</a></li>
 </ul>
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
@@ -19,16 +19,16 @@ render_with_liquid: false
 <h2 class="wp-block-heading">Further reading</h2>
 
 
-<p><a href="https://www.nature.com/articles/nn1199_1019">Riesenhuber, M. and Poggio, T., 1999. Hierarchical models of object recognition in cortex. <i>Nature neuroscience</i>, <i>2</i>(11), p.1019.</a></p>
+<p><a href="https://www.nature.com/articles/nn1199_1019">Riesenhuber, M. and Poggio, T., 1999. Hierarchical models of object recognition in cortex. <i>Nature neuroscience</i>, <i>2</i>(11), p.1019.</a> <a href="https://doi.org/10.1038/14819">[DOI]</a></p>
 
 
-<p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0959438802003045">Riesenhuber, M. and Poggio, T., 2002. Neural mechanisms of object recognition. <i>Current opinion in neurobiology</i>, <i>12</i>(2), pp.162-168.</a></p>
+<p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0959438802003045">Riesenhuber, M. and Poggio, T., 2002. Neural mechanisms of object recognition. <i>Current opinion in neurobiology</i>, <i>12</i>(2), pp.162-168.</a> <a href="https://doi.org/10.1016/s0959-4388(02)00304-5">[DOI]</a></p>
 
 
-<p><a href="https://www.sciencedirect.com/science/article/pii/S007961230665005X">Walther, D.B. and Koch, C., 2007. Attention in hierarchical models of object recognition. <i>Progress in brain research</i>, <i>165</i>, pp.57-78.</a></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S007961230665005X">Walther, D.B. and Koch, C., 2007. Attention in hierarchical models of object recognition. <i>Progress in brain research</i>, <i>165</i>, pp.57-78.</a> <a href="https://doi.org/10.1016/s0079-6123(06)65005-x">[DOI]</a></p>
 
 
-<p><a href="https://www.sciencedirect.com/science/article/pii/S107731421300091X">Andreopoulos, A. and Tsotsos, J.K., 2013. 50 years of object recognition: Directions forward. <i>Computer vision and image understanding</i>, <i>117</i>(8), pp.827-891.</a></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S107731421300091X">Andreopoulos, A. and Tsotsos, J.K., 2013. 50 years of object recognition: Directions forward. <i>Computer vision and image understanding</i>, <i>117</i>(8), pp.827-891.</a> <a href="https://doi.org/10.1016/j.cviu.2013.04.005">[DOI]</a></p>
 
 
 <p><a href="https://www.mathworks.com/solutions/deep-learning/object-recognition.html">Object Recognition - MATLAB &amp; Simulink</a></p>

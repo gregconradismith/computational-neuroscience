@@ -134,10 +134,10 @@ legend({'u1','u2'})
 <li>Cannon, Robinson and Shamma (1983). A proposed neural network for the integrator of the oculomotor system. Biol Cybern. 49(2):127-36. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/oculomotor-system.md">PDF</a></li>
 
 
-<li>Branoner, F., Chagnaud, B. P., & Straka, H. (2016). Ontogenetic development of vestibulo-ocular reflexes in amphibians. <em>Frontiers in neural circuits</em>, <em>10</em>, 91. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/oculomotor-system.md">PDF</a></li>
+<li>Branoner, F., Chagnaud, B. P., & Straka, H. (2016). Ontogenetic development of vestibulo-ocular reflexes in amphibians. <em>Frontiers in neural circuits</em>, <em>10</em>, 91. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/oculomotor-system.md">PDF</a> <a href="https://doi.org/10.3389/fncir.2016.00091">[DOI]</a></li>
 
 
-<li>Angelaki, D. E. (2004). Eyes on target: what neurons must do for the vestibuloocular reflex during linear motion. <em>Journal of neurophysiology</em>, <em>92</em>(1), 20-35. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/oculomotor-system.md">PDF</a></li>
+<li>Angelaki, D. E. (2004). Eyes on target: what neurons must do for the vestibuloocular reflex during linear motion. <em>Journal of neurophysiology</em>, <em>92</em>(1), 20-35. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/oculomotor-system.md">PDF</a> <a href="https://doi.org/10.1152/jn.00047.2004">[DOI]</a></li>
 </ul>
 
 

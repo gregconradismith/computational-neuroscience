@@ -9,7 +9,7 @@ render_with_liquid: false
 > Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/how-the-brain-keeps-the-eyes-still.md). Access requires permission to the private repository.
 
 <h2>Preparation</h2>
-Read Seung, H.S., 1996. How the brain keeps the eyes still. <em>PNAS</em> <em>93</em>(23):13339-13344. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/how-the-brain-keeps-the-eyes-still.md">PDF</a>
+Read Seung, H.S., 1996. How the brain keeps the eyes still. <em>PNAS</em> <em>93</em>(23):13339-13344. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/how-the-brain-keeps-the-eyes-still.md">PDF</a> <a href="https://doi.org/10.1073/pnas.93.23.13339">[DOI]</a>
 <div>
 <h2>Overview</h2>
 </div>
@@ -98,10 +98,10 @@ end</pre>
 <div>The wikipedia page on <a href="https://en.wikipedia.org/wiki/Attractor_network">Attractor networks.</a></div>
 <div></div>
 </div>
-<div><a href="https://www.sciencedirect.com/science/article/pii/S0893608098000641">Seung, H.S., 1998. Continuous attractors and oculomotor control. <i>Neural Networks</i>, <i>11</i>(7-8), pp.1253-1258.</a></div>
+<div><a href="https://www.sciencedirect.com/science/article/pii/S0893608098000641">Seung, H.S., 1998. Continuous attractors and oculomotor control. <i>Neural Networks</i>, <i>11</i>(7-8), pp.1253-1258.</a> <a href="https://doi.org/10.1016/s0893-6080(98)00064-1">[DOI]</a></div>
 <div>
 
-Seung, H.S., Lee, D.D., Reis, B.Y. and Tank, D.W., 2000. Stability of the memory of eye position in a recurrent network of conductance-based model neurons. <em>Neuron</em>, <em>26</em>(1), pp.259-271 <a href="https://www.sciencedirect.com/science/article/pii/S0896627300811551">Publisher</a>.
+Seung, H.S., Lee, D.D., Reis, B.Y. and Tank, D.W., 2000. Stability of the memory of eye position in a recurrent network of conductance-based model neurons. <em>Neuron</em>, <em>26</em>(1), pp.259-271 <a href="https://www.sciencedirect.com/science/article/pii/S0896627300811551">Publisher</a>. <a href="https://doi.org/10.1016/s0896-6273(00)81155-1">[DOI]</a>
 
 </div>
 <div>

@@ -14,7 +14,7 @@ render_with_liquid: false
 
 
 <ul>
-<li>Laurent, G. (2002). Olfactory network dynamics and the coding of multidimensional signals. Nature Reviews Neuroscience, 3(11), 884-895. <a href="https://www.nature.com/articles/nrn964">[Nature Reviews Neuroscience]</a> <a href="https://app.perusall.com/courses/apsc-450-computational-neuroscience-spring-2023/_/dashboard/assignments/BGvGsChhcDseggPap">[Perusall]</a></li>
+<li>Laurent, G. (2002). Olfactory network dynamics and the coding of multidimensional signals. Nature Reviews Neuroscience, 3(11), 884-895. <a href="https://www.nature.com/articles/nrn964">[Nature Reviews Neuroscience]</a> <a href="https://app.perusall.com/courses/apsc-450-computational-neuroscience-spring-2023/_/dashboard/assignments/BGvGsChhcDseggPap">[Perusall]</a> <a href="https://doi.org/10.1038/nrn964">[DOI]</a></li>
 </ul>
 
 

@@ -31,7 +31,7 @@ layout: calendar
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
-<p><strong>Class 4 - <strong><a href="../materialism-and-mechanism/">Philosophy and our mental life</a></strong>, <a href="../the-problem-of-qualia/">The problem of qualia</a>, </strong>and <strong><a href="../the-organization-of-the-brain/">The organization of the brain</a></strong>.</p>
+<p><strong>Class 4 - <strong><a href="../materialism-and-mechanism/">Philosophy and our mental life</a></strong>, <a href="../the-problem-of-qualia/">The problem of qualia</a>, </strong>and <strong><a href="../the-organization-of-the-brain/">The organization of the brain</a></strong>. <a href="https://doi.org/10.1038/scientificamerican0979-88">[DOI]</a></p>
 
 
 <p><strong>Class 5<span style="color: #000000"> </span>-  </strong><a href="../information-and-physical-computation/"><strong>Information, representation, and physical computation</strong></a></p>
@@ -55,7 +55,7 @@ layout: calendar
 <p><strong>Class 9 - <a href="../how-the-brain-keeps-the-eyes-still/">Line attractor network (or how the brain keeps the eyes still)</a></strong></p>
 
 
-<p><strong>Class 10 -</strong> <strong><a href="https://www.nature.com/articles/s41583-022-00642-0">Attractor and integrator networks in the brain</a>. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/calendar-spring-2025.md">[PDF]</a></strong></p>
+<p><strong>Class 10 -</strong> <strong><a href="https://www.nature.com/articles/s41583-022-00642-0">Attractor and integrator networks in the brain</a>. <a href="https://doi.org/10.1038/s41583-022-00642-0">[DOI]</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/calendar-spring-2025.md">[PDF]</a></strong></p>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />

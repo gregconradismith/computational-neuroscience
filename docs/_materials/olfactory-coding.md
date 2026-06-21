@@ -54,31 +54,31 @@ render_with_liquid: false
 <h2 class="wp-block-heading">Further reading</h2>
 
 
-<p>Ache, B.W., Hein, A.M., Bobkov, Y.V. and Principe, J.C., 2016. Smelling time: A neural basis for olfactory scene analysis. Trends in neurosciences, 39(10), pp.649-655. <a href="https://www.sciencedirect.com/science/article/pii/S0166223616300868">Publisher</a></p>
+<p>Ache, B.W., Hein, A.M., Bobkov, Y.V. and Principe, J.C., 2016. Smelling time: A neural basis for olfactory scene analysis. Trends in neurosciences, 39(10), pp.649-655. <a href="https://www.sciencedirect.com/science/article/pii/S0166223616300868">Publisher</a> <a href="https://doi.org/10.1016/j.tins.2016.08.002">[DOI]</a></p>
 
 
-<p>Bushdid, C., Magnasco, M.O., Vosshall, L.B. and Keller, A., 2014. Humans can discriminate more than 1 trillion olfactory stimuli. <em>Science</em>, <em>343</em>(6177), pp.1370-1372. <a href="http://science.sciencemag.org/content/343/6177/1370">Publisher</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/olfactory-coding.md">PDF</a></p>
+<p>Bushdid, C., Magnasco, M.O., Vosshall, L.B. and Keller, A., 2014. Humans can discriminate more than 1 trillion olfactory stimuli. <em>Science</em>, <em>343</em>(6177), pp.1370-1372. <a href="http://science.sciencemag.org/content/343/6177/1370">Publisher</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/olfactory-coding.md">PDF</a> <a href="https://doi.org/10.1126/science.1249168">[DOI]</a></p>
 
 
-<p>Firestein, S., 2005. A Nobel nose: the 2004 Nobel Prize in Physiology and Medicine. <em>Neuron</em>, <em>45</em>(3), pp.333-338. <a href="https://www.cell.com/neuron/pdf/S0896-6273(05)00053-X.pdf">PDF</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/olfactory-coding.md">PDF</a></p>
+<p>Firestein, S., 2005. A Nobel nose: the 2004 Nobel Prize in Physiology and Medicine. <em>Neuron</em>, <em>45</em>(3), pp.333-338. <a href="https://www.cell.com/neuron/pdf/S0896-6273(05)00053-X.pdf">PDF</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/olfactory-coding.md">PDF</a> <a href="https://doi.org/10.1016/j.neuron.2005.01.021">[DOI]</a></p>
 
 
-<p>Howard, J.D., Plailly, J., Grueschow, M., Haynes, J.D. and Gottfried, J.A., 2009. Odor quality coding and categorization in human posterior piriform cortex. <em>Nature Neuroscience</em>, <em>12</em>(7), p.932. <a href="https://www.nature.com/articles/nn.2324">Publisher</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/olfactory-coding.md">PDF</a></p>
+<p>Howard, J.D., Plailly, J., Grueschow, M., Haynes, J.D. and Gottfried, J.A., 2009. Odor quality coding and categorization in human posterior piriform cortex. <em>Nature Neuroscience</em>, <em>12</em>(7), p.932. <a href="https://www.nature.com/articles/nn.2324">Publisher</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/olfactory-coding.md">PDF</a> <a href="https://doi.org/10.1038/nn.2324">[DOI]</a></p>
 
 
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0959438810000267">Isaacson, J.S., 2010. Odor representations in mammalian cortical circuits. <em>Current opinion in neurobiology</em>, <em>20</em>(3), pp.328-331</a></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0959438810000267">Isaacson, J.S., 2010. Odor representations in mammalian cortical circuits. <em>Current opinion in neurobiology</em>, <em>20</em>(3), pp.328-331</a> <a href="https://doi.org/10.1016/j.conb.2010.02.004">[DOI]</a></p>
 
 
-<p>Laurent, G., 1996. Dynamical representation of odors by oscillating and evolving neural assemblies. <em>Trends in neurosciences</em>, <em>19</em>(11), pp.489-496. <a href="https://www.sciencedirect.com/science/article/pii/S0166223696100540">Publisher</a></p>
+<p>Laurent, G., 1996. Dynamical representation of odors by oscillating and evolving neural assemblies. <em>Trends in neurosciences</em>, <em>19</em>(11), pp.489-496. <a href="https://www.sciencedirect.com/science/article/pii/S0166223696100540">Publisher</a> <a href="https://doi.org/10.1016/s0166-2236(96)10054-0">[DOI]</a></p>
 
 
 <p><a href="http://symposium.cshlp.org/content/30/217.short">Lettvin, J.Y. and Gesteland, R.C., 1965, January. Speculations on smell. In <em>Cold Spring Harbor Symposia on Quantitative Biology</em> (Vol. 30, pp. 217-225). Cold Spring Harbor Laboratory Press.</a></p>
 
 
-<p>Malnic, B., Hirono, J., Sato, T. and Buck, L.B., 1999. Combinatorial receptor codes for odors. Cell, 96(5), pp.713-723. <a href="https://www.sciencedirect.com/science/article/pii/S0092867400805814">Publisher</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/olfactory-coding.md">PDF</a></p>
+<p>Malnic, B., Hirono, J., Sato, T. and Buck, L.B., 1999. Combinatorial receptor codes for odors. Cell, 96(5), pp.713-723. <a href="https://www.sciencedirect.com/science/article/pii/S0092867400805814">Publisher</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/olfactory-coding.md">PDF</a> <a href="https://doi.org/10.1016/s0092-8674(00)80581-4">[DOI]</a></p>
 
 
-<p>Poo, C. and Isaacson, J.S., 2009. Odor representations in olfactory cortex: “sparse” coding, global inhibition, and oscillations. <em>Neuron</em>, <em>62</em>(6), pp.850-861. <a href="https://www.sciencedirect.com/science/article/pii/S0896627309003973">Publisher</a></p>
+<p>Poo, C. and Isaacson, J.S., 2009. Odor representations in olfactory cortex: “sparse” coding, global inhibition, and oscillations. <em>Neuron</em>, <em>62</em>(6), pp.850-861. <a href="https://www.sciencedirect.com/science/article/pii/S0896627309003973">Publisher</a> <a href="https://doi.org/10.1016/j.neuron.2009.05.022">[DOI]</a></p>
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
 

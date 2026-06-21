@@ -16,7 +16,7 @@ render_with_liquid: false
 <li>Watch the short video on Synaptic Plasticity (see below).  </li>
 
 
-<li>Read this 1-page viewpoint on the "basic computational unit" of the brain. <strong>Zador, A. M. (2000). The basic unit of computation. <em>Nature neuroscience</em>, <em>3</em>(11), 1167-1167.</strong> <a href="https://www.nature.com/articles/nn1100_1167">Publisher</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/spike-timing-dependent-plasticity.md">PDF</a></li>
+<li>Read this 1-page viewpoint on the "basic computational unit" of the brain. <strong>Zador, A. M. (2000). The basic unit of computation. <em>Nature neuroscience</em>, <em>3</em>(11), 1167-1167.</strong> <a href="https://www.nature.com/articles/nn1100_1167">Publisher</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/spike-timing-dependent-plasticity.md">PDF</a> <a href="https://doi.org/10.1038/81432">[DOI]</a></li>
 
 
 <li>Our main reading is <strong>"Hebbian Learning and Plasticity" by Wulfram Gerstner <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/spike-timing-dependent-plasticity.md">PDF</a></strong>. The mathematical formulation of Hebbian plasticity in terms of correlation of pre- and post-synaptic firing rates begins in Section 6.2.3 (p. 203).</li>
@@ -89,29 +89,29 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>Seung, H.S., 2000. Half a century of Hebb. <em>Nature neuroscience</em>, <em>3</em>, pp.1166-1166. <a href="https://www.nature.com/articles/nn1100_1166">Publisher</a></li>
+<li>Seung, H.S., 2000. Half a century of Hebb. <em>Nature neuroscience</em>, <em>3</em>, pp.1166-1166. <a href="https://www.nature.com/articles/nn1100_1166">Publisher</a> <a href="https://doi.org/10.1038/81430">[DOI]</a></li>
 
 
-<li>Markram, H., Gerstner, W. and Sjöström, P.J., 2011. A history of spike-timing-dependent plasticity. <em>Frontiers in Synaptic Neuroscience</em>, <em>3</em>, p.4. <a href="https://www.frontiersin.org/articles/10.3389/fnsyn.2011.00004/full">Publisher</a></li>
+<li>Markram, H., Gerstner, W. and Sjöström, P.J., 2011. A history of spike-timing-dependent plasticity. <em>Frontiers in Synaptic Neuroscience</em>, <em>3</em>, p.4. <a href="https://doi.org/10.3389/fnsyn.2011.00004">[DOI]</a></li>
 
 
-<li>Waters, J., Schaefer, A., & Sakmann, B. (2005). Backpropagating action potentials in neurones: measurement, mechanisms and potential functions. <em>Progress in biophysics and molecular biology</em>, <em>87</em>(1), 145-170. <a href="https://www.sciencedirect.com/science/article/pii/S0079610704000653">Publisher</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/spike-timing-dependent-plasticity.md">PDF</a></li>
+<li>Waters, J., Schaefer, A., & Sakmann, B. (2005). Backpropagating action potentials in neurones: measurement, mechanisms and potential functions. <em>Progress in biophysics and molecular biology</em>, <em>87</em>(1), 145-170. <a href="https://www.sciencedirect.com/science/article/pii/S0079610704000653">Publisher</a> <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/spike-timing-dependent-plasticity.md">PDF</a> <a href="https://doi.org/10.1016/j.pbiomolbio.2004.06.009">[DOI]</a></li>
 
 
-<li>Abbott, L.F. and Nelson, S.B., 2000. Synaptic plasticity: taming the beast. <em>Nature neuroscience</em>, <em>3</em>(11s), p.1178. <a href="https://www.nature.com/articles/nn1100_1178">Publisher</a></li>
+<li>Abbott, L.F. and Nelson, S.B., 2000. Synaptic plasticity: taming the beast. <em>Nature neuroscience</em>, <em>3</em>(11s), p.1178. <a href="https://www.nature.com/articles/nn1100_1178">Publisher</a> <a href="https://doi.org/10.1038/81453">[DOI]</a></li>
 
 
-<li>Caporale, N. and Dan, Y., 2008. Spike timing–dependent plasticity: a Hebbian learning rule. <em>Annu. Rev. Neurosci.</em>, <em>31</em>, pp.25-46. <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev.neuro.31.060407.125639?casa_token=FoQaeDO2_dkAAAAA:yVoVhi6ClVjMWR-SwHpm-xQrfjQWe7Jc0L8yChB4uMlv96yAHkSCrAlE0y7_1fPKj3ydsgzMLsXgcg">DOI</a></li>
+<li>Caporale, N. and Dan, Y., 2008. Spike timing–dependent plasticity: a Hebbian learning rule. <em>Annu. Rev. Neurosci.</em>, <em>31</em>, pp.25-46. <a href="https://doi.org/10.1146/annurev.neuro.31.060407.125639">[DOI]</a></li>
 
 
-<li>Abbott, L.F. and Regehr, W.G., 2004. Synaptic computation. <em>Nature</em>, <em>431</em>(7010), p.796. <a href="https://www.nature.com/articles/nature03010">Publisher</a></li>
+<li>Abbott, L.F. and Regehr, W.G., 2004. Synaptic computation. <em>Nature</em>, <em>431</em>(7010), p.796. <a href="https://www.nature.com/articles/nature03010">Publisher</a> <a href="https://doi.org/10.1038/nature03010">[DOI]</a></li>
 
 
-<li>Toyoizumi, T., Kaneko, M., Stryker, M.P. and Miller, K.D., 2014. Modeling the dynamic interaction of Hebbian and homeostatic plasticity. <em>Neuron</em>, <em>84</em>(2), pp.497-510. <a href="https://www.sciencedirect.com/science/article/pii/S0896627314008940">Publisher</a></li>
+<li>Toyoizumi, T., Kaneko, M., Stryker, M.P. and Miller, K.D., 2014. Modeling the dynamic interaction of Hebbian and homeostatic plasticity. <em>Neuron</em>, <em>84</em>(2), pp.497-510. <a href="https://www.sciencedirect.com/science/article/pii/S0896627314008940">Publisher</a> <a href="https://doi.org/10.1016/j.neuron.2014.09.036">[DOI]</a></li>
 
 
 <li>Miller, P., 2018. <em>An Introductory Course in Computational Neuroscience</em>. MIT Press. <a href="https://www.amazon.com/dp/0262038250">Amazon</a> Chapter 8 Learning and Synaptic Plasticity.</li>
 
 
-<li>Citri, A., Malenka, R. Synaptic Plasticity: Multiple Forms, Functions, and Mechanisms. <em>Neuropsychopharmacol</em> <strong>33</strong>, 18–41 (2008). <a href="https://doi.org/10.1038/sj.npp.1301559">DOI</a></li>
+<li>Citri, A., Malenka, R. Synaptic Plasticity: Multiple Forms, Functions, and Mechanisms. <em>Neuropsychopharmacol</em> <strong>33</strong>, 18–41 (2008). <a href="https://doi.org/10.1038/sj.npp.1301559">[DOI]</a></li>
 </ul>

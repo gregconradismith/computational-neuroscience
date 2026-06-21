@@ -24,7 +24,7 @@ Reviews: <a href="https://www.publishersweekly.com/978-1-4516-9771-1">Publisher
 
 Reviews: <a href="https://www.nytimes.com/2016/12/27/books/review/other-minds-peter-godfrey-smith.html">The New York Times</a>, <a href="https://www.theguardian.com/books/2017/mar/15/other-minds-peter-godfrey-smith-review-octopus-philip-hoare">The Guardian</a>, <a href="https://www.publishersweekly.com/978-0-374-22776-0">Publishers Weekly</a>.
 
-<a href="https://link.springer.com/article/10.1007/s10539-018-9650-2">Dennett, D., 2019. Review of Other Minds: the octopus, the sea and the deep origins of consciousness. <i>Biology &amp; Philosophy</i>, <i>34</i>(1), p.2.</a>   <a title="Biology&amp;amp;Philosophy2018Dennett" href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/midterm-project-octopus-gallery.md">[PDF]</a>
+<a href="https://link.springer.com/article/10.1007/s10539-018-9650-2">Dennett, D., 2019. Review of Other Minds: the octopus, the sea and the deep origins of consciousness. <i>Biology &amp; Philosophy</i>, <i>34</i>(1), p.2.</a> <a href="https://doi.org/10.1007/s10539-018-9650-2">[DOI]</a>   <a title="Biology&amp;amp;Philosophy2018Dennett" href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/midterm-project-octopus-gallery.md">[PDF]</a>
 
 <hr />
 

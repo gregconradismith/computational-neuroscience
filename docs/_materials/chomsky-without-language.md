@@ -12,7 +12,7 @@ render_with_liquid: false
 <h2 class="wp-block-heading">Preparation</h2>
 
 
-<p>Read... <a href="https://www.sciencedirect.com/science/article/pii/0010027781900226">Bregman, A.S., 1981. Chomsky without language. <i>Cognition</i>, <i>10</i>(1-3), p.33.</a>  <a title="bregman1981" href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/chomsky-without-language.md">[PDF]</a></p>
+<p>Read... <a href="https://www.sciencedirect.com/science/article/pii/0010027781900226">Bregman, A.S., 1981. Chomsky without language. <i>Cognition</i>, <i>10</i>(1-3), p.33.</a>  <a title="bregman1981" href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/chomsky-without-language.md">[PDF]</a> <a href="https://doi.org/10.1016/0010-0277(81)90022-6">[DOI]</a></p>
 
 
 <h2 class="wp-block-heading">Discussion and further reading</h2>
@@ -42,7 +42,7 @@ render_with_liquid: false
 </div>
 
 
-<p><a href="https://psycnet.apa.org/fulltext/1993-36184-001.html" target="_blank" rel="noopener">Schooler, J. W., Ohlsson, S., &amp; Brooks, K. (1993). Thoughts beyond words: When language overshadows insight. <i>Journal of experimental psychology: General</i>, <i>122</i>(2), 166.</a> <a href="../readings/" target="_blank" rel="noopener"> [PDF]</a></p>
+<p><a href="https://psycnet.apa.org/fulltext/1993-36184-001.html" target="_blank" rel="noopener">Schooler, J. W., Ohlsson, S., &amp; Brooks, K. (1993). Thoughts beyond words: When language overshadows insight. <i>Journal of experimental psychology: General</i>, <i>122</i>(2), 166.</a> <a href="../readings/" target="_blank" rel="noopener"> [PDF]</a> <a href="https://doi.org/10.1037/0096-3445.122.2.166">[DOI]</a></p>
 
 
 <p>From the above paper:  Four experiments examined whether verbalization can interfere with insight problem solving. In Experiment 1, Ss were interrupted during problem solving and asked either to verbalize their strategies (retrospective verbalization) or engage in an unrelated activity (control). Ss in the retrospective verbalization condition were significantly less successful than control subjects at solving the problems. Experiment 2 replicated the finding of Experiment 1 and demonstrated that the control Ss' advantage was not due to any beneficial effect of the interruption. In Experiment 3, concurrent, nondirective verbalization impaired the solving of insight problems but had no effect on noninsight problems. In Experiment 4, the effect of concurrent verbalization on insight was maintained even when Ss were encouraged to consider alternative approaches. Together, these findings are consistent with the hypothesis that verbalization can result in the disruption of nonreportable processes that are critical to achieving insight solutions.</p>

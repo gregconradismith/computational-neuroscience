@@ -11,7 +11,7 @@ Read...
 
 
 
-<a href="https://www.sciencedirect.com/science/article/pii/S0166223615002830">Hauser, T.U., Fiore, V.G., Moutoussis, M. and Dolan, R.J., 2016. Computational psychiatry of ADHD: neural gain impairments across Marrian levels of analysis. <i>Trends in neurosciences</i>, <i>39</i>(2), pp.63-73.</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0166223615002830">Hauser, T.U., Fiore, V.G., Moutoussis, M. and Dolan, R.J., 2016. Computational psychiatry of ADHD: neural gain impairments across Marrian levels of analysis. <i>Trends in neurosciences</i>, <i>39</i>(2), pp.63-73.</a> <a href="https://doi.org/10.1016/j.tins.2015.12.009">[DOI]</a>
 
 
 

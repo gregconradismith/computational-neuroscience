@@ -36,13 +36,13 @@ render_with_liquid: false
 <h2 class="wp-block-heading"><a href="../readings/">Further Reading</a> </h2>
 
 
-<p>Güntürkün, O., &amp; Bugnyar, T. (2016). Cognition without cortex. Trends in cognitive sciences, 20(4), 291-303. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/consciousness-without-cortex.md">[PDF]</a></p>
+<p>Güntürkün, O., &amp; Bugnyar, T. (2016). Cognition without cortex. Trends in cognitive sciences, 20(4), 291-303. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/consciousness-without-cortex.md">[PDF]</a> <a href="https://doi.org/10.1016/j.tics.2016.02.001">[DOI]</a></p>
 
 
-<p>Jarvis, E. D., Güntürkün, O., Bruce, L., Csillag, A., Karten, H., Kuenzel, W., … &amp; Butler, A. B. (2005). Avian brains and a new understanding of vertebrate brain evolution. Nature Reviews Neuroscience, 6(2), 151-159. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/consciousness-without-cortex.md">[PDF]</a></p>
+<p>Jarvis, E. D., Güntürkün, O., Bruce, L., Csillag, A., Karten, H., Kuenzel, W., … &amp; Butler, A. B. (2005). Avian brains and a new understanding of vertebrate brain evolution. Nature Reviews Neuroscience, 6(2), 151-159. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/consciousness-without-cortex.md">[PDF]</a> <a href="https://doi.org/10.1038/nrn1606">[DOI]</a></p>
 
 
-<p>Emery, N. J., &amp; Clayton, N. S. (2005). Evolution of the avian brain and intelligence. Current Biology, 15(23), R946-R950. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/consciousness-without-cortex.md">[PDF]</a></p>
+<p>Emery, N. J., &amp; Clayton, N. S. (2005). Evolution of the avian brain and intelligence. Current Biology, 15(23), R946-R950. <a href="https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/consciousness-without-cortex.md">[PDF]</a> <a href="https://doi.org/10.1016/j.cub.2005.11.029">[DOI]</a></p>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />

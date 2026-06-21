@@ -194,7 +194,7 @@ render_with_liquid: false
 <h2 class="wp-block-heading">Further reading</h2>
 
 
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0960982207014194">Masland, R.H. and Martin, P.R., 2007. The unsolved mystery of vision. <i>Current Biology</i>, <i>17</i>(15), pp.R577-R582.</a></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0960982207014194">Masland, R.H. and Martin, P.R., 2007. The unsolved mystery of vision. <i>Current Biology</i>, <i>17</i>(15), pp.R577-R582.</a> <a href="https://doi.org/10.1016/j.cub.2007.05.040">[DOI]</a></p>
 
 
-<p><a href="https://www.sciencedirect.com/science/article/pii/S096098221300910X">Niell, C.M., 2013. Vision: more than expected in the early visual system. <i>Current biology</i>, <i>23</i>(16), pp.R681-R684.</a></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S096098221300910X">Niell, C.M., 2013. Vision: more than expected in the early visual system. <i>Current biology</i>, <i>23</i>(16), pp.R681-R684.</a> <a href="https://doi.org/10.1016/j.cub.2013.07.049">[DOI]</a></p>

@@ -9,7 +9,7 @@ render_with_liquid: false
 <h2>Preparation for this class</h2>
 Read...
 
-<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0114.1983.tb00207.x">Levine, J., 1983. Materialism and qualia: The explanatory gap. <i>Pacific philosophical quarterly</i>, <i>64</i>(4), pp.354-361.</a>
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0114.1983.tb00207.x">Levine, J., 1983. Materialism and qualia: The explanatory gap. <i>Pacific philosophical quarterly</i>, <i>64</i>(4), pp.354-361.</a> <a href="https://doi.org/10.1111/j.1468-0114.1983.tb00207.x">[DOI]</a>
 
 
 
@@ -37,9 +37,9 @@ Here I will argue to distinguish two different notions of meaning. Suppose we we
 <hr />
 
 <h2>Further reading</h2>
-<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0114.1983.tb00207.x">Levine, J., 1983. Materialism and qualia: The explanatory gap. <i>Pacific philosophical quarterly</i>, <i>64</i>(4), pp.354-361.</a>
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0114.1983.tb00207.x">Levine, J., 1983. Materialism and qualia: The explanatory gap. <i>Pacific philosophical quarterly</i>, <i>64</i>(4), pp.354-361.</a> <a href="https://doi.org/10.1111/j.1468-0114.1983.tb00207.x">[DOI]</a>
 
-<a href="https://www.jstor.org/stable/2183914?casa_token=is2AjhkzQFMAAAAA:ib3oCZYBY6rDP2Qka0ab3K7aN0nj8mxWiVrug_6Q20sabBLD5ktTBhpShTzv1cYEifZBbOyc4QmPc3lPz5HpyWf8TH-JW9Vsyx2u8UptviVdD6DxnRdP&amp;seq=1#metadata_info_tab_contents">Nagel, T., 1974. What is it like to be a bat?. The philosophical review, 83(4), pp.435-450.</a>
+<a href="https://www.jstor.org/stable/2183914?casa_token=is2AjhkzQFMAAAAA:ib3oCZYBY6rDP2Qka0ab3K7aN0nj8mxWiVrug_6Q20sabBLD5ktTBhpShTzv1cYEifZBbOyc4QmPc3lPz5HpyWf8TH-JW9Vsyx2u8UptviVdD6DxnRdP&amp;seq=1#metadata_info_tab_contents">Nagel, T., 1974. What is it like to be a bat?. The philosophical review, 83(4), pp.435-450.</a> <a href="https://doi.org/10.2307/2183914">[DOI]</a>
 
 
 

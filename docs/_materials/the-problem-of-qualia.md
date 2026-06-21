@@ -10,7 +10,7 @@ render_with_liquid: false
 <p>Cognitive neuroscientists "...ought to be able to exploit the conceptual and technical resources of computational research to help find explanations of how neural structures achieve their effects..." (<a href="https://apsc450computationalneuroscience.wordpress.com/mind-as-machine/#FurtherReading">Churchland et al. 1993).</a>    Given the range of effects of neural structures -- reflexes to consciousness -- this is a tall order!</p>
 
 
-<p>While it seems plausible that contemporary neuroscientists are able to explain how, say, the oculomotor system <a href="https://www.sciencedirect.com/topics/neuroscience/oculomotor-system">Publisher</a> manages to control eye position, "we have at present no conception of what an explanation of the physical nature of a mental phenomenon would be." (Thomas Nagel 1974. <em>What is it like to be a bat?</em>)</p>
+<p>While it seems plausible that contemporary neuroscientists are able to explain how, say, the oculomotor system <a href="https://www.sciencedirect.com/topics/neuroscience/oculomotor-system">Publisher</a> manages to control eye position, "we have at present no conception of what an explanation of the physical nature of a mental phenomenon would be." (Thomas Nagel 1974. <em>What is it like to be a bat?</em>) <a href="https://doi.org/10.2307/2183914">[DOI]</a></p>
 
 
 <p>Neuroscientists tend to be monists (as opposed to dualists), which is the philosophical position that the mind and the brain are (somehow) two different sides of the same coin.   We presume that mentality is a property of certain physical systems (such as the brain) that possess a particular (not well-understood) type of <strong>functional organization</strong>.</p>
@@ -36,4 +36,4 @@ render_with_liquid: false
 <h2 class="wp-block-heading">Further reading</h2>
 
 
-<p><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0114.1983.tb00207.x">Levine, J., 1983. Materialism and qualia: The explanatory gap. <i>Pacific philosophical quarterly</i>, <i>64</i>(4), pp.354-361.</a></p>
+<p><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0114.1983.tb00207.x">Levine, J., 1983. Materialism and qualia: The explanatory gap. <i>Pacific philosophical quarterly</i>, <i>64</i>(4), pp.354-361.</a> <a href="https://doi.org/10.1111/j.1468-0114.1983.tb00207.x">[DOI]</a></p>

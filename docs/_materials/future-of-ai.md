@@ -37,7 +37,7 @@ render_with_liquid: false
 
 
 <ul>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S2212683X12000035">Winston, P.H., 2012. The next 50 years: a personal view. <i>Biologically Inspired Cognitive Architectures</i>, <i>1</i>, pp.92-99.</a> <a href="../readings/"> [PDF]</a> <span style="color: var(--color-text)"><span style="color: #ff0000"> </span></span></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S2212683X12000035">Winston, P.H., 2012. The next 50 years: a personal view. <i>Biologically Inspired Cognitive Architectures</i>, <i>1</i>, pp.92-99.</a> <a href="https://doi.org/10.1016/j.bica.2012.03.002">[DOI]</a> <a href="../readings/"> [PDF]</a> <span style="color: var(--color-text)"><span style="color: #ff0000"> </span></span></li>
 </ul>
 
 

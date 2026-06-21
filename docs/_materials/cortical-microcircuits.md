@@ -9,13 +9,13 @@ render_with_liquid: false
 <h2>Preparation for this class</h2>
 Read...
 
-<a href="https://www.jstor.org/stable/24955639?casa_token=ky4fYIgimHIAAAAA:s1XLz5ZNYl7gKVYB2al-q8sJZKUIbpmpeenREordnQDbUz1btJtFZ6hJdG0zlUGKZ8meau6CbefAMdnWmWSWENzcRJAkvYk-c0RBNFOoConbKs0Y372I&amp;seq=1#metadata_info_tab_contents">Shepherd, G.M., 1978. Microcircuits in the nervous system. <i>Scientific American</i>, <i>238</i>(2), pp.92-103.</a>
+<a href="https://www.jstor.org/stable/24955639?casa_token=ky4fYIgimHIAAAAA:s1XLz5ZNYl7gKVYB2al-q8sJZKUIbpmpeenREordnQDbUz1btJtFZ6hJdG0zlUGKZ8meau6CbefAMdnWmWSWENzcRJAkvYk-c0RBNFOoConbKs0Y372I&amp;seq=1#metadata_info_tab_contents">Shepherd, G.M., 1978. Microcircuits in the nervous system. <i>Scientific American</i>, <i>238</i>(2), pp.92-103.</a> <a href="https://doi.org/10.1038/scientificamerican0278-92">[DOI]</a>
 
 Schüz, A. and Wullimann, R.M., 2001. What can the cerebral cortex do better than other parts of the brain?  In <i>Brain evolution and cognition</i> (pp. 491-500).
 
 
 
-<a href="https://www.sciencedirect.com/science/article/pii/S0166223605002110">Grillner, S., Markram, H., De Schutter, E., Silberberg, G. and LeBeau, F.E., 2005. Microcircuits in action–from CPGs to neocortex. <i>Trends in neurosciences</i>, <i>28</i>(10), pp.525-533.</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0166223605002110">Grillner, S., Markram, H., De Schutter, E., Silberberg, G. and LeBeau, F.E., 2005. Microcircuits in action–from CPGs to neocortex. <i>Trends in neurosciences</i>, <i>28</i>(10), pp.525-533.</a> <a href="https://doi.org/10.1016/j.tins.2005.08.003">[DOI]</a>
 <div class="article-topper__hgroup--top">
 <p class="article-topper__title"></p>
 

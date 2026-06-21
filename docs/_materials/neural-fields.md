@@ -9,7 +9,7 @@ render_with_liquid: false
 <h2>Preparation for this class</h2>
 Read...
 
-<a href="https://link.springer.com/chapter/10.1007/978-3-642-54593-1_1">Coombes, S., beim Graben, P. and Potthast, R., 2014. Tutorial on neural field theory. In <i>Neural fields</i> (pp. 1-43). Springer, Berlin, Heidelberg.</a>
+<a href="https://link.springer.com/chapter/10.1007/978-3-642-54593-1_1">Coombes, S., beim Graben, P. and Potthast, R., 2014. Tutorial on neural field theory. In <i>Neural fields</i> (pp. 1-43). Springer, Berlin, Heidelberg.</a> <a href="https://doi.org/10.1007/978-3-642-54593-1_1">[DOI]</a>
 <h2>Summary</h2>
 
 <hr />
