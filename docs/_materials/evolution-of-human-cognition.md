@@ -5,6 +5,8 @@ date: "1970-01-01"
 slug: "evolution-of-human-cognition"
 permalink: "/pages/evolution-of-human-cognition/"
 render_with_liquid: false
+image: "/wp-content/uploads/2020/04/evolutionarycomparativeneurosciencepathwaycladistics-extract-2.jpg"
+image_alt: "Comparative neuroscience cladistics diagram"
 ---
 
 > Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/evolution-of-human-cognition.md). Access requires permission to the private repository.

@@ -5,6 +5,8 @@ date: "1970-01-01"
 slug: "_-sparse-representation"
 permalink: "/pages/_-sparse-representation/"
 render_with_liquid: false
+image: "/wp-content/uploads/2020/03/sparsejen_black_v2.jpg"
+image_alt: "Sparse neural representation diagram"
 ---
 <h2>Preparation for this class</h2>
 Read...

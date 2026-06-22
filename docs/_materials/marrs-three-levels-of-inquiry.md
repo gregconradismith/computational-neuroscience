@@ -5,6 +5,8 @@ date: "1970-01-01"
 slug: "marrs-three-levels-of-inquiry"
 permalink: "/pages/marrs-three-levels-of-inquiry/"
 render_with_liquid: false
+image: "/wp-content/uploads/2019/01/marr3.png"
+image_alt: "Diagram of Marr's three levels of analysis"
 ---
 
 > Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/marrs-three-levels-of-inquiry.md). Access requires permission to the private repository.

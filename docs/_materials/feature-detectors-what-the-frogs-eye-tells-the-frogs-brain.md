@@ -5,6 +5,8 @@ date: "1970-01-01"
 slug: "feature-detectors-what-the-frogs-eye-tells-the-frogs-brain"
 permalink: "/pages/feature-detectors-what-the-frogs-eye-tells-the-frogs-brain/"
 render_with_liquid: false
+image: "/wp-content/uploads/2023/02/dallc2b7e-2023-02-24-10.08.23-what-the-frogs-eye-tells-the-frogs-brain.png"
+image_alt: "Illustration for the frog's eye and feature detection"
 ---
 
 > Private PDFs for this page are available in the [course PDF companion](https://github.com/gregconradismith/computational-neuroscience-private/blob/main/docs/_materials/feature-detectors-what-the-frogs-eye-tells-the-frogs-brain.md). Access requires permission to the private repository.

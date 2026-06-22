@@ -5,6 +5,8 @@ date: "1970-01-01"
 slug: "the-organization-of-the-brain"
 permalink: "/pages/the-organization-of-the-brain/"
 render_with_liquid: false
+image: "/wp-content/uploads/2025/01/figbrainorganization.png"
+image_alt: "Diagram of sensory pathways into the cerebral cortex"
 ---
 
 <h2 class="wp-block-heading">Overview</h2>
