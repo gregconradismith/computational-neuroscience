@@ -53,7 +53,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>As a response to our discussion of the amphibian retina and feature detectors <a href="../feature-detectors-what-the-frogs-eye-tells-the-frogs-brain/">Page</a>, read Genealogy of the “Grandmother Cell <a href="https://apsc450computationalneuroscience.wordpress.com/genealogy-of-the-grandmother-cell/">Publisher</a>” — a short history of neuroscience essay (30 min).</li>
+<li>As a response to our discussion of the amphibian retina and feature detectors <a href="../feature-detectors-what-the-frogs-eye-tells-the-frogs-brain/">Page</a>, read Genealogy of the “Grandmother Cell <a href="../readings/#feature-detectors---what-the-frogs-eye-tells-the-frogs-brain">Readings</a>” — a short history of neuroscience essay (30 min).</li>
 
 
 <li>As continuation of our discussion of "sparse coding," watch the seminar "From Natural Scene Statistics to Models of Neural Coding & Representation" by Bruno Olshausen <a href="https://youtu.be/6O-EE2JC-yA">Video</a> (part 1 only, duration 60 min). This talk was part of a summer school on deep learning and feature detection. The target audience is graduate students studying visual neuroscience and/or computer vision.</li>

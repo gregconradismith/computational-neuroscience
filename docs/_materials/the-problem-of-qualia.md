@@ -7,7 +7,7 @@ permalink: "/pages/the-problem-of-qualia/"
 render_with_liquid: false
 ---
 
-<p>Cognitive neuroscientists "...ought to be able to exploit the conceptual and technical resources of computational research to help find explanations of how neural structures achieve their effects..." (<a href="https://apsc450computationalneuroscience.wordpress.com/mind-as-machine/#FurtherReading">Churchland et al. 1993).</a>    Given the range of effects of neural structures -- reflexes to consciousness -- this is a tall order!</p>
+<p>Cognitive neuroscientists "...ought to be able to exploit the conceptual and technical resources of computational research to help find explanations of how neural structures achieve their effects..." (<a href="../a-kind-of-impalpability-to-this-whole-business/">Churchland et al. 1993).</a>    Given the range of effects of neural structures -- reflexes to consciousness -- this is a tall order!</p>
 
 
 <p>While it seems plausible that contemporary neuroscientists are able to explain how, say, the oculomotor system <a href="https://www.sciencedirect.com/topics/neuroscience/oculomotor-system">Publisher</a> manages to control eye position, "we have at present no conception of what an explanation of the physical nature of a mental phenomenon would be." (Thomas Nagel 1974. <em>What is it like to be a bat?</em>) <a href="https://doi.org/10.2307/2183914">[DOI]</a></p>

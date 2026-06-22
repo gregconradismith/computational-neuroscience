@@ -61,10 +61,10 @@ layout: calendar
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
-<p><strong>Class 11 - <a href="../iteraural-time-difference-coding-and-sound-localization/">Temporal information processing (e.g., interaural time difference coding and sound localizatio</a><a href="https://apsc450computationalneuroscience.wordpress.com/_-iteraural-time-difference-coding-and-sound-localization/">n)</a>.</strong>  </p>
+<p><strong>Class 11 - <a href="../iteraural-time-difference-coding-and-sound-localization/">Temporal information processing (e.g., interaural time difference coding and sound localizatio</a><a href="../iteraural-time-difference-coding-and-sound-localization/">n)</a>.</strong>  </p>
 
 
-<p><b>Class 12 -   </b><a style="font-weight: bold" href="../feature-detectors-what-the-frogs-eye-tells-the-frogs-brain/">Feature detectors – What the frog’s eye tells the frog’s brain</a> and <a style="font-weight: bold" href="https://apsc450computationalneuroscience.wordpress.com/genealogy-of-the-grandmother-cell/">Genealogy of the “grandmother cell"</a></p>
+<p><b>Class 12 -   </b><a style="font-weight: bold" href="../feature-detectors-what-the-frogs-eye-tells-the-frogs-brain/">Feature detectors – What the frog’s eye tells the frog’s brain</a> and <a style="font-weight: bold" href="../readings/#feature-detectors---what-the-frogs-eye-tells-the-frogs-brain">Genealogy of the “grandmother cell"</a></p>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />

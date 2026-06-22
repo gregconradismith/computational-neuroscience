@@ -33,7 +33,7 @@ render_with_liquid: false
 
 ## The problem of qualia
 
-- Cognitive neuroscientists "...ought to be able to exploit the conceptual and technical resources of computational research to help find explanations of how neural structures achieve their effects..." (Churchland et al. 1993). <a href="https://apsc450computationalneuroscience.wordpress.com/mind-as-machine/#FurtherReading">Publisher</a> Given the range of effects of neural structures -- reflexes to consciousness -- this is a tall order!
+- Cognitive neuroscientists "...ought to be able to exploit the conceptual and technical resources of computational research to help find explanations of how neural structures achieve their effects..." (Churchland et al. 1993). <a href="../a-kind-of-impalpability-to-this-whole-business/">Page</a> Given the range of effects of neural structures -- reflexes to consciousness -- this is a tall order!
 - While it seems plausible that contemporary neuroscientists are able to explain how, say, the oculomotor system <a href="https://www.sciencedirect.com/topics/neuroscience/oculomotor-system">Publisher</a> manages to control eye position, "we have at present no conception of what an explanation of the physical nature of a mental phenomenon would be." (Thomas Nagel 1974. <em>What is it like to be a bat?</em>) <a href="https://doi.org/10.2307/2183914">[DOI]</a>
 - Levine, J., 1983. Materialism and qualia: The explanatory gap. <em>Pacific philosophical quarterly</em>, <em>64</em>(4), pp.354-361. <a href="https://doi.org/10.1111/j.1468-0114.1983.tb00207.x">[DOI]</a>
 

@@ -10,7 +10,7 @@ render_with_liquid: false
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
-<p><strong>Thursday January 26 - <span style="color: #000000"><em>First Day of Classes - </em></span><a href="https://apsc450computationalneuroscience.wordpress.com/mind-as-machine/">A kind of impalpability to this whole business</a></strong></p>
+<p><strong>Thursday January 26 - <span style="color: #000000"><em>First Day of Classes - </em></span><a href="../a-kind-of-impalpability-to-this-whole-business/">A kind of impalpability to this whole business</a></strong></p>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
@@ -46,7 +46,7 @@ render_with_liquid: false
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
 
-<p><strong>Tuesday February 21 - <strong><a href="../how-the-brain-keeps-the-eyes-still/">Line attractor network (or how the brain keeps the eyes still)</a></strong><br></strong><br><strong>Thursday February 23 -</strong> <strong><a href="../iteraural-time-difference-coding-and-sound-localization/">Temporal information processing (e.g., interaural time difference coding and sound localizatio</a><a href="https://apsc450computationalneuroscience.wordpress.com/_-iteraural-time-difference-coding-and-sound-localization/">n)</a></strong> (required) and <strong><a href="../evolutionary-trends-in-directional-hearing/">Evolutionary trends in directional hearing</a></strong> (optional)</p>
+<p><strong>Tuesday February 21 - <strong><a href="../how-the-brain-keeps-the-eyes-still/">Line attractor network (or how the brain keeps the eyes still)</a></strong><br></strong><br><strong>Thursday February 23 -</strong> <strong><a href="../iteraural-time-difference-coding-and-sound-localization/">Temporal information processing (e.g., interaural time difference coding and sound localizatio</a><a href="../iteraural-time-difference-coding-and-sound-localization/">n)</a></strong> (required) and <strong><a href="../evolutionary-trends-in-directional-hearing/">Evolutionary trends in directional hearing</a></strong> (optional)</p>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
@@ -55,7 +55,7 @@ render_with_liquid: false
 <p><strong>Tuesday February 28 -</strong> Rescheduled </p>
 
 
-<p><strong>Thursday March  2 - <a href="../feature-detectors-what-the-frogs-eye-tells-the-frogs-brain/">Feature detectors – What the frog’s eye tells the frog’s brain</a></strong> (before class) and <strong><a href="https://apsc450computationalneuroscience.wordpress.com/genealogy-of-the-grandmother-cell/">Genealogy of the “grandmother cell"</a></strong> (after class)</p>
+<p><strong>Thursday March  2 - <a href="../feature-detectors-what-the-frogs-eye-tells-the-frogs-brain/">Feature detectors – What the frog’s eye tells the frog’s brain</a></strong> (before class) and <strong><a href="../readings/#feature-detectors---what-the-frogs-eye-tells-the-frogs-brain">Genealogy of the “grandmother cell"</a></strong> (after class)</p>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />

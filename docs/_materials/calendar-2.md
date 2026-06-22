@@ -6,7 +6,7 @@ slug: "calendar-2"
 permalink: "/pages/calendar-2/"
 render_with_liquid: false
 ---
-<strong>Wednesday January 22 - <span style="color:#000000"><em>First Day of Classes - </em></span><a href="https://apsc450computationalneuroscience.wordpress.com/mind-as-machine/">A kind of impalpability to this whole business</a></strong>
+<strong>Wednesday January 22 - <span style="color:#000000"><em>First Day of Classes - </em></span><a href="../a-kind-of-impalpability-to-this-whole-business/">A kind of impalpability to this whole business</a></strong>
 
 <strong>Friday January 24 - <a href="../the-empty-brain/">Is your brain a computer?</a></strong>
 
@@ -26,7 +26,7 @@ render_with_liquid: false
 <span style="color:#ff0000"><a href="../assignment-1/">Assignment #1 Due</a>  </span>
 </strong>
 
-<strong>Monday February 10 - <a href="https://apsc450computationalneuroscience.wordpress.com/information-and-computation/">Marr's Computational Vision</a> </strong>
+<strong>Monday February 10 - <a href="../marrs-three-levels-of-inquiry/">Marr's Computational Vision</a> </strong>
 
 <strong>Wednesday February 12 -  <a href="../oculomotor-system/">Neural integrators (e.g.,VOR and head direction)</a></strong>
 
@@ -38,7 +38,7 @@ render_with_liquid: false
 
 <strong>Friday February 21 - Snow Day</strong>
 
-<strong>Monday February 24 - <a href="../iteraural-time-difference-coding-and-sound-localization/">Temporal information processing (e.g., interaural time difference coding and sound localizatio</a><a href="https://apsc450computationalneuroscience.wordpress.com/_-iteraural-time-difference-coding-and-sound-localization/">n)</a></strong>
+<strong>Monday February 24 - <a href="../iteraural-time-difference-coding-and-sound-localization/">Temporal information processing (e.g., interaural time difference coding and sound localizatio</a><a href="../iteraural-time-difference-coding-and-sound-localization/">n)</a></strong>
 
 <strong>Wednesday February 26 - <a href="../_-template-2/">How the brain solves object recognition</a></strong>
 
@@ -46,7 +46,7 @@ render_with_liquid: false
 
 <strong>Monday March 2 - Discussion of midterm projects</strong>
 
-<strong>Wednesday March 4 - <a href="https://apsc450computationalneuroscience.wordpress.com/genealogy-of-the-grandmother-cell/">Genealogy of the “grandmother cell"</a></strong>
+<strong>Wednesday March 4 - <a href="../readings/#feature-detectors---what-the-frogs-eye-tells-the-frogs-brain">Genealogy of the “grandmother cell"</a></strong>
 
 <strong>Friday March 6 - No class <span style="color:#ff0000">... Email me your midterm project book choice</span></strong>
 
@@ -113,6 +113,6 @@ render_with_liquid: false
 
 <a href="../cephalopod-brains/">Cephalopod escape and defense</a>
 
-<a href="https://apsc450computationalneuroscience.wordpress.com/_-smell/">Neuroethology of olfaction</a>
+<a href="../olfactory-coding/">Neuroethology of olfaction</a>
 
-<a href="https://apsc450computationalneuroscience.wordpress.com/hippocampal-place-cells/">Hippocampal  place cells</a>
+<a href="../hippocampal-place-cells-2/">Hippocampal  place cells</a>

@@ -9,7 +9,7 @@ render_with_liquid: false
 
 <p style="text-align:right"><strong>Thursday January 17</strong>
 <em>First Day of Classes</em>
-<a href="https://apsc450computationalneuroscience.wordpress.com/mind-as-machine/">A kind of impalpability to this whole business</a></p>
+<a href="../a-kind-of-impalpability-to-this-whole-business/">A kind of impalpability to this whole business</a></p>
 <strong>Tuesday January 22</strong>
 <a href="../_-whats-it-like-to-be-a-bat/">What's It Like to Be a Bat?</a>
 <p style="text-align:right"><strong>Thursday January 24</strong>
@@ -20,7 +20,7 @@ render_with_liquid: false
 <p style="text-align:right"><strong>Thursday January 31
 </strong><a href="../marrs-three-levels-of-inquiry/">Marr's Three Levels of Inquiry</a></p>
 <strong>Tuesday February 5
-</strong><a href="https://apsc450computationalneuroscience.wordpress.com/information-and-computation/">Marr's Computational Vision</a>
+</strong><a href="../marrs-three-levels-of-inquiry/">Marr's Computational Vision</a>
 <p style="text-align:right"><strong>Thursday February 7
 </strong><a href="../information-and-physical-computation/">Information and Physical Computation</a></p>
 <strong>Tuesday February 12
@@ -28,16 +28,16 @@ render_with_liquid: false
 <p style="text-align:right"><strong>Thursday February 14
 </strong><a href="../how-the-brain-keeps-the-eyes-still/">Line attractor networks</a></p>
 <strong>Tuesday February 19
-</strong><a href="https://apsc450computationalneuroscience.wordpress.com/_-iteraural-time-difference-coding-and-sound-localization/">Temporal information processing</a>
-<a href="https://apsc450computationalneuroscience.wordpress.com/_-iteraural-time-difference-coding-and-sound-localization/">(e.g., interaural time difference coding </a>
-<a href="https://apsc450computationalneuroscience.wordpress.com/_-iteraural-time-difference-coding-and-sound-localization/">and sound localization)</a><strong>
+</strong><a href="../iteraural-time-difference-coding-and-sound-localization/">Temporal information processing</a>
+<a href="../iteraural-time-difference-coding-and-sound-localization/">(e.g., interaural time difference coding </a>
+<a href="../iteraural-time-difference-coding-and-sound-localization/">and sound localization)</a><strong>
 </strong>
 <p style="text-align:right"><strong>Thursday February 21
 </strong><a href="../evolutionary-trends-in-directional-hearing/">Evolutionary trends in directional hearing</a></p>
 <strong>Tuesday February 26
 </strong><a href="../_-template-2/">How the brain solves object recognition</a>
 <p style="text-align:right"><strong>Thursday February 28
-</strong><a href="https://apsc450computationalneuroscience.wordpress.com/_-grandmother-cells/">Neural Networks and Grandmother Cells</a></p>
+</strong><a href="../readings/#feature-detectors---what-the-frogs-eye-tells-the-frogs-brain">Neural Networks and Grandmother Cells</a></p>
 <strong>Tuesday March 5</strong>
 Spring Break
 <p style="text-align:right"><strong>Thursday March 7</strong>
@@ -46,7 +46,7 @@ Spring Break</p>
 <span style="color:#ff0000">Octopus reading complete</span>
 </strong>
 <p style="text-align:right"><strong>Thursday March 14
-</strong><a href="https://apsc450computationalneuroscience.wordpress.com/_-smell/">Neuroethology of olfaction</a></p>
+</strong><a href="../olfactory-coding/">Neuroethology of olfaction</a></p>
 <strong>Tuesday March 19
 </strong><a href="../cephalopod-brains/">Cephalopod escape and defense</a><strong>
 </strong><strong><span style="color:#ff0000">Mid term projects due</span></strong>
@@ -63,7 +63,7 @@ Spring Break</p>
 </strong><a href="../breathing-the-prebotc-eupnea-and-sighs/">Guest lecture: Dan Borrus on breathing,</a>
 <a href="../breathing-the-prebotc-eupnea-and-sighs/">the preBötC, eupnea, and sighs.</a>
 <p style="text-align:right"><strong>Thursday April 4
-</strong><a href="https://apsc450computationalneuroscience.wordpress.com/hippocampal-place-cells/">Hippocampal  place cells</a></p>
+</strong><a href="../hippocampal-place-cells-2/">Hippocampal  place cells</a></p>
 <strong>Tuesday April 9
 </strong><a href="../_-chomsky/">Chomsky: language is not learned - part 1</a><strong><span style="color:#ff0000">
 Final project proposals due </span>
@@ -74,11 +74,11 @@ Final project proposals due </span>
 <strong>Tuesday April 16
 </strong><a href="../chomsky-without-language/">Chomsky without language</a>
 <p style="text-align:right"><strong>Thursday April 18
-</strong><a href="https://apsc450computationalneuroscience.wordpress.com/_-theory-of-mind/">Theory of Mind</a></p>
+</strong><a href="../theory-of-mind/">Theory of Mind</a></p>
 <strong>Tuesday April 23
-</strong><a href="https://apsc450computationalneuroscience.wordpress.com/_-future-of-ai/">Artificial Intelligence - part 1</a>
+</strong><a href="../future-of-ai/">Artificial Intelligence - part 1</a>
 <p style="text-align:right"><strong>Thursday April 25
-</strong><a href="https://apsc450computationalneuroscience.wordpress.com/_-future-of-ai/">Artificial Intelligence - part 2</a>
+</strong><a href="../future-of-ai/">Artificial Intelligence - part 2</a>
 <span style="color:#ff0000"><strong>Last Day of Classes</strong></span></p>
 <strong>Tuesday May 7</strong><strong>
 </strong><strong><span style="color:#ff0000">Final projects due</span></strong>

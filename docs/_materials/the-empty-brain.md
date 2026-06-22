@@ -20,7 +20,7 @@ render_with_liquid: false
 
 
 <ul class="wp-block-list">
-<li>If you have not done so already, <strong>enter your email address to subscribe to the course blog</strong> <a href="https://apsc450computationalneuroscience.wordpress.com">Publisher</a> and receive notifications of new posts by email. This is important because posts to the blog are equivalent to in-class announcements.</li>
+<li>If you have not done so already, <strong>bookmark the course site and check it regularly</strong>. This is important because posts to the site are equivalent to in-class announcements.</li>
 </ul>
 
 
@@ -60,7 +60,7 @@ render_with_liquid: false
 
 
 <blockquote class="wp-block-quote">
-<p>The expression “Computational Neuroscience” reflects the possibility of generating theories of brain function in terms of the information-processing properties of structures that make up nervous systems. It implies we ought to be able to exploit the conceptual and technical resources of computational research to help find explanations of how neural structures achieve their effects, what functions are executed by neural structures, and the nature of representation by states of the nervous system. <a href="https://apsc450computationalneuroscience.wordpress.com/mind-as-machine/#FurtherReading">Churchland et al. 1993</a></p>
+<p>The expression “Computational Neuroscience” reflects the possibility of generating theories of brain function in terms of the information-processing properties of structures that make up nervous systems. It implies we ought to be able to exploit the conceptual and technical resources of computational research to help find explanations of how neural structures achieve their effects, what functions are executed by neural structures, and the nature of representation by states of the nervous system. <a href="../a-kind-of-impalpability-to-this-whole-business/">Churchland et al. 1993</a></p>
 </blockquote>
 
 
